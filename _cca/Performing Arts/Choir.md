@@ -35,8 +35,7 @@ Teachers: Ms Pak Xin Yan, Ms Goh Li Lin <br>
 Conductor : Mr Ong Kok Leong<br>
 Pianist: Ms Winnie Tsin
 
-CCA Timing
-----------
+#### CCA Timing
 
 Tuesday : 3.30pm to 5.30pm  
 Thursday : 3.45pm to 5.45pm
