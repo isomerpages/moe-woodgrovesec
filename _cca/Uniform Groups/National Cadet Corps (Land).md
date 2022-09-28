@@ -65,5 +65,4 @@ Mr Gireesh
 
 #### CCA Days and Time:
 
-Monday :&nbsp;3.30pm to 5.30pm<h4 style="text-align:center;">NATIONAL CADET CORP (LAND)</h4>
-<p style="text-align:center;">Est. 2003</p>
+Monday :&nbsp;3.30pm to 5.30pm
