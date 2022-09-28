@@ -48,17 +48,17 @@ To elevate Environmental Science Club members' effort in lifelong learning in en
 
 Click on each link to find out more!
 
-**[Food Security](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/Clubs%20and%20Societies/ESC/Food%20Security.pdf)**
+**[Food Security](/files/Food%20Security.pdf)**
 
-**[Biodiversity](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/Clubs%20and%20Societies/ESC/Biodiversity.pdf)**
+**[Biodiversity](/files/Biodiversity.pdf)**
 
-**[3Rs and Upcycling Projects](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/Clubs%20and%20Societies/ESC/3Rs%20and%20Upcycling.pdf)**
+**[3Rs and Upcycling Projects](/files/3Rs%20and%20Upcycling.pdf)**
 
-**[Water and Energy Conservation](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/Clubs%20and%20Societies/ESC/Water%20Conservation.pdf)**
+**[Water and Energy Conservation](/files/Water%20Conservation.pdf)**
 
-**[Learning Journeys and Events](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/Clubs%20and%20Societies/ESC/Learning%20Journeys%20and%20Events.pdf)**
+**[Learning Journeys and Events](/files/Learning%20Journeys%20and%20Events.pdf)**
 
-**[Competitions](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/Clubs%20and%20Societies/ESC/Competitions.pdf)**
+**[Competitions](/files/Competitions.pdf)**
 
 #### Achievements
 
