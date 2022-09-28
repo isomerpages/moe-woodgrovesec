@@ -54,17 +54,10 @@ Vice Captain :  MOHAMED FIRDAUS BIN MOHAMED IMRAN (3E4)
 
   
 
-![football_4.jpg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Football/football_4.jpg)
+![SSSC North Zone C Division Football Championships 2016](/images/football_4.jpeg)
 
-**SSSC North Zone C Division Football Championships 2016**
 
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
-
-4th place
-
-  
-
-  
+<p style="text-align:center;"> <strong>SSSC North Zone C Division Football Championships 2016</strong><br>4th place</p>  
 
 ![football_10.jpg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Football/football_10.jpg)
 
