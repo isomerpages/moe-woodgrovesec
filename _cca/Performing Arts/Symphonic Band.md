@@ -59,6 +59,42 @@ Thursday : 3.45pm to 5.45pm
 
 ![Symphonic Band](/images/Symphonic%20Band_2.jpg)
 
+#### Student Leaders in CCA
+
+Kan Shi Kym, Kathlyn <br>
+(Band Major / 3E3 / 2020)
+
+  
+
+Ameena Binte Abdul Azia <br>
+(Asst. Band Major / 3E3 / 2020)
+
+  
+
+Diana Nichole Colima Lintag <br>
+(Drum Major / 3E4 / 2020)
+
+#### CCA Highlights
+
+Singapore Youth Festival Arts Presentation 2019 <br>
+Singapore International Band Festival 2018 <br>
+Performance at Istana Open House 2018
+
+#### Achievements
+
+Singapore Youth Festival Arts Presentation 2019 <br>
+Certificate of Accomplishment
+
+  
+
+Singapore International Band Festival 2018 <br>
+Silver
+
+  
+
+Singapore Youth Festival Arts Presentation 2017 <br>
+Certificate of Distinction
+
 <style>  
 img {  
   display: block;  
