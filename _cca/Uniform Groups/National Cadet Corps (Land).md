@@ -21,7 +21,7 @@ WGS NCC was established in 2003. With a rebranding exercise in 2008, establishin
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 384px; height: 186px;" class="ive_eobj_center" alt="PDS.jpg" width="100%" src="https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Uniformed%20Groups/NCC/PDS.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 383px; height: 186px;" class="ive_eobj_center" alt="FSD.jpg" width="100%" src="https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Uniformed%20Groups/NCC/FSD.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 384px; height: 186px;" class="ive_eobj_center" alt="PDS.jpg" width="100%" src="![](/images/PDS.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 383px; height: 186px;" class="ive_eobj_center" alt="FSD.jpg" width="100%" src="![](/images/FSD.jpeg)"></td></tr></tbody></table>
 
 Aside from the participating in activities, competitions and camps organised by Headquarter NCC, our cadets immerse themselves in an array of activities attuned to the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.
 
@@ -29,7 +29,7 @@ Aside from the participating in activities, competitions and camps organised by 
 
   
 
-![Alumnus Haiqal.jpeg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Uniformed%20Groups/NCC/Alumnus%20Haiqal.jpeg)
+![Alumnus Haiqal](/images/Alumnus%20Haiqal.jpeg)
 
   
 
