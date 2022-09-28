@@ -2,4 +2,5 @@ collections:
   our-woodgrove:
     output: true
     order:
+      - Locate Us.md
       - Vision Mission Values.md
