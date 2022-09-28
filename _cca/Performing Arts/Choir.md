@@ -39,3 +39,9 @@ Pianist: Ms Winnie Tsin
 
 Tuesday : 3.30pm to 5.30pm  
 Thursday : 3.45pm to 5.45pm
+
+![Choir](/images/Choir1.jpg)
+
+![Choir](/images/Choir2.jpg)
+
+![](/images/Choir3.jpg)
