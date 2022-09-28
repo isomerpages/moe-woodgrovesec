@@ -78,7 +78,9 @@ img {
 <body><img src="/images/football_10.jpeg" alt="First 11 at one of the home ground match." style="width:80%;">  
   
 </body>
-First 11 at one of the home ground match.</p>
+
+<p style="text-align:center;">First 11 at one of the home ground match.</p>
+
 
 <style>  
 img {  
