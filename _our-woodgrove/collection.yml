@@ -2,6 +2,7 @@ collections:
   our-woodgrove:
     output: true
     order:
+      - Our People   Contact us/School Executive Team.md
       - Our People   Contact us/Form Teachers 2022.md
       - Our People   Contact us/.keep
       - Woodgrove Heritage.md
