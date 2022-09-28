@@ -48,21 +48,9 @@ Vice Captain :  MOHAMED FIRDAUS BIN MOHAMED IMRAN (3E4)
 
 <p style="text-align:center;"> <strong>SSSC North Zone C Division Football Championships 2016</strong><br>4th place</p>
 
-  
+<p style="text-align:center;"><strong>SSSC North Zone B Division Football Championships 2017 (Zonal league)</strong><br>1st place</p>
 
-**SSSC North Zone B Division Football Championships 2017 (Zonal league)**
-
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
-
-1st place
-
-  
-
-**SSSC National B Division Football Championships 2019 (League 2)**
-
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
-
-2nd place
+<p style="text-align:center;"><strong>SSSC National B Division Football Championships 2019 (League 2)</strong><br>2nd place</p>
 
   
 
