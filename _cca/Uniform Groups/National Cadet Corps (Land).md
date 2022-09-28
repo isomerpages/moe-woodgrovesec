@@ -49,12 +49,9 @@ Loyalty to Country, Uprightness, Leadership, Discipline, Commitment &amp; Respon
 
 #### Teachers In Charge
 
-Mr Manson Yip
-
-Mr Mohamad Fariz Tajularus
-
-Mr Isham Ishak
-
+Mr Manson Yip <br>
+Mr Mohamad Fariz Tajularus <br>
+Mr Isham Ishak <br>
 Mr Gireesh
 
 #### Executive Committee
