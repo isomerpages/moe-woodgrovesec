@@ -4,24 +4,15 @@ permalink: /our-curriculum/cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports and Games
 ---
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 368px; height: 276px;" class="ive_eobj_center" alt="IMG_0526 (3).jpg" width="100%" src="![](/images/IMG_0526%20(3).jpeg)"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 184px; height: 276px;" class="ive_eobj_center" alt="Jump 1.jpeg" src="![](/images/Jump%201.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 211px; height: 276px;" class="ive_eobj_center" alt="IMG_2717.JPG" width="100%" src="![](/images/IMG_2717.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 368px; height: 276px;" class="ive_eobj_center" alt="IMG_0526 (3).jpg" width="100%" src="/images/IMG_0526%20(3).jpeg"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 184px; height: 276px;" class="ive_eobj_center" alt="Jump 1.jpeg" src="/images/Jump%201.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 211px; height: 276px;" class="ive_eobj_center" alt="IMG_2717.JPG" width="100%" src="/images/IMG_2717.jpeg"></td></tr></tbody></table>
 
   
 
 The Woodgrove Netball Team was formed in 2015 by teacher Ms Santarina Luo. Although the team is still young, they have been given plenty of opportunities to participate in external competitions and friendly matches. Through experience and hard work under the guidance of their coach, Ms Lin Shuangru and teachers-in-charge, it is hoped that the team will establish themselves as a strong competitor in the near future.
 
-  
+<p style="text-align:center;"> <strong>CCA core values</strong><br>Respect<br>Unity<br>Determination</p>
 
-**CCA core values**
-
-Respect
-
-Unity
-
-Determination
-
-Objectives
-----------
+#### Objectives
 
 *   To develop teamwork and sportsmanship
 *   To provide opportunities for students to participate in competitions
