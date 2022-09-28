@@ -24,17 +24,9 @@ The Woodgrove Netball Team was formed in 2015 by teacher Ms Santarina Luo. Altho
 
   
 
-Achievements
-------------
+#### Achievements
 
-**B-Division North Zone Top 8 Schools 2020**
-
-**C-Division North Zone Top 8 Schools 2018**
-
-**Berita Harian Pilot-Pen Ashaway Youth Games 2018 - Second Runner Up**
-
-  
-
+<p style="text-align:center;"> <strong>B-Division North Zone Top 8 Schools 2020<br>C-Division North Zone Top 8 Schools 2018<br>Berita Harian Pilot-Pen Ashaway Youth Games 2018 - Second Runner Up</strong></p>
   
 
 **The WGSNB players that got selected into the National Age Group and Zonal Age Group Programmes are:**
