@@ -89,10 +89,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/football_league%202%20final.jpeg)" alt="League 2 final versus Guangyang Secondary School" style="width:50%;">  
   
 </body>
 
-League 2 final versus Guangyang Secondary School
-
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">League 2 final versus Guangyang Secondary School</p>
