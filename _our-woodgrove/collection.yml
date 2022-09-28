@@ -1,4 +1,5 @@
 collections:
   our-woodgrove:
     output: true
-    order: []
+    order:
+      - Vision Mission Values.md
