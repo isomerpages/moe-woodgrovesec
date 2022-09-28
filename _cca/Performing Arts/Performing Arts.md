@@ -37,16 +37,13 @@ Mdm Wang Jian
 
 #### CCA Days and Time
 
-Tuesday : 3.30pm to 5.30pm
-
+Tuesday : 3.30pm to 5.30pm <br>
 Thursday : 3.45pm to 5.45pm
 
 #### Student Leaders in CCA
 
-Tan Yong Quan (3E1/2020) Chairperson
-
-Francesca Soh (3E4/2020) Vice Chairperson (Admin)
-
+Tan Yong Quan (3E1/2020) Chairperson <br>
+Francesca Soh (3E4/2020) Vice Chairperson (Admin) <br>
 Pan Yingxi Claire (3N2/2020) Vice Chairperson (Discipline)
 
 ![Student Leaders in CCA](/images/Student%20Leaders%20in%20CCA.jpg)
