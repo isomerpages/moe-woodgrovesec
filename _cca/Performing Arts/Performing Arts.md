@@ -9,3 +9,5 @@ third_nav_title: Performing Arts
 ![Student Leaders in CCA](/images/Student%20Leaders%20in%20CCA.jpg)
 
 ![CCA Highlights](/images/CCA%20Highlights.jpg)
+
+![History and Achievements](/images/History%20and%20Achievements.jpg)
