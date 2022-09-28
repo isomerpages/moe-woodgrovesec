@@ -75,19 +75,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/football_10.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/football_10.jpeg" alt="First 11 at one of the home ground match." style="width:80%;">  
   
 </body>
-
-First 11 at one of the home ground match.
-
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
-
-  
-
-  
-
-![football_league 2 final.jpg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Football/football_league%202%20final.jpg)
+First 11 at one of the home ground match.</p>
 
 <style>  
 img {  
