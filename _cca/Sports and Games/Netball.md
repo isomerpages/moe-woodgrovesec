@@ -10,7 +10,7 @@ third_nav_title: Sports and Games
 
 The Woodgrove Netball Team was formed in 2015 by teacher Ms Santarina Luo. Although the team is still young, they have been given plenty of opportunities to participate in external competitions and friendly matches. Through experience and hard work under the guidance of their coach, Ms Lin Shuangru and teachers-in-charge, it is hoped that the team will establish themselves as a strong competitor in the near future.
 
-<p style="text-align:center;"> <strong>CCA core values</strong><br>Respect<br>Unity<br>Determination</p>
+<p style="text-align:center;"><strong><u>CCA core values</u></strong><br>Respect<br>Unity<br>Determination</p>
 
 #### Objectives
 
