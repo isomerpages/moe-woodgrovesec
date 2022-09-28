@@ -44,4 +44,4 @@ Thursday : 3.45pm to 5.45pm
 
 ![Choir](/images/Choir2.jpg)
 
-![](/images/Choir3.jpg)
+![Choir](/images/Choir3.jpg)
