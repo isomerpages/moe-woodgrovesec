@@ -67,7 +67,6 @@ img {
 
 <p style="text-align:center;"> <strong>SSSC North Zone C Division Football Championships 2016</strong><br>4th place</p>  
 
-![football_10.jpg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Football/football_10.jpg)
 
 <style>  
 img {  
@@ -76,7 +75,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/football_10.jpeg)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
