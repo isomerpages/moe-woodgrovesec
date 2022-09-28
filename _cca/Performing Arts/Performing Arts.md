@@ -31,10 +31,8 @@ Attaining musicality, bridging destinies.
 
 #### Teachers-In-Charge
 
-Mdm Ang Leng Leng
-
-Mdm Sim Hui Kee  
-
+Mdm Ang Leng Leng <br>
+Mdm Sim Hui Kee  <br>
 Mdm Wang Jian
 
 #### CCA Days and Time
