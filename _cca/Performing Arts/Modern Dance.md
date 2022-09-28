@@ -34,10 +34,11 @@ To transform students into passionate dancers and inculcate deep appreciation fo
 
 Our main objective is to build character, teamwork and responsibility in our students. You may or may not be a dancer in primary school but if you want to learn and try it out, we definitely welcome you. "Unlocking the dancer in us" is the theme for 2017, and that's what we aim to do. Also its primary aim is to foster an appreciation and passion for dance as an art form, which in turns develop pupils both physically and aesthetically. We also provide opportunities for students to develop their leadership qualities and interpersonal skills.
 
-Teachers in charge
-------------------
+#### Teachers in charge
 
 ![Modern Dance Teachers in Charge](/images/IMAGE_TEACHERSINCHARGE.jpeg)
+
+<p style="text-align:center;">MDM HERLINA FAZELYANA HAMZAH (IC)<br>MS ANG HUI LING (AIC)<br>MR MUHD KHAIRUL MOKSIN<br>MDM LEE YIN SHIH<br>MDM CHONG FEE KIM</p>
 
 ![Chinese New Year Celebration 2020](/images/Chinese%20New%20Year%20Celebration%202020.jpg)
 
