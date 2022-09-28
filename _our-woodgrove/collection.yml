@@ -2,6 +2,7 @@ collections:
   our-woodgrove:
     output: true
     order:
+      - Our People   Contact us/.keep
       - Woodgrove Heritage.md
       - Yearbook.md
       - Locate Us.md
