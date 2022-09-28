@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniform Groups/National Cadet Corps (Land).md
       - Uniform Groups/National Police Cadet (NPCC).md
       - Uniform Groups/Red Cross Youth.md
       - Uniform Groups/.keep
