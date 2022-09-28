@@ -46,11 +46,7 @@ Vice Captain :  MOHAMED FIRDAUS BIN MOHAMED IMRAN (3E4)
 
 #### Achievements (past 5 years)
 
-**SSSC North Zone C Division Football Championships 2016**
-
-<p style="text-align:center;"> <strong>8 am to 5 pm</strong></p>
-
-4th place
+<p style="text-align:center;"> <strong>SSSC North Zone C Division Football Championships 2016</strong><br>4th place</p>
 
   
 
