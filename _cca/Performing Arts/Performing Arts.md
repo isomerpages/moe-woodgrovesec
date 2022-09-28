@@ -56,15 +56,12 @@ Performance at Silver Generation Office Appreciation Reception
 
 ![CCA Highlights](/images/CCA%20Highlights.jpg)
 
-Achievements
-------------
+#### Achievements
 
-Singapore Youth Festival Arts Presentation 2019
-
+Singapore Youth Festival Arts Presentation 2019 <br>
 Certificate of Distinction
 
-History and Achievements
-------------------------
+#### History and Achievements
 
 Woodgrove Secondary School’s Chinese Orchestra (WGSCO) was established in 2002. Since inception, the CO has participated in the Singapore Youth Festival (SYF) Central Judging five times and the SYF Arts Presentation twice. We have achieved **2 Silver Awards** in 2003 and 2005, **3 Gold Awards** in 2007, 2009 and 2011, **1 Certificate of Accomplishment in 2017**, as well as **3 Certificates of Distinction in 2013** and 2015 and 2019.
 
