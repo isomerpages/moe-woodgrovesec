@@ -20,14 +20,10 @@ Dance as an art has a significant role to play in the holistic education in our 
 
 #### Vision
 
-**D**ynamic in Attitude
-
-**A**im for the Best
-
-**N**urturing talents
-
-**C**aring for One Another
-
+**D**ynamic in Attitude <br>
+**A**im for the Best <br>
+**N**urturing talents <br>
+**C**aring for One Another <br>
 **E**nthusiastic to Learn
 
 #### Mission
