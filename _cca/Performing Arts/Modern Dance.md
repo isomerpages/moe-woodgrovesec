@@ -99,8 +99,20 @@ WGS Modern Dance is also actively engaged in public performances at the **natio
 
 ![Chinese New Year Celebration 2020](/images/Chinese%20New%20Year%20Celebration%202020.jpg)
 
+Annually, a group of students will be chosen to be part of the lion dance team which will lead in bringing in good luck to the school. While another group of dancers will take part in the mass dance that will be presented in the school hall.
+
+#### Events of 2019  
+
+**SYF Arts Presentation 2019**
+
 ![SYF Arts Presentation 2019](/images/IMAGE_SYF_1.jpeg)
 
+The Singapore Youth Festival (SYF) Arts Presentation is a very important biennial event for every Performing Arts group. It is an opportunity for the students to showcase their talents after months of hard work preparing for this benchmarking event.
+
+#### Carnival Opening 2019
+
 ![Carnival Opening 2019](/images/IMAGE_CARNIVAL_3.jpeg)
+
+#### WGS Open House 2019
 
 ![Carnival Opening 2019](/images/IMAGE_OPENHOUSE_2018_3.jpeg)
