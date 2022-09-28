@@ -52,14 +52,33 @@ Vice Captain :  MOHAMED FIRDAUS BIN MOHAMED IMRAN (3E4)
 
 <p style="text-align:center;"><strong>SSSC National B Division Football Championships 2019 (League 2)</strong><br>2nd place</p>
 
+ 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/football_4.jpeg" alt="SSSC North Zone C Division Football Championships 2016" style="width:80%;">  
   
-
-![SSSC North Zone C Division Football Championships 2016](/images/football_4.jpeg)
+</body>
 
 
 <p style="text-align:center;"> <strong>SSSC North Zone C Division Football Championships 2016</strong><br>4th place</p>  
 
 ![football_10.jpg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Football/football_10.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 First 11 at one of the home ground match.
 
@@ -70,6 +89,17 @@ First 11 at one of the home ground match.
   
 
 ![football_league 2 final.jpg](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Football/football_league%202%20final.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 League 2 final versus Guangyang Secondary School
 
