@@ -2,5 +2,6 @@ collections:
   our-woodgrove:
     output: true
     order:
+      - Yearbook.md
       - Locate Us.md
       - Vision Mission Values.md
