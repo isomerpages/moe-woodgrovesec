@@ -89,7 +89,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/football_league%202%20final.jpeg)" alt="League 2 final versus Guangyang Secondary School" style="width:50%;">  
+<body><img src="/images/football_league%202%20final.jpeg" alt="League 2 final versus Guangyang Secondary School" style="width:80%;">  
   
 </body>
 
