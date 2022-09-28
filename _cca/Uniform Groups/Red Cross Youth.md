@@ -60,7 +60,7 @@ Vice Chairperson
 
 #### Achievements
 
-**Director’s Award from RCY HQ (2020)**
+**<u>Director’s Award from RCY HQ (2020)</u>**
 
 Recipient: UMAIRAH RAFHANAH BINTE SAHARUDIN
 
