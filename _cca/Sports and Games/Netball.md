@@ -33,36 +33,29 @@ The Woodgrove Netball Team was formed in 2015 by teacher Ms Santarina Luo. Altho
 
   
 
-1) Felicia Toh (Class 2019 ):
-
-\-U17 Nationals Team 2018
-
+1) Felicia Toh (Class 2019 ): <br>
+\-U17 Nationals Team 2018 <br>
 \-U17 North Zone Team 2018,2019.
 
-  
+  <br>
 
-2) Lim Jingwen (class 2020):
-
-\- U17 North Zone Team 2019
-
+2) Lim Jingwen (class 2020): <br>
+\- U17 North Zone Team 2019 <br>
 \- U14 North Zone Team 2018
 
-  
+  <br>
 
-3) Mavis Goh (Class 2020):
-
+3) Mavis Goh (Class 2020): <br>
 \- U14 North Zone Development Squad 2018
 
-  
+  <br>
 
-4) Diyanah (Class 2020):
-
+4) Diyanah (Class 2020): <br>
 \- U14 North Zone Development Squad 2018
 
-  
+  <br>
 
-5) Elyzza (Class 2020):
-
+5) Elyzza (Class 2020): <br>
 \- U14 North Zone Development Squad 2018
 
   
