@@ -53,15 +53,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/03%20LLP%20ACE%20The%20Place.png)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/03%20LLP%20ACE%20The%20Place.png" alt="Collaboration with community partners – ACE The Place CC" style="width:90%;">  
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
-
-Collaboration with community partners – ACE The Place CC
-
-  
+<p style="text-align:center;">Collaboration with community partners – ACE The Place CC</p>  
 
   
 <style>  
@@ -71,13 +67,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/04%20LLP%20OLJ.jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/04%20LLP%20OLJ.jpeg" alt="Overseas Service-Learning Journey" style="width:90%;">  
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
+<p style="text-align:center;">Overseas Service-Learning Journey</p>
 
-Overseas Service-Learning Journey
+
 
 <style>  
 img {  
@@ -86,16 +82,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/05%20LLP%20WAOC.png)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/05%20LLP%20WAOC.png" alt="We Are One Camp – Secondary One Orientation Camp and Campfire" style="width:90%;">  
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
-
-We Are One Camp – Secondary One Orientation Camp and Campfire
-
-  
-
+<p style="text-align:center;">We Are One Camp – Secondary One Orientation Camp and Campfire</p>
   
 
 <style>  
