@@ -15,6 +15,7 @@ img {
   
 </body>
 
+Racial Harmony Day (RHD) commemoration went a little differently this year. As with the regulations on safety measures, all school based events had to ensure there were no intermingling of students from different classes. Therefore, the team took the commemoration online, led by the Sec 1 to 3 National Education (NE) Ambassadors.
 
 <style>  
 img {  
@@ -26,6 +27,12 @@ img {
 <body><img src="/images/photo%203%20-%20LS%20lesson%20package.jpeg" alt="School Uniform" style="width:60%;">  
   
 </body>
+
+The theme for this year’s RHD is ‘Multicultural Singapore’, aimed to encourage our youth to cultivate strong relationships with diverse individuals and groups, also to inspire them to take ownership of their roles in building a cohesive Singapore.
+
+  
+
+The Sec 3 NE ambassadors started by designing a RHD trivia to kick start the commemoration. Students could scan a QR code to answer a few questions to test their knowledge on the different cultures and religions in Singapore. The students who managed to answer all questions correctly received a prize.
 
 <style>  
 img {  
