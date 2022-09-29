@@ -14,22 +14,18 @@ In addition to developing the skills of play and teamwork, the CCA also develops
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 276px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome.jpg" width="100%" src="![](/images/2019VIA@OldFolksHome.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 235px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome4.jpg" width="100%" src="![](/images/2019VIA@OldFolksHome4.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 276px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome.jpg" width="100%" src="/images/2019VIA@OldFolksHome.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 235px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome4.jpg" width="100%" src="/images/2019VIA@OldFolksHome4.jpeg"></td></tr></tbody></table>
 
-Objectives
-----------
+#### Objectives
+
 
 *   To develop player’s self-confidence &amp; self-esteem.
 *   To promote teamwork &amp; leadership opportunities.
 *   To prepare players for the rigour of competitions.
 *   To provide a positive environment that fosters discipline, dedication, teamwork and sportsmanship.
 
-  
 
-CCA Core Values:
-
-Teamwork. Passion. Hardwork. Family
-
+<p style="text-align:center;"><u>CCA Core Values:</u><br>Teamwork. Passion. Hardwork. Family</p>
   
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 856px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 251.6pt;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000"><b style="margin: 0px; outline: 0px; padding: 0px;">Teachers In Charge<br style="margin: 0px; outline: 0px; padding: 0px;"></b></font></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 252.4pt;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000"><strong style="margin: 0px; outline: 0px; padding: 0px;">Coaches</strong></font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 251.6pt;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Mr Raymond Ng Soon Peng<br style="margin: 0px; outline: 0px; padding: 0px;">Mdm Cherylin Koh<br style="margin: 0px; outline: 0px; padding: 0px;">Mr David Tang<br style="margin: 0px; outline: 0px; padding: 0px;">Mdm Aliza Buang</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 252.4pt;"><br style="margin: 0px; outline: 0px; padding: 0px;"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Boys: Raven Tan<br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;">Girls: Lee Boon Hian</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
