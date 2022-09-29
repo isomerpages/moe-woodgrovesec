@@ -31,3 +31,9 @@ third_nav_title: Sports and Games
 ![](/images/badminton_11.jpg)
 
 ![](/images/badminton_12.jpg)
+
+![](/images/badminton_13.jpg)
+
+![](/images/Umpiring%20Practice_8.jpeg)
+
+![](/images/Umpiring%20Practice_9.jpeg)
