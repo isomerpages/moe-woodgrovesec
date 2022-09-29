@@ -106,7 +106,10 @@ Through the student-initiated VIA projects, they learnt valuable lessons about c
 
 ![Badminton](/images/badminton_13.jpg)
 
-![Badminton](/images/Umpiring%20Practice_8.jpeg)
+#### Objectives
+
+**(In terms of Skills)** <br>
+1)    To learn the umpiring and linesman skills.
 
 <style>  
 img {  
@@ -115,11 +118,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Badminton" style="width:50%;">  
+<body><img src="/images/Umpiring%20Practice_8.jpeg" alt="Badminton" style="width:80%;">  
   
 </body>
-
-![Badminton](/images/Umpiring%20Practice_9.jpeg)
 
 <style>  
 img {  
@@ -128,6 +129,18 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="Badminton" style="width:50%;">  
+<body><img src="/images/Umpiring%20Practice_9.jpeg" alt="Badminton" style="width:80%;">  
   
 </body>
+
+2)    To add value to their badminton skills.
+
+3)    To build their fitness and strengths to prepare for the rigour of competitions
+
+  
+
+**(In terms of Values)**
+
+1)    To inculcate values in the players.
+
+2)    To provide a platform for students to show their leadership qualities in leading the other mates.
