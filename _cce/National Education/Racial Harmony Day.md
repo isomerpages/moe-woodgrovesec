@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/racial%20harmony.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/racial%20harmony.jpg" alt="Racial Harmony Day" style="width:90%;">  
   
 </body>
 
@@ -24,7 +24,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%203%20-%20LS%20lesson%20package.jpeg" alt="School Uniform" style="width:60%;">  
+<body><img src="/images/photo%203%20-%20LS%20lesson%20package.jpeg" alt="Racial Harmony Day" style="width:60%;">  
   
 </body>
 
@@ -41,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%204%20-%20Trivia%20QR%20code.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/photo%204%20-%20Trivia%20QR%20code.jpeg" alt="Racial Harmony Day" style="width:50%;">  
   
 </body>
 
@@ -54,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%205%20-%20sing%20our%20wishes.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/photo%205%20-%20sing%20our%20wishes.jpeg" alt="Racial Harmony Day" style="width:50%;">  
   
 </body>
 
@@ -65,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%206%20-%20give%20from%20the%20heart.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/photo%206%20-%20give%20from%20the%20heart.jpeg" alt="Racial Harmony Day" style="width:50%;">  
   
 </body>
 
@@ -84,7 +84,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%207%20-%20best%20dressed%20class.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/photo%207%20-%20best%20dressed%20class.jpeg" alt="Racial Harmony Day" style="width:50%;">  
   
 </body>
 
@@ -97,7 +97,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%208%20-%20outside%20class.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/photo%208%20-%20outside%20class.jpeg" alt="Racial Harmony Day" style="width:50%;">  
   
 </body>
 
