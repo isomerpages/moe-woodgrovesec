@@ -15,6 +15,14 @@ img {
   
 </body>
 
+#### Vision
+
+To mould players with passion for badminton.
+
+#### Mission
+
+To nurture every player to be a committed team player with good sportsmanship.
+
 
 <style>  
 img {  
