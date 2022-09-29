@@ -4,8 +4,7 @@ permalink: /our-curriculum/cca/sports-and-games/basketball/
 description: ""
 third_nav_title: Sports and Games
 ---
-Basketball (Boys &amp; Girls)
--------------------------
+#### Basketball (Boys &amp; Girls)
 
 The school’s basketball team was formed in 2000. Since 2001, the teams have participated in Zonal Competitions every year and have achieved victory in some of the most intense competitions. In 2019, our B Division girls managed to clinch 3rd place in the National round competition.
 
@@ -15,7 +14,7 @@ In addition to developing the skills of play and teamwork, the CCA also develops
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 276px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome.jpg" width="100%" src="https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Basketball/2019VIA@OldFolksHome.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 235px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome4.jpg" width="100%" src="https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/CCA/Sports%20and%20Games/Basketball/2019VIA@OldFolksHome4.jpg"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 276px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome.jpg" width="100%" src="![](/images/2019VIA@OldFolksHome.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 315px; height: 235px;" class="ive_eobj_center" alt="2019VIA@OldFolksHome4.jpg" width="100%" src="![](/images/2019VIA@OldFolksHome4.jpeg)"></td></tr></tbody></table>
 
 Objectives
 ----------
