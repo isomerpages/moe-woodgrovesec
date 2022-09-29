@@ -133,14 +133,11 @@ img {
   
 </body>
 
-2)    To add value to their badminton skills.
-
+2)    To add value to their badminton skills. <br>
 3)    To build their fitness and strengths to prepare for the rigour of competitions
 
   
 
-**(In terms of Values)**
-
-1)    To inculcate values in the players.
-
+**(In terms of Values)** <br>
+1)    To inculcate values in the players. <br>
 2)    To provide a platform for students to show their leadership qualities in leading the other mates.
