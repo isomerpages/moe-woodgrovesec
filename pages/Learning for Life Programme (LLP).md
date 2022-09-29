@@ -71,17 +71,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/04%20LLP%20OLJ.jpeg)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
 <p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
 
 Overseas Service-Learning Journey
-
-  
-
-  
 
 <style>  
 img {  
@@ -90,7 +86,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/05%20LLP%20WAOC.png)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
@@ -109,7 +105,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/06%20LLP%20SU.png)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
