@@ -101,7 +101,6 @@ You may click [here](/files/CCE%202022%20SOW.pdf) for more information. 
 </tbody>
 </table>
 
-Information for Parents
------------------------
+#### Information for Parents
 
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
