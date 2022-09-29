@@ -98,7 +98,11 @@ Besides developing in terms of knowledge and skills during training and matches,
 
 ![Badminton](/images/badminton_11.jpg)
 
+In 2018, they raised funds for Jamiyah Singapore.
+
 ![Badminton](/images/badminton_12.jpg)
+
+Through the student-initiated VIA projects, they learnt valuable lessons about contributing back meaningfully to the society.
 
 ![Badminton](/images/badminton_13.jpg)
 
