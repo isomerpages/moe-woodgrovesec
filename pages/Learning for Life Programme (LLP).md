@@ -105,10 +105,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/06%20LLP%20SU.png)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/06%20LLP%20SU.png" alt="Student leadership training and programmes" style="width:90%;">  
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
-
-Student leadership training and programmes
+<p style="text-align:center;">Student leadership training and programmes</p>
