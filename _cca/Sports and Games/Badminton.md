@@ -15,7 +15,6 @@ img {
   
 </body>
 
-![](/images/Mission%20Vision.jpeg)
 
 <style>  
 img {  
@@ -24,12 +23,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mission%20Vision.jpeg" alt="Badminton" style="width:90%;">  
   
 </body>
 
-![](/images/Values.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -37,7 +34,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Values.jpeg" alt="Badminton" style="width:90%;">  
   
 </body>
 
