@@ -9,41 +9,83 @@ The Learners and Leaders for Life” is a Community & Youth Leadership (CYL) pro
 
   
 
-(1) Compassionate individuals with the passion to serve
-
-(2) Responsible, disciplined and dynamic learners
-
-(3) Resilient citizens with integrity
-
+(1) Compassionate individuals with the passion to serve <br>
+(2) Responsible, disciplined and dynamic learners <br>
+(3) Resilient citizens with integrity <br>
 (4) Confident, adaptable and innovative individuals prepared for the challenges ahead
 
   
 
   
 
-![01 LLP ILP.png](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Departments/LLP/01%20LLP%20ILP.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
-Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme  
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
+
+
 
   
 
   
 
-![02 LLP Sunlove.png](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Departments/LLP/02%20LLP%20Sunlove.png)Go M.A.D. (Go and make a difference) VIA project at the Sunlove Marsiling Senior Activity Centre
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
+
+Go M.A.D. (Go and make a difference) VIA project at the Sunlove Marsiling Senior Activity Centre
 
   
 
   
 
-![03 LLP ACE The Place.png](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Departments/LLP/03%20LLP%20ACE%20The%20Place.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
 
 Collaboration with community partners – ACE The Place CC
 
   
 
   
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
-![04 LLP OLJ.JPG](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Departments/LLP/04%20LLP%20OLJ.JPG)
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
 
 Overseas Service-Learning Journey
 
@@ -51,7 +93,18 @@ Overseas Service-Learning Journey
 
   
 
-![05 LLP WAOC.png](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Departments/LLP/05%20LLP%20WAOC.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
 
 We Are One Camp – Secondary One Orientation Camp and Campfire
 
@@ -59,6 +112,17 @@ We Are One Camp – Secondary One Orientation Camp and Campfire
 
   
 
-![06 LLP SU.png](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Departments/LLP/06%20LLP%20SU.png)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+  
+</body>
+
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
 
 Student leadership training and programmes
