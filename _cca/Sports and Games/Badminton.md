@@ -4,8 +4,6 @@ permalink: /our-curriculum/cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/badminton.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -13,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/badminton.jpeg" alt="Badminton" style="width:90%;">  
   
 </body>
 
