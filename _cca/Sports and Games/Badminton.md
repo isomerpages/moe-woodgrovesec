@@ -74,17 +74,27 @@ The players were sent to compete with other schools in sports carnivals to give 
 
 ![Badminton](/images/badminton_4.jpg)
 
+In 2015, the school engaged our first badminton coach and WGS Badminton CCA became an all-boys competitive sport with the aim to further develop the players in terms of knowledge, skills and values in badminton. Through the training programme planned, players will be able to value-add in terms of their skills and knowledge and learn more about the sports.
+
 ![Badminton](/images/badminton_5.jpg)
 
 ![Badminton](/images/badminton_6.jpg)
 
+Values were inculcated through the trainings and their interactions with other members from the CCA. Players are taught to be resilient and disciplined while going through the training programmes.
+
 ![Badminton](/images/badminton_7.jpg)
+
+Players are trained to build on their fitness and strength to stay competitive for the National School Games. Players show commitment and passion throughout being part of the CCA.
 
 ![Badminton](/images/badminton_8.jpg)
 
 ![Badminton](/images/badminton_9.jpg)
 
+Every year, the team represented the school in the North Zone Badminton Championship for ‘B’ and ‘C’ Division Boys. The boys gave a good fight every year during the preliminary rounds and achieved victory in some of the matches against other schools.
+
 ![Badminton](/images/badminton_10.jpg)
+
+Besides developing in terms of knowledge and skills during training and matches, the players also contributed to the society through Values-In-Actions. In 2019, they visited Blossom Seeds and organised activities such as folding lanterns and sing-a-long sessions for the elderly residents.
 
 ![Badminton](/images/badminton_11.jpg)
 
