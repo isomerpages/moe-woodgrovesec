@@ -18,12 +18,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Students%20doing%20experiments%20during%20their%20ALP%20lesson.jpg)" alt="Students doing experiments during their ALP lesson." style="width:50%;">  
   
 </body>
 
-Students doing experiments during their ALP lesson.
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+
+<p style="text-align:center;">Students doing experiments during their ALP lesson.</p>
   
 
   
@@ -37,12 +37,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Students%20on%20excursion%20to%20learn%20about%20vertical%20farming.jpg)" alt="Students on excursion to learn about vertical farming." style="width:50%;">  
   
 </body>
 
-Students on excursion to learn about vertical farming.
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Students on excursion to learn about vertical farming.</p>
   
 
 <style>  
@@ -52,12 +51,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Students%20gaining%20insight%20on%20sustainable%20food%20production%20during%20their%20overseas%20trip.jpg)" alt="Students gaining insight on sustainable food production during their overseas trip." style="width:50%;">  
   
 </body>
 
-Students gaining insight on sustainable food production during their overseas trip.
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+
+<p style="text-align:center;">Students gaining insight on sustainable food production during their overseas trip.</p>
   
 
 <style>  
@@ -67,9 +66,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Students%20participating%20and%20doing%20well%20in%20external%20competition.jpg)" alt="Students participating and doing well in external competition" style="width:50%;">  
   
 </body>
 
-Students participating and doing well in external competition
-<p style="text-align:center;">Dental Therapist - Ms Elaine</p>
+<p style="text-align:center;">Students participating and doing well in external competition</p>
