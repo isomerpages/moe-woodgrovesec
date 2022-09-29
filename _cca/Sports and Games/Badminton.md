@@ -21,3 +21,7 @@ third_nav_title: Sports and Games
 ![](/images/badminton_6.jpg)
 
 ![](/images/badminton_7.jpg)
+
+![](/images/badminton_8.jpg)
+
+![](/images/badminton_9.jpg)
