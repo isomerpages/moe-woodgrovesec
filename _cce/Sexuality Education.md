@@ -29,8 +29,8 @@ description: ""
 
 You may click [https://www.moe.gov.sg/programmes/sexuality-education](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
-Overview Of Woodgrove Secondary School’s Sexuality Education Programme For 2022
--------------------------------------------------------------------------------
+#### Overview Of Woodgrove Secondary School’s Sexuality Education Programme For 2022
+
 
 4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.
 
@@ -44,7 +44,7 @@ a.    Science
 
 b.    Character and Citizenship Education (CCE)
 
-**Sexuality Education Lessons**:
+**<u>Sexuality Education Lessons</u>**:
 
   
 
@@ -52,8 +52,8 @@ b.    Character and Citizenship Education (CCE)
 
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-At Woodgrove Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:
--------------------------------------------------------------------------------------------------------------
+#### At Woodgrove Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:
+
 
 ![CCE SOW 2022 Image.PNG](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Curriculum/2022/CCE/CCE%20SOW%202022%20Image.PNG)
 
