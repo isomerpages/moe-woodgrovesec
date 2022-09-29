@@ -36,10 +36,9 @@ In addition to developing the skills of play and teamwork, the CCA also develops
 
   
 
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="BDivBoys2020.jpg" width="100%" src="![](/images/BDivBoys2020.jpeg)"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="BDivGirls2020.jpg" width="100%" src="![](/images/BDivGirls2020.jpeg)"></td></tr></tbody></table>
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="BDivBoys2020.jpg" width="100%" src="/images/BDivBoys2020.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 369px; height: 276px;" class="ive_eobj_center" alt="BDivGirls2020.jpg" width="100%" src="/images/BDivGirls2020.jpeg"></td></tr></tbody></table>
 
-CCA Highlights
---------------
+#### CCA Highlights
 
 **SSSC National B Division Basketball Championships 2019**
 
@@ -47,17 +46,13 @@ CCA Highlights
 
 **SSSC North Zone B Division Basketball Championships 2019**
 
-Latest Achievements
--------------------
+#### Latest Achievements
 
-**SSSC National B Division Basketball Championships 2019**
-
+**SSSC National B Division Basketball Championships 2019** <br>
 Girls: 3rd
 
   
 
-**SSSC North Zone B Division Basketball Championships 2019**
-
-Girls: 2nd
-
+**SSSC North Zone B Division Basketball Championships 2019** <br>
+Girls: 2nd <br>
 Boys: 4th
