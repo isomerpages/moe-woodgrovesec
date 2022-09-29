@@ -84,7 +84,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/photo%207%20-%20best%20dressed%20class.jpeg" alt="Racial Harmony Day" style="width:50%;">  
+<body><img src="/images/photo%207%20-%20best%20dressed%20class.jpeg" alt="Racial Harmony Day" style="width:70%;">  
   
 </body>
 
