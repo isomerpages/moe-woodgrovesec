@@ -45,6 +45,8 @@ img {
   
 </body>
 
+The lower sec NE ambassadors created a montage video singing along to “Sing our Wishes”, decked in various ethnic costumes. The song was released in 2015 for SG50.
+
 <style>  
 img {  
   display: block;  
@@ -67,6 +69,13 @@ img {
   
 </body>
 
+Both the upper and lower secondary lessons included class based discussions on RHD topics like dealing with casual racism and promoting tolerance and interactions within our society. Students also had the opportunity to see how volunteers stepped up in helping those affected by the pandemic, regardless of their race and religion.
+
+  
+
+Students came to school in a myriad of ethnic costumes to parade our society’s rich diversity.
+
+The “Best Dressed Class” (1T1, 2N2, 3N1 & 4T1) from each level were judged based on the participation rate and diversity of ethnic costumes within the class.
 
 <style>  
 img {  
@@ -79,6 +88,8 @@ img {
   
 </body>
 
+Every class also awarded one student who received the “Best Dressed Student”, should they come to school donning an outfit from another culture.
+
 <style>  
 img {  
   display: block;  
@@ -89,3 +100,5 @@ img {
 <body><img src="/images/photo%208%20-%20outside%20class.jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
+
+We hope that the students still had a meaningful RHD experience despite the new normal.
