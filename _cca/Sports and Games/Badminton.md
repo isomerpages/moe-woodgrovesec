@@ -64,31 +64,35 @@ img {
   
 </body>
 
-![](/images/badminton_2.jpg)
+Woodgrove Secondary School (WGS) Badminton started off as a recreational CCA for both boys and girls, with or without prior experience in badminton. The focus was to develop some knowledge and skills in badminton, build interest in the sports and to promote a healthy lifestyle.
 
-![](/images/badminton_3.jpg)
+![Badminton](/images/badminton_2.jpg)
 
-![](/images/badminton_4.jpg)
+The players were sent to compete with other schools in sports carnivals to give opportunities to them to apply what they have learnt. Players gain more experience through such events.
 
-![](/images/badminton_5.jpg)
+![Badminton](/images/badminton_3.jpg)
 
-![](/images/badminton_6.jpg)
+![Badminton](/images/badminton_4.jpg)
 
-![](/images/badminton_7.jpg)
+![Badminton](/images/badminton_5.jpg)
 
-![](/images/badminton_8.jpg)
+![Badminton](/images/badminton_6.jpg)
 
-![](/images/badminton_9.jpg)
+![Badminton](/images/badminton_7.jpg)
 
-![](/images/badminton_10.jpg)
+![Badminton](/images/badminton_8.jpg)
 
-![](/images/badminton_11.jpg)
+![Badminton](/images/badminton_9.jpg)
 
-![](/images/badminton_12.jpg)
+![Badminton](/images/badminton_10.jpg)
 
-![](/images/badminton_13.jpg)
+![Badminton](/images/badminton_11.jpg)
 
-![](/images/Umpiring%20Practice_8.jpeg)
+![Badminton](/images/badminton_12.jpg)
+
+![Badminton](/images/badminton_13.jpg)
+
+![Badminton](/images/Umpiring%20Practice_8.jpeg)
 
 <style>  
 img {  
@@ -97,11 +101,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="Badminton" style="width:50%;">  
   
 </body>
 
-![](/images/Umpiring%20Practice_9.jpeg)
+![Badminton](/images/Umpiring%20Practice_9.jpeg)
 
 <style>  
 img {  
@@ -110,6 +114,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/school%20uniform.jpg" alt="Badminton" style="width:50%;">  
   
 </body>
