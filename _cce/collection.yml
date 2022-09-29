@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - National Education/Racial Harmony Day.md
       - National Education/National Day 2020.md
       - National Education/.keep
       - Sexuality Education.md
