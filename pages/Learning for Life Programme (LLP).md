@@ -25,17 +25,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/01%20LLP%20ILP.png)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
 <p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
 
-
-
-  
-
-  
 
 <style>  
 img {  
@@ -44,16 +39,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/02%20LLP%20Sunlove.png)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
-
-Go M.A.D. (Go and make a difference) VIA project at the Sunlove Marsiling Senior Activity Centre
-
-  
-
+<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project at the Sunlove Marsiling Senior Activity Centre</p>
   
 
 <style>  
