@@ -48,9 +48,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2020%20Total%20Defence%20Day%20Commemoration_1.jpg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/2020%20Total%20Defence%20Day%20Commemoration_1.jpg" alt="2020 Total Defence Day Commemoration" style="width:85%;">  
   
 </body>
+
+Meanwhile, the upper secondary lesson package centres on raising students’ awareness towards the potential effects of their actions to Singapore’s defences. Students were observed to be fully engaged in the lesson and activities.
 
 <style>  
 img {  
@@ -59,6 +61,18 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/2020%20Total%20Defence%20Day%20Commemoration_2.jpg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/2020%20Total%20Defence%20Day%20Commemoration_2.jpg" alt="2020 Total Defence Day Commemoration" style="width:85%;">  
   
 </body>
+
+On Friday, 14 February 2020, students viewed video of TDD message from Minister of Defence, Dr Ng Eng Hen in their respective classrooms after singing National Anthem and Pledge Taking. This was followed by a compilation video of Secondary Three TDD Song Rendition where the top three winning classes were revealed. Prizes were also distributed to the winning class.
+
+  
+
+Simultaneously, both the old and new versions of TD song, ‘There’s A Part For Everyone’ were played on the school’s PA system every morning before the assembly and numerous TDD videos were also downloaded and screened on TV Messaging System throughout Week 6.
+
+#### Secondary Three Total Defence Song Rendition Competition
+
+First Place – 3T1 <br>
+Second Place – 3E1 <br>
+Third Place – 3E3
