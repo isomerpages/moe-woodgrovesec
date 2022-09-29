@@ -35,6 +35,24 @@ img {
   
 </body>
 
+#### Motto
+
+One Team One Dream
+
+#### Values
+
+CORE: <br>
+Good Sportsmanship <br>
+Teamwork <br>
+Resilience
+
+  
+Grace <br>
+Disciplined <br>
+Committed <br>
+Fair Play <br>
+Focus
+
 <style>  
 img {  
   display: block;  
