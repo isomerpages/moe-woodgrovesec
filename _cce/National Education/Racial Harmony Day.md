@@ -4,7 +4,6 @@ permalink: /our-curriculum/character-and-citizenship-education-cce/national-educ
 description: ""
 third_nav_title: National Education
 ---
-![](/images/racial%20harmony.jpg)
 <style>  
 img {  
   display: block;  
@@ -12,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/racial%20harmony.jpg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
