@@ -55,7 +55,7 @@ b.    Character and Citizenship Education (CCE)
 #### At Woodgrove Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:
 
 
-![CCE SOW 2022 Image.PNG](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Curriculum/2022/CCE/CCE%20SOW%202022%20Image.PNG)
+![](/images/CCE%20SOW%202022%20Image.png)
 
   
 You may click [here](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Curriculum/2022/CCE/CCE%202022%20SOW.pdf) for more information.   
