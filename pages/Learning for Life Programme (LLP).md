@@ -25,7 +25,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/01%20LLP%20ILP.png)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/01%20LLP%20ILP.png" alt="School Uniform" style="width:90%;">  
   
 </body>
 
@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/02%20LLP%20Sunlove.png)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/02%20LLP%20Sunlove.png" alt="School Uniform" style="width:90%;">  
   
 </body>
 
@@ -53,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/03%20LLP%20ACE%20The%20Place.png)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
