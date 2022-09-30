@@ -71,3 +71,16 @@ img {
 <body><img src="![](/images/PE16.jpeg)" alt="Sports Enrichment Programme" style="width:50%;">  
   
 </body>
+
+#### Our Team
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/PE17.jpeg)" alt="Our Team" style="width:50%;">  
+  
+</body>
