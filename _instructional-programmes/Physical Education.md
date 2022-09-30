@@ -54,3 +54,9 @@ The objectives are to encourage an active healthy lifestyle that improves the we
 During our 7th Annual Cross Country Run at the Woodlands Waterfront, the whole school, consisting of the staff, students and partners (PSG & Alumni), completed the 3km route exhibiting much determination and grit. Everyone was in high spirits and there was much camaraderie shown as racers encouraged each other to cross the finish line in style. It certainly created a shared experience with fond memories for all the participants.
 
 ![WGS X-Country Run](/images/WGS%20X-Country%20Run.jpg)
+
+#### Sports Enrichment Programme
+
+In line with the school’s effort to promote a sporting culture among our students, the school also organised the Sports Education Programme (SEP) for all Secondary 1 to 3 students. The students participated in air rifle, golf, bowling, archery tag, darts, and trampoline.
+
+![Sports Enrichment Programme](/images/Sports%20Enrichment%20Programme.jpg)
