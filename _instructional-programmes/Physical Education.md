@@ -38,3 +38,19 @@ Sec 3: Frisbee / Road Relay <br>
 Sec 4/5: Mini Tennis / Road Relay
 
 ![ACES Day](/images/ACES%20Day.jpg)
+
+#### Sec 3 Camp
+
+The school organised a 3 day/2 night Adventure Leadership Camp for the Secondary 3 students at Camp Challenge in Home Team NS. This is in line with our mission of shaping character and igniting passion. The students had a chance to practise outdoor education skills learnt during their physical education lessons. They also bonded with their teachers and classmates through team building activities. The highlights of the camp were team building activities and the campfire night!
+
+![Sec 3 Camp](/images/Sec%203%20Camp.jpg)
+
+#### WGS X-Country Run
+
+The objectives are to encourage an active healthy lifestyle that improves the well-being and health of the student and to create a shared experience for him/her while participating together with his/her fellow class and school mates.  
+
+  
+
+During our 7th Annual Cross Country Run at the Woodlands Waterfront, the whole school, consisting of the staff, students and partners (PSG & Alumni), completed the 3km route exhibiting much determination and grit. Everyone was in high spirits and there was much camaraderie shown as racers encouraged each other to cross the finish line in style. It certainly created a shared experience with fond memories for all the participants.
+
+![WGS X-Country Run](/images/WGS%20X-Country%20Run.jpg)
