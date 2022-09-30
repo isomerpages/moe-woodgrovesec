@@ -60,3 +60,14 @@ During our 7th Annual Cross Country Run at the Woodlands Waterfront, the whole 
 In line with the school’s effort to promote a sporting culture among our students, the school also organised the Sports Education Programme (SEP) for all Secondary 1 to 3 students. The students participated in air rifle, golf, bowling, archery tag, darts, and trampoline.
 
 ![Sports Enrichment Programme](/images/Sports%20Enrichment%20Programme.jpg)
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/PE16.jpeg)" alt="Sports Enrichment Programme" style="width:50%;">  
+  
+</body>
