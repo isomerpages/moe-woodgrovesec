@@ -24,3 +24,5 @@ img {
 </body>
 
 ![Learning Journey to NUS Science Demonstration Lab](/images/Learning%20Journey%20to%20NUS%20Science%20Demonstration%20Lab.jpg)
+
+![Secondary 2 Science Trails @ Singapore Science Centre](/images/Secondary%202%20Science%20Trails%20@%20Singapore%20Science%20Centre.jpg)
