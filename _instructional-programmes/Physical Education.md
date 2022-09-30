@@ -5,8 +5,7 @@ description: ""
 ---
 ![Physical Education](/images/PE11111.jpeg)
 
-Mission
--------
+#### Mission
 
 <p style="text-align:center;">We seek to equip students with<br>Skills<br>Knowledge<br>Attitudes<br>in sports to pursue a healthy lifestyle.</p>
 
@@ -20,8 +19,7 @@ Mission
 
   
 
-**Highlights of our programmes include:**
-
+**Highlights of our programmes include:** <br>
 *   WGS X-Country Run
 *   Inter-class Sports Challenge
 *   Sports Enrichment Programme
@@ -31,15 +29,12 @@ Mission
 
   
 
-ACES Day
---------
+#### ACES Day
 
-Our school held ACES Day also known as ‘All Children Exercise Simultaneously’ Day to promote a healthy lifestyle and the spirit of teamwork through many sports activities such as:
-
-Sec 1: Badminton / Amazing Race
-
-Sec 2: Floorball / Amazing Race
-
-Sec 3: Frisbee / Road Relay
-
+Our school held ACES Day also known as ‘All Children Exercise Simultaneously’ Day to promote a healthy lifestyle and the spirit of teamwork through many sports activities such as: <br>
+Sec 1: Badminton / Amazing Race <br>
+Sec 2: Floorball / Amazing Race <br>
+Sec 3: Frisbee / Road Relay <br>
 Sec 4/5: Mini Tennis / Road Relay
+
+![ACES Day](/images/ACES%20Day.jpg)
