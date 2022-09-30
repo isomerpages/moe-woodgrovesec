@@ -68,7 +68,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:50%;" alt="Sports Enrichment Programme" src="![](/images/PE16.jpeg)">  
+<img style="width:50%;" alt="Sports Enrichment Programme" src="/images/PE16.jpeg">  
   
 
 
