@@ -22,3 +22,5 @@ img {
 <body><img src="![](/images/3IN%20talk.jpeg)" alt="IN3 (Inspire, Innovate, Inquire) Science Talk 2019" style="width:50%;">  
   
 </body>
+
+![Learning Journey to NUS Science Demonstration Lab](/images/Learning%20Journey%20to%20NUS%20Science%20Demonstration%20Lab.jpg)
