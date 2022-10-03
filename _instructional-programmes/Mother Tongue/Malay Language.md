@@ -33,6 +33,54 @@ img {
   
 </body>
 
+#### Usulan-usulan Unit Bahasa Melayu WGS
+
+  
+
+**1\. Cendekia Bahasa E/NA/NT**
+
+Cedekia Bahasa merupakan kompilasi nota yang merangkumi kesemua aspek peperiksaan (Kertas 1, 2 & 3). Cendekia Bahasa dihasilkan khas oleh guru-guru Bahasa Melayu Sekolah Menengah Woodgrove dengan tujuan untuk meningkatkan kemahiran pelajar dalam Bahasa Melayu. Cendekia Bahasa akan dikemas kini setiap tahun agar kekal relevan.
+
+  
+
+  
+
+**2\. SUKSES & BESTARI**
+
+Buku ulang kaji SUKSES dan BESTARI merupakan kompilasi kertas peperiksaan untuk menyediakan pelajar sebelum peperiksaan. Sukses & Bestari khusus untuk pelajar-pelajar Menengah Atasan sahaja.
+
+  
+
+  
+
+**3\. ML Bridging Programme**
+
+ML Bridging Programme dikhususkan khas untuk pelajar-pelajar Menengah Satu. Program yang berlangsung sepanjang satu semester ini bertujuan untuk membantu pelajar-pelajar Menengah Satu merapatkan jurang kemahiran berbahasa Melayu di sekolah rendah dan sekolah menengah.
+
+  
+
+  
+
+**4\. Coretan Aksara**
+
+Coretan Aksara merupakan kompilsai bahan-bahan bacaan yang dikumpulkan khas untuk pelajar.
+
+  
+
+  
+
+**5\. Pakej Sembang Spontan**
+
+Pakej Sembang Spontan merupakan kompilasi bahan-bahan lisan berdasarkan topik yang terdapat dalam buku teks.
+
+  
+
+  
+
+**6\. Drama Dalam Pendidikan untuk Para Pelajar Menengah 3**
+
+Bengkel ini diadakan sejak 2019 untuk menghasilkan para pelajar yang berkeyakinan serta berminda kreatif dalam mengasah kemahiran interaksi lisan. Program sepanjang 12 sesi memberikan peluang bagi pelajar keluar dari norma pembelajaran di dalam kelas. Pada akhir sesi, para pelajar berpeluang untuk mementaskan hasil karya mereka.
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpg0K3MAYP2yf5QDqutcWjbSkPsSfiTDf0yNuX_s-22QslKzcpfDwu_oUpS4irZVmfYu36A_QJqqy1/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSppk6Aahs5KNySeMJuibDWHWy2Aa7-ngaOvP88CNvBr7F4V8bkPEHTEDPxs11GZVHkFJgx_91yjjOz/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
