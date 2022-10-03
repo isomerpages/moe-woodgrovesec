@@ -18,7 +18,20 @@ third_nav_title: Mother Tongue
 <img src="/images/Malay%20Language%20Unit.jpeg"  
 style="width:40%">
 
-![](/images/PELAYARAN%20ILMU.jpeg)
+#### MISI
+
+Setiap pelajar bertanggungjawab melestarikan bahasa Melayu dan menghargai warisan budaya kita.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/PELAYARAN%20ILMU.jpeg" alt="School Uniform" style="width:50%;">  
+  
+</body>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpg0K3MAYP2yf5QDqutcWjbSkPsSfiTDf0yNuX_s-22QslKzcpfDwu_oUpS4irZVmfYu36A_QJqqy1/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
