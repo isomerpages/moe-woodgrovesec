@@ -46,6 +46,8 @@ img {
   
 </body>
 
+The department plans for various activities to provide opportunities for students to see Mathematics in real-life. For the Secondary Ones, a Math Trail is conducted with two objectives in mind. First, to get to know the school compound and second, to get to see the application of Math in daily lives. In addition, the students will get to interact with staff like the school librarian to find out the required information to answer the questions in the trail.
+
 <style>  
 img {  
   display: block;  
@@ -53,9 +55,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Sec%201%20Trail%202020%20(1).jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Sec%201%20Trail%202020%20(1).jpeg" alt="School Uniform" style="width:80%;">  
   
 </body>
+
+For the Secondary Twos, the department brings them to places like Changi Airport/ Vivocity/ Sports Hub to see more application of Math around them. During the trail, they will be introduced to different ICT tools, such as a digital clinometer, to aid them in solving the problems. They would also have the opportunity to see real time information like the exchange rates at Currency Exchange counters. These experiences are planned to help them realise the link of what is being covered in their curriculum to daily lives.
 
 <style>  
 img {  
@@ -68,6 +72,8 @@ img {
   
 </body>
 
+For the Secondary Two students who are more advanced in Mathematics and passionate about the subject, the department provides them with the platform to reach out to Primary Six pupils from Siling Primary School who need additional help in mastering Mathematical concepts and skills. This allows our student-tutors to develop a greater interest and love for Mathematics and also develop their leadership skills and confidence.
+
 <style>  
 img {  
   display: block;  
@@ -75,6 +81,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Siling%20Peer%20Tutoring%20(1).jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Siling%20Peer%20Tutoring%20(1).jpeg" alt="School Uniform" style="width:80%;">  
   
 </body>
+
+To stretch students further, platforms such as the ICAS Competition, Australian Math Competition, Normal Course Competition are available too.
+
+  
+
+Last but not the least, we hope to provide students the opportunity to learn at their own pace and be self-directed in their learning through the use of the Student Learning Space (SLS) and other suitable platforms.
