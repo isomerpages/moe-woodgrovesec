@@ -4,4 +4,8 @@ links:
     collection: our-woodgrove
   - title: Our Curriculum
     url: /our-curriculum/instructional-programmes-ip/craft-and-technology/
-    sublinks: []
+    sublinks:
+      - title: Instructional Programmes (IP)
+        url: /our-curriculum/instructional-programmes-ip/craft-and-technology/
+      - title: CCE
+        url: /our-curriculum/cce/national-education/2020-total-defence-day-commemoration/
