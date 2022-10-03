@@ -66,5 +66,23 @@ Food & Consumer Education (FCE) subject is compulsory for all lower secondary st
 
 For upper secondary, Food & Nutrition (F&N) is offered as an elective subject for upper secondary students \[Express and Normal (Academic)\]. Students are assessed mainly through practical sessions, projects and written examination. When taking national examination, students would have to complete their coursework within a given period of time and sit for a written examination in Oct/Nov period.
 
+#### **Music**
+
 <img src="/images/Music_student.jpeg"  
 style="width:70%">
+
+1\. General Music Programme (Lower Secondary)
+
+The General Music Programme (GMP) is a compulsory subject taken by all lower secondary students. Through the programme, students will receive opportunities to develop the necessary fundamental skills and techniques needed to compose, listen, and perform music. In addition, students will explore world music, and learn to appreciate how music is meaningful and purposeful in any cultural setting.
+
+  
+
+2\. MEP (Music Elective Programme – Secondary 1-4)
+
+The MEP enables students with musical abilities to undertake an enriched 4-year music programme to stretch their talents and develop them to be future leaders in music. Students in the Express course can apply for the Music Elective Programme through our school. Upon successful application, students will take weekly music lessons at other secondary schools / music centres.
+
+  
+
+3\. ‘O’ Level Music (Upper Secondary)
+
+Students who have attained ABRSM Music Grade 4 or above (in any instrument) for both Theory and Practical are eligible to apply for the ‘O’ Level Music course through the school. Upon successful application, upper secondary ‘O’ level Music students will take weekly music lessons at other secondary schools / music centres.
