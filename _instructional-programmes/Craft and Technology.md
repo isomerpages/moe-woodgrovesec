@@ -27,3 +27,17 @@ To nurture creativity and develop perseverance in Woodgrover.
 #### Department
 
 The craft & Technology department consists of four subjects: Design & Technology, Visual Art, Nutrition & Food Science and Music. Students learn various skills such as making, cooking, playing musical instrument and art making. They also learn project management skills, creativity and empathy. Students are also send for learning journeys, workshops, community projects and competitions to enhance their learning experiences.
+
+##### **Design & Technology (D&T)**
+  
+<img src="/images/D_T_student.jpeg"  
+style="width:70%">
+
+<img src="/images/Art_student.jpeg"  
+style="width:70%">
+
+<img src="/images/NFS_student.jpeg"  
+style="width:70%">
+
+<img src="/images/Music_student.jpeg"  
+style="width:70%">
