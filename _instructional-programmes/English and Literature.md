@@ -54,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Literature%20Trail.jpg)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
@@ -65,7 +65,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="![](/images/Theatre%20Excursion.jpeg)" alt="School Uniform" style="width:50%;">  
   
 </body>
 
