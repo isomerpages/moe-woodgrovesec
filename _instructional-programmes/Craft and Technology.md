@@ -15,3 +15,15 @@ img {
 </body>
 
 <p style="text-align:center;"> <strong>Surfacing Creative Talents of Woodgrovers</strong></p>
+
+#### Vision
+
+A cohesive department that continuously strives for excellence.
+
+#### Mission
+
+To nurture creativity and develop perseverance in Woodgrover.
+
+#### Department
+
+The craft & Technology department consists of four subjects: Design & Technology, Visual Art, Nutrition & Food Science and Music. Students learn various skills such as making, cooking, playing musical instrument and art making. They also learn project management skills, creativity and empathy. Students are also send for learning journeys, workshops, community projects and competitions to enhance their learning experiences.
