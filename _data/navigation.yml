@@ -2,3 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our Woodgrove
     collection: our-woodgrove
+  - title: Our Curriculum
+    url: /our-curriculum/instructional-programmes-ip/craft-and-technology/
+    sublinks: []
