@@ -92,9 +92,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/National%20Schools%20Literature%20Festival.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/National%20Schools%20Literature%20Festival.jpg" alt="School Uniform" style="width:70%;">  
   
 </body>
+
+#### Literature Trail
+
+Students embark on a Literature Trail on Singapore Poetry to discover how poetry can illuminate various perspectives about Singapore and her development through various poems like Merlion by Darren Shiau and Placenames by Boey Kim Cheng. Students visit various locations around Singapore and engage in a different activity at each location. Students analyse a variety of poems, present their ideas to their friends and even conduct research about the locations. The trail enables students to cultivate a deeper sense of understanding and belonging to Singapore. The presentations also challenge students to venture beyond their comfort zones and cultivate confidence in expressing their analyses and views. Students also learn to appreciate the value of learning from one another during their friends’ presentations.
 
 <style>  
 img {  
@@ -103,9 +107,13 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Literature%20Trail.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Literature%20Trail.jpg" alt="School Uniform" style="width:70%;">  
   
 </body>
+
+#### Theatre Excursions
+
+Our Secondary Three Literature students watch theatre performances each year which allow them to learn about the workings of theatre and drama as a genre in Literature. Through the plays, students became more aware about the issues in today’s world and learn about the complexities of the human condition. Post-show dialogues allow students to deepen their understanding of the plays and share their perspectives.
 
 <style>  
 img {  
@@ -114,17 +122,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Theatre%20Excursion.jpeg" alt="School Uniform" style="width:50%;">  
-  
-</body>
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Theatre%20Excursion.jpeg" alt="School Uniform" style="width:70%;">  
   
 </body>
