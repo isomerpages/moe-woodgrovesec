@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /our-curriculum/instructional-programmes-ip/mathematics/
 description: ""
 ---
-
 <style>  
 img {  
   display: block;  
@@ -15,6 +14,17 @@ img {
   
 </body>
 
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/mathematics_modelling.jpg" alt="School Uniform" style="width:90%;">  
+  
+</body>
 
 <style>  
 img {  
