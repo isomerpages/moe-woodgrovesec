@@ -37,8 +37,7 @@ img {
   
 </body>
 
-Words Go Round
---------------
+#### Words Go Round
 
 In conjunction with the Singapore Writers Festival, talks are organised for all Secondary One students. In 2019, a talk titled, “What Makes a Good Story”, was given by Mr Kenneth Kwek, a local author and screenwriter who recently published a children’s book, “Timothy and the Phubbers’.  
 
@@ -57,9 +56,34 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Words%20Go%20Round%20Talk%20by%20Mr%20Kenneth%20Kwek.jpeg" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Words%20Go%20Round%20Talk%20by%20Mr%20Kenneth%20Kwek.jpeg" alt="School Uniform" style="width:70%;">  
   
 </body>
+
+#### Commonwealth Essay Writing Competition
+
+
+To hone their writing skills about topics that are relevant to the world today as well as to further develop critical and creative thinking skills, students are encouraged to participate in the Commonwealth Essay Competition to express their views, ideas and stories about global issues in various written forms.  
+
+  
+
+The theme for 2019 was “A Connected Commonwealth”. It focussed on the different ways cultural, technological and environmental connections could be used by everyone across the globe to provide for positive change across the Commonwealth. The competition was well received by Woodgrovers.
+
+  
+
+Congratulations to Julia Thet Mon Soe from 3E1, whose poem, ‘At All Costs’, was selected as one of the Gold Award Finalists in 2019! Her poem can be found here.
+
+  
+
+[At All Costs by Julia 3E1.pdf](/files/At%20All%20Costs%20by%20Julia%203E1.pdf)
+
+#### Choral Reading in Literature
+
+Choral reading allows students to experience the art of performative literature. Through choral reading, students are given the opportunity to explore how words can be expressed in various tones, and used to create atmosphere. Students also cultivate the value of teamwork as they coordinate the various elements and discuss how best to present their choral reading piece. Through this activity, they also uncover the complex relationships and feelings of the various characters from poems they study. As such, students also cultivate the value of empathy, as they are required to explore various perspectives and understand the themes in the poems.
+
+#### National Schools Literature Festival
+
+Selected Secondary Two and Three Literature students participate in the National Schools Literature Festival. In 2019, on 20 July, students participated in the Choral Reading and Set Text Debate competitions respectively. This festival allowed students to engage with Literature students from other schools and exchange ideas about the Literature texts they study. It also provided them an opportunity to work independently in teams, while broadening and deepening their knowledge and skills in the subject.
 
 <style>  
 img {  
