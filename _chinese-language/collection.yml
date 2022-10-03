@@ -2,5 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
+      - 2018年.md
       - 2017年.md
       - 教育资源.md
