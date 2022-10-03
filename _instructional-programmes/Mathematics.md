@@ -3,6 +3,21 @@ title: Mathematics
 permalink: /our-curriculum/instructional-programmes-ip/mathematics/
 description: ""
 ---
+#### Our Mission
+
+
+We will ignite passion to **ACE** Mathematics
+
+*   **A**cademic Excellence to value-add
+*   **C**urriculum Innovation to engage
+*   **E**mpower students to be self-directed learners
+
+#### Department Overview
+
+  
+
+The teaching and learning of Mathematics in Woodgrove is anchored by the pentagonal framework shown, where mathematical problem solving is the focus. Supporting this focus are five inter-related components – concepts, skills, processes, metacognition and attitudes.
+
 <style>  
 img {  
   display: block;  
@@ -10,10 +25,15 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Mathematics%20Framework.png" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Mathematics%20Framework.png" alt="School Uniform" style="width:70%;">  
   
 </body>
 
+The Mathematics department has a cohesive team of teachers who work closely together and support one another to bring out the best in every student. We believe in developing passion and interest in the subject in order for our students to achieve their potential in the subject.
+
+  
+
+Teachers use a variety of tools such as Padlet, Quizizz, Classkick and other tools to engage the students of different abilities. Teachers also develop lesson packages to bring across big ideas. Big ideas are ideas that are key to mathematics and it bring coherence and show connections across different topics, strands and levels. As problem solving is central to the Mathematics Curriculum Framework, teachers also design Mathematical Modelling tasks to help students develop critical thinking and collaboration skills. Such skills are important in helping students solve real-world contextual problems.
 
 <style>  
 img {  
@@ -33,7 +53,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sec%201%20Trail%202020%20(1).jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Sec%201%20Trail%202020%20(1).jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
 
@@ -44,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Sec%202%20Trail%202019%20(2).jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Sec%202%20Trail%202019%20(2).jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
 
@@ -55,6 +75,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Siling%20Peer%20Tutoring%20(1).jpeg)" alt="School Uniform" style="width:50%;">  
+<body><img src="/images/Siling%20Peer%20Tutoring%20(1).jpeg" alt="School Uniform" style="width:50%;">  
   
 </body>
