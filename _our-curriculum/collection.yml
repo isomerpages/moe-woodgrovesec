@@ -1,5 +1,4 @@
 collections:
   our-curriculum:
     output: true
-    order:
-      - Subject Based Banding.md
+    order: []
