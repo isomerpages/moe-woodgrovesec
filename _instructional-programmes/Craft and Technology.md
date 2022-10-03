@@ -55,8 +55,16 @@ Visual Art is compulsory for all lower secondary students \[Express, Normal (Aca
 
 For upper secondary, Visual Art is offered as an elective subject for upper secondary students \[Express, Normal (Academic) and Normal (Technical)\]. Students are assessed mainly through artworks and SOVA/written examination. When taking national examination, students would have to complete their coursework within a given period of time and sit for a written examination in Oct/Nov period.
 
+##### **Nutrition & Food Science**
+
 <img src="/images/NFS_student.jpeg"  
 style="width:70%">
+
+Food & Consumer Education (FCE) subject is compulsory for all lower secondary students \[Express, Normal (Academic) and Normal (Technical)\]. The subject covers three main components:  <u>food studies</u>, <u>consumer studies</u> and <u>elective module</u> (project). Students are assessed mainly through written tests and projects. There is no written examination at lower secondary.
+
+  
+
+For upper secondary, Food & Nutrition (F&N) is offered as an elective subject for upper secondary students \[Express and Normal (Academic)\]. Students are assessed mainly through practical sessions, projects and written examination. When taking national examination, students would have to complete their coursework within a given period of time and sit for a written examination in Oct/Nov period.
 
 <img src="/images/Music_student.jpeg"  
 style="width:70%">
