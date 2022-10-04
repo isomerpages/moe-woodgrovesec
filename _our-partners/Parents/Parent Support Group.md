@@ -81,6 +81,8 @@ img {
 
 <p style="text-align:center;"> <strong>Mid-Autumn Festival</strong></p>
 
+![Mid-Autumn Festival](/images/Mid-Autumn%20Festival.jpg)
+
 <p style="text-align:center;"> <strong>Hari Raya and Christmas Celebrations</strong></p>
 
 <p style="text-align:center;"> <strong>Cross Country</strong></p>
