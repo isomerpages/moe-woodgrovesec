@@ -24,6 +24,30 @@ img {
   
 </body>
 
+**Criteria for DSA in Talent Area 1: Community and Youth Leadership**
+
+Applicants should:
+
+·       demonstrate strong leadership qualities in Prefectorial Board/ CCA/ Class/ equivalent student organisation;
+
+·       have organised and/or participated in a service learning project;
+
+·       be able to manage academic workload; and
+
+·       have good conduct.
+
+  
+
+**<u>Talent Area 2: Science for Sustainable Development</u> _(Girls and Boys)_**
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DSA students in Area 2 will be automatically enrolled into the school’s Tier 2 STEM Applied Learning Programme. Students will access a wide variety of opportunities, including workshops, small group mentoring for student-initiated projects, and internationalisation opportunities related to STEM and/ or Sustainability. For more information about Woodgrove Secondary School’s STEM ALP, please refer to this [link](https://woodgrovesec.moe.edu.sg/curriculum/applied-learning-programme-alp). 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <style>  
 img {  
   display: block;  
