@@ -2,4 +2,5 @@ collections:
   students-and-staff:
     output: true
     order:
+      - Students/.keep
       - Staff.md
