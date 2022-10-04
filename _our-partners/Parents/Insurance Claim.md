@@ -4,7 +4,7 @@ permalink: /our-partners/parents/insurance-claim/
 description: ""
 third_nav_title: Parents
 ---
-For GPA Product Fact Sheet 2022, please click on this [link](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Useful%20Information/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf).
+For GPA Product Fact Sheet 2022, please click on this [link](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf).
 
 For GPA insurance coverage, please click on this [link](https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students). 
 
