@@ -27,3 +27,9 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+#### Prelim Time table
+
+##### [N Level](/files/2022%20N-Level%20Prelim%20Timetable.pdf)
+
+##### [O Level](/files/2022%20O-Level%20Prelim%20Timetable_updated%2012%20Sep.pdf)
