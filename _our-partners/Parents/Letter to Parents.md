@@ -67,11 +67,11 @@ third_nav_title: Parents
 <tbody>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> April</span></td>
-    <td class="tg-x4rz" colspan="4"><span style="background-color:#EDF8F3">       </span><a href="https://woodgrovesec.moe.edu.sg/qql/slot/u609/Letters%20for%20Parents/2022/Parents%20Letter%20Term%202%202022.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA">       </span></td>
+    <td class="tg-x4rz" colspan="4"><span style="background-color:#EDF8F3">       </span><a href="[](/files/Parents%20Letter%20Term%202%202022.pdf)" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA">       </span></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">May</span></td>
-    <td class="tg-j0e3" colspan="4"><span style="color:#222;background-color:#EAEAEA">   </span><a href="https://woodgrovesec.moe.edu.sg/qql/slot/u609/Letters%20for%20Parents/2022/T2%20W9%20Parents%20Letter.pdf"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA">    </span></td>
+    <td class="tg-j0e3" colspan="4"><span style="color:#222;background-color:#EAEAEA">   </span><a href="[](/files/T2%20W9%20Parents%20Letter.pdf)"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA">    </span></td>
   </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ third_nav_title: Parents
 <tbody>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> June/July</span></td>
-    <td class="tg-j0e3" colspan="4"><span style="color:#222;background-color:#EAEAEA">     </span><a href="https://woodgrovesec.moe.edu.sg/qql/slot/u609/Letters%20for%20Parents/2022/Term%203%20Week%201.pdf"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-j0e3" colspan="4"><span style="color:#222;background-color:#EAEAEA">     </span><a href="[](/files/Term%203%20Week%201.pdf)"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 </tbody>
 </table>
