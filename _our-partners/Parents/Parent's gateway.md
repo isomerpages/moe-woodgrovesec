@@ -10,7 +10,7 @@ Parents Gateway is an initiative by MOE to enable parents to interact with schoo
 
 **For assistance to download the Parents Gateway Mobile Application, you may**  
 
-1.  View the [Step-by-Step Guide Video](https://woodgrovesec-moe-edu-sg-admin.cwp.sg/qql/slot/u609/Others/Parents%20Gateway%20resources/Parents-Gateway-Video.mp4) 
+1.  View the [Step-by-Step Guide Video](https://woodgrovesec-moe-edu-sg-admin.cwp.sg/qql/slot/u609/Others/Parents%20Gateway%20resources/Parents-Gateway-Video.mp4) **(video to uploaded to YouTube?)**
 2.  Refer to the [Parents User Guide](/files/Parents-User-Guide.pdf)
 
 **Kindly download the Parents Gateway at** 
