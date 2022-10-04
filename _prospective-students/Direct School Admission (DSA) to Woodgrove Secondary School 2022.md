@@ -58,3 +58,4 @@ img {
 <body><img src="/images/web%202.png" alt="Talent Area 2: Science for Sustainable Development (Girls and Boys)" style="width:70%;">  
   
 </body>
+<p style="text-align:center;"><strong>Photo: Snippets of Tier 2 Opportunities in 2022</strong></p>
