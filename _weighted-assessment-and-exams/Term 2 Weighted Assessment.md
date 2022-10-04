@@ -20,7 +20,7 @@ description: ""
     <td><a href="/files/WA%201_2022_Topics_Collated%201NT.pdf"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
-    <td>Sec 2</td>
+    <td>Sec 3</td>
     <td><a href="/files/WA%201_2022_Topics_Collated%202E.pdf"><img src="/images/copy.png" width="400" height="300"></td>
     <td><a href="/files/WA%201_2022_Topics_Collated%202NA.pdf"><img src="/images/copy.png" width="400" height="300"></td>
     <td><a href="/files/WA%201_2022_Topics_Collated%202NT.pdf"><img src="/images/copy.png" width="400" height="300"></td>
