@@ -37,7 +37,7 @@ third_nav_title: Parents
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> February</span></td>
-    <td class="tg-j0e3" colspan="4"><span style="color:#222;background-color:#EAEAEA">     </span><a href="[](/files/T1%20W8_Letter%20to%20Parents.pdf)"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-j0e3" colspan="4"><span style="color:#222;background-color:#EAEAEA">     </span><a href="/files/T1%20W8_Letter%20to%20Parents.pdf"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Letter to Parents </span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 </tbody>
 </table>
