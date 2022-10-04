@@ -15,7 +15,7 @@ description: ""
 <tbody>
   <tr>
     <td>Sec 1</td>
-    <td><a href="/files/WA%203_2022_Topics_Collated%201E.pdf"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 1E.pdf</a></td>
     <td><a href="/files/WA%203_2022_Topics_Collated%201NA.pdf"><img src="/images/copy.png" width="400" height="300"></td>
     <td><a href="/files/WA%203_2022_Topics_Collated%201NT.pdf"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
@@ -34,4 +34,5 @@ description: ""
 </tbody>
 </table>
 
+[EOY\_2022\_Topics\_Collated 1E.pdf](/files/EOY_2022_Topics_Collated%201E.pdf)
 #### Examination Timetable
