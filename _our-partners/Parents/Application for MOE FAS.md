@@ -15,3 +15,6 @@ If your child is eligible, you can download the [MOE FAS application form](http
 **Alternatively, you may also submit your application form and relevant documents via the FormSG link / QR code below. **
   
 [go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+<img src="![](/images/QR.png)"  
+style="width:40%">
