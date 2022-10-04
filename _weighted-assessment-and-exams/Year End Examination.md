@@ -48,9 +48,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-1wig"><a href="[](/files/2022%20EOY%20S1%20Timetable%20updated.pdf)">Secondary 1</td>
-    <td class="tg-1wig"><a href="[](/files/2022%20EOY%20S2%20Timetable.pdf)">Secondary 2</td>
-    <td class="tg-1wig"><a href="[](/files/2022%20EOY%20S3%20Timetable%20updated.pdf)">Secondary 3</td>
+    <td class="tg-1wig"><a href="/files/2022%20EOY%20S1%20Timetable%20updated.pdf">Secondary 1</td>
+    <td class="tg-1wig"><a href="/files/2022%20EOY%20S2%20Timetable.pdf">Secondary 2</td>
+    <td class="tg-1wig"><a href="/files/2022%20EOY%20S3%20Timetable%20updated.pdf">Secondary 3</td>
   </tr>
 </thead>
 </table>
