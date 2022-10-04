@@ -15,7 +15,7 @@ Visit our [ACE programme site](https://sites.google.com/moe.edu.sg/ace-wgs/home
 
 #### [Sec 3](/files/Sec%203%20ACE%20Overview%2013%20Jul.pdf)
 
-####
+#### [Sec 4E & 5N](/files/4E5N%20Sem%202%20ACE_5%20Jul.pdf)
 
 ####
 
