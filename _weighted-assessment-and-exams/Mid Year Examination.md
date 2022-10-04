@@ -42,7 +42,7 @@ description: ""
   <tr>
     <td class="tg-fymr">Sec 5</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="[](/files/MYE_2022_Topics_Collated%205NA.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
