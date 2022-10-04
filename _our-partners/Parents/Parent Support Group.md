@@ -89,6 +89,10 @@ img {
 
 <p style="text-align:center;"> <strong>Cross Country</strong></p>
 
+![Cross Country](/images/Cross%20Country_1.jpg)
+
+![Cross Country](/images/Cross%20Country_2.jpg)
+
 <p style="text-align:center;"> <strong>Sports Day</strong></p>
 
 <p style="text-align:center;"> <strong>Aesthetics Nite</strong></p>
