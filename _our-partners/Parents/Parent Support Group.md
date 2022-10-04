@@ -84,3 +84,9 @@ img {
 <p style="text-align:center;"> <strong>Family Day</strong></p>
 
 <p style="text-align:center;"> <strong>Pancake Day</strong></p>
+
+<p style="text-align:center;"> <strong>Values-In-Action<br>(Role Modelling of Values)</strong></p>
+
+<p style="text-align:center;"> <strong>Pancake Day</strong></p>
+
+<p style="text-align:center;"> <strong>Pancake Day</strong></p>
