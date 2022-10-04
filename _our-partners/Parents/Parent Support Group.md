@@ -67,6 +67,8 @@ img {
 
 <p style="text-align:center;"> <strong>Secondary 1 Registration & Campfire</strong></p>
 
+![Secondary 1 Registration & Campfire](/images/Secondary%201%20Registration%20&%20Campfire.jpg)
+
 <p style="text-align:center;"> <strong>Welcome Tea for Secondary 1 Parent Support Group</strong></p>
 
 <p style="text-align:center;"> <strong>Chinese New Year Celebration</strong></p>
