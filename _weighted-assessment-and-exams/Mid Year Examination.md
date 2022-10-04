@@ -28,20 +28,8 @@ description: ""
     <td class="tg-fymr"><strong>Normal Technical</strong></td>
   </tr>
   <tr>
-    <td class="tg-fymr">Sec 1</td>
-    <td class="tg-0pky"><img src="https://www.tablesgenerator.com/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
     <td class="tg-fymr">Sec 2</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">Sec 3</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img src="https://www.tablesgenerator.com/images/copy.png" width="400" height="300"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
