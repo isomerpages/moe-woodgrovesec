@@ -29,9 +29,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fymr">Sec 2</td>
-    <td class="tg-0pky"><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="[](/files/MYE_2022_Topics_Collated%202E.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="[](/files/MYE_2022_Topics_Collated%202NA.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="[](/files/MYE_2022_Topics_Collated%202NT.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td class="tg-fymr">Sec 4</td>
