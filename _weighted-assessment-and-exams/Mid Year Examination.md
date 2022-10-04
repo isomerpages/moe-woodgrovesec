@@ -29,7 +29,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fymr">Sec 2</td>
-    <td class="tg-0pky"><img src="https://www.tablesgenerator.com/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="/academic-curriculum/applied-learning-programme-alp"><img src="https://www.tablesgenerator.com/images/copy.png" width="400" height="300"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
