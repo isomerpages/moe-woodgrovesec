@@ -1,0 +1,4 @@
+collections:
+  weighted-assessment-and-exams:
+    output: true
+    order: []
