@@ -27,9 +27,9 @@ description: ""
   </tr>
   <tr>
     <td>Sec 3</td>
-    <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 3E.pdf</a></td>
-    <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 3NA.pdf</a></td>
-    <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 3NT.pdf</a></td>
+    <td><a href="[](/files/EOY_2022_Topics_Collated%203E.pdf)">EOY_2022_Topics_Collated 3E.pdf</a></td>
+    <td><a href="[](/files/EOY_2022_Topics_Collated%203NA.pdf)">EOY_2022_Topics_Collated 3NA.pdf</a></td>
+    <td><a href="[](/files/EOY_2022_Topics_Collated%203NT.pdf)">EOY_2022_Topics_Collated 3NT.pdf</a></td>
   </tr>
 </tbody>
 </table>
