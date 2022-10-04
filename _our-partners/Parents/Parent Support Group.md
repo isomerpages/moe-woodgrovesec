@@ -29,34 +29,25 @@ img {
 
 #### Our Objectives
 
-1\. Foster and enhance ties between the school and parents.
-
-2\. Help develop a stronger bond between parents and children.
-
-3\. Keep parents informed of the policies, programmes and developments of the school.
-
-4\. Collaborate with the school in efforts to educate students through support, participation and organisation of activities.
-
-5\. Promote and inculcate school values through programmes.
-
+1\. Foster and enhance ties between the school and parents. <br>
+2\. Help develop a stronger bond between parents and children. <br>
+3\. Keep parents informed of the policies, programmes and developments of the school. <br>
+4\. Collaborate with the school in efforts to educate students through support, participation and organisation of activities. <br>
+5\. Promote and inculcate school values through programmes. <br>
 6\. Encourage social interaction among parents, students and other stakeholders of the school.
 
   
 
 #### How Parents Can Benefit from Joining the WGS PSG
 
-1. Dialogues with School Leaders and staff to better understand school policies.
-
-2\. Have a better understanding of the school-based activities.
-
+1. Dialogues with School Leaders and staff to better understand school policies. <br>
+2\. Have a better understanding of the school-based activities. <br>
 3\. Obtain more insights on parenting through workshops and networking with other parents to help your child in their growing years.
 
   
 
 #### How Your Child Can Benefit
 
-1\. Develop a positive attitude and behaviour.
-
-2\. Achieve more in school regardless of socio-economic background.
-
+1\. Develop a positive attitude and behaviour. <br>
+2\. Achieve more in school regardless of socio-economic background. <br>
 3\. Bridge the cultural gap between school and home.
