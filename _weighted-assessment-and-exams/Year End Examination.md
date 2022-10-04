@@ -23,7 +23,7 @@ description: ""
     <td>Sec 2</td>
     <td><a href="[](/files/EOY_2022_Topics_Collated%202E.pdf)">EOY_2022_Topics_Collated 2E.pdf</a></td>
     <td><a href="[](/files/EOY_2022_Topics_Collated%202NA.pdf)">EOY_2022_Topics_Collated 2NA.pdf</a></td>
-    <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 2NT.pdf</a></td>
+    <td><a href="[](/files/EOY_2022_Topics_Collated%202NT.pdf)">EOY_2022_Topics_Collated 2NT.pdf</a></td>
   </tr>
   <tr>
     <td>Sec 3</td>
