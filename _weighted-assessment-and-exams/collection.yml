@@ -2,4 +2,5 @@ collections:
   weighted-assessment-and-exams:
     output: true
     order:
+      - Term 2 Weighted Assessment.md
       - Term 1 Weighted Assessment.md
