@@ -99,7 +99,16 @@ img {
 
 <p style="text-align:center;"> <strong>Aesthetics Nite</strong></p>
 
-![Aesthetics Nite](/images/Aesthetics%20Nite_1.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Aesthetics%20Nite_1.jpg" alt="Aesthetics Nite" style="width:60%;">  
+  
+</body>
 
 ![Aesthetics Nite](/images/Aesthetics%20Nite_2.jpg)
 
