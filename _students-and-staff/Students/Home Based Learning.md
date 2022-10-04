@@ -8,24 +8,16 @@ Dear Parents / Guardians and Students,
 
 Our school’s HBL consists of both online and offline approaches to learning. Your child/ward will be provided with instructions on how to access the HBL materials via our&nbsp;[HBL site](https://go.gov.sg/wgshbl-site)
 
-**Instructions for Students:**  
+**<u>Instructions for Students:</u>**  
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start your day right by waking up on time and have your breakfast before 8 a.m.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find a suitable room or area with minimal distractions for home-based learning.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Establish a daily routine by following your HBL class timetable.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ensure that your learning materials and Login ID and Passwords for your SLS and/or Google Classroom accounts are with you.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your completion of the HBL lessons, or attendance for live lessons, is expected. If for any reason you are unable to submit the assignments or miss the HBL lessons on a particular day, please inform your teachers and ensure that you make up for the missed assignments.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take short breaks in between to rest. Limit your screen time during HBL to about 2.5 hours each day.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Put forth your best effort, as the HBL learning tasks are part of your school lessons.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you take part in live lessons conducted by your teachers, dress in the school T-shirt, turn on the video and follow your teachers’ instructions.
-
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start your day right by waking up on time and have your breakfast before 8 a.m. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find a suitable room or area with minimal distractions for home-based learning. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Establish a daily routine by following your HBL class timetable. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ensure that your learning materials and Login ID and Passwords for your SLS and/or Google Classroom accounts are with you. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your completion of the HBL lessons, or attendance for live lessons, is expected. If for any reason you are unable to submit the assignments or miss the HBL lessons on a particular day, please inform your teachers and ensure that you make up for the missed assignments. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take short breaks in between to rest. Limit your screen time during HBL to about 2.5 hours each day. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Put forth your best effort, as the HBL learning tasks are part of your school lessons. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you take part in live lessons conducted by your teachers, dress in the school T-shirt, turn on the video and follow your teachers’ instructions. <br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Practise good online etiquette and behaviour. Keep your personal information private and do not share your passwords with anyone.
 
 **Tips for Parents:**
