@@ -66,3 +66,21 @@ img {
 #### Our Programmes
 
 <p style="text-align:center;"> <strong>Secondary 1 Registration & Campfire</strong></p>
+
+<p style="text-align:center;"> <strong>Welcome Tea for Secondary 1 Parent Support Group</strong></p>
+
+<p style="text-align:center;"> <strong>Chinese New Year Celebration</strong></p>
+
+<p style="text-align:center;"> <strong>Mid-Autumn Festival</strong></p>
+
+<p style="text-align:center;"> <strong>Hari Raya and Christmas Celebrations</strong></p>
+
+<p style="text-align:center;"> <strong>Cross Country</strong></p>
+
+<p style="text-align:center;"> <strong>Sports Day</strong></p>
+
+<p style="text-align:center;"> <strong>Aesthetics Nite</strong></p>
+
+<p style="text-align:center;"> <strong>Family Day</strong></p>
+
+<p style="text-align:center;"> <strong>Pancake Day</strong></p>
