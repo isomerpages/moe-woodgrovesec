@@ -71,7 +71,13 @@ img {
 
 <p style="text-align:center;"> <strong>Welcome Tea for Secondary 1 Parent Support Group</strong></p>
 
+![Welcome Tea for Secondary 1 Parent Support Group](/images/Welcome%20Tea%20for%20Secondary%201%20Parent%20Support%20Group.jpg)
+
 <p style="text-align:center;"> <strong>Chinese New Year Celebration</strong></p>
+
+![Chinese New Year Celebration](/images/Chinese%20New%20Year%20Celebration_1.jpg)
+
+![Chinese New Year Celebration](/images/Chinese%20New%20Year%20Celebration_2.jpg)
 
 <p style="text-align:center;"> <strong>Mid-Autumn Festival</strong></p>
 
