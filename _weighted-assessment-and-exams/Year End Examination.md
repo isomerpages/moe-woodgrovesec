@@ -16,20 +16,20 @@ description: ""
   <tr>
     <td>Sec 1</td>
     <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 1E.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%201NA.pdf)">EOY_2022_Topics_Collated 1NA.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%201NT.pdf)">EOY_2022_Topics_Collated 1NT.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%201NA.pdf">EOY_2022_Topics_Collated 1NA.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%201NT.pdf">EOY_2022_Topics_Collated 1NT.pdf</a></td>
   </tr>
   <tr>
     <td>Sec 2</td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%202E.pdf)">EOY_2022_Topics_Collated 2E.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%202NA.pdf)">EOY_2022_Topics_Collated 2NA.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%202NT.pdf)">EOY_2022_Topics_Collated 2NT.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%202E.pdf">EOY_2022_Topics_Collated 2E.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%202NA.pdf">EOY_2022_Topics_Collated 2NA.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%202NT.pdf">EOY_2022_Topics_Collated 2NT.pdf</a></td>
   </tr>
   <tr>
     <td>Sec 3</td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%203E.pdf)">EOY_2022_Topics_Collated 3E.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%203NA.pdf)">EOY_2022_Topics_Collated 3NA.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%203NT.pdf)">EOY_2022_Topics_Collated 3NT.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%203E.pdf">EOY_2022_Topics_Collated 3E.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%203NA.pdf">EOY_2022_Topics_Collated 3NA.pdf</a></td>
+    <td><a href="/files/EOY_2022_Topics_Collated%203NT.pdf">EOY_2022_Topics_Collated 3NT.pdf</a></td>
   </tr>
 </tbody>
 </table>
