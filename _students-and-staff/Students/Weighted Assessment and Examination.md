@@ -12,7 +12,7 @@ third_nav_title: Students
 
 #### [Prelim](/students-and-staff/students/weighted-assessment-and-examination/prelim/)
 
-####
+#### [Term 3 Weighted Assessment](/students-and-staff/students/weighted-assessment-and-examination/term-3-weighted-assessment/)
 
 ####
 
