@@ -33,3 +33,7 @@ description: ""
 ##### [N Level](/files/2022%20N-Level%20Prelim%20Timetable.pdf)
 
 ##### [O Level](/files/2022%20O-Level%20Prelim%20Timetable_updated%2012%20Sep.pdf)
+
+#### Exam Rules and Regulation
+
+##### [Click here](/files/Exam%20Rules%20and%20Regulations%20vetted.pdf)
