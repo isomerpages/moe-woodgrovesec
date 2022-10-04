@@ -95,6 +95,8 @@ img {
 
 <p style="text-align:center;"> <strong>Sports Day</strong></p>
 
+![Sports Day](/images/Sports%20Day.jpg)
+
 <p style="text-align:center;"> <strong>Aesthetics Nite</strong></p>
 
 <p style="text-align:center;"> <strong>Family Day</strong></p>
