@@ -36,4 +36,4 @@ description: ""
 
 #### Exam Rules and Regulation
 
-##### [Click here](/files/Exam%20Rules%20and%20Regulations%20vetted.pdf)
+<h5 style="text-align:center;"><a href="/files/Exam%20Rules%20and%20Regulations%20vetted.pdf">Click here</a></h5>
