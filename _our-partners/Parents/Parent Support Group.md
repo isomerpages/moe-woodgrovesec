@@ -87,6 +87,6 @@ img {
 
 <p style="text-align:center;"> <strong>Values-In-Action<br>(Role Modelling of Values)</strong></p>
 
-<p style="text-align:center;"> <strong>Pancake Day</strong></p>
+<p style="text-align:center;"> <strong>Local & Overseas Trips</strong></p>
 
-<p style="text-align:center;"> <strong>Pancake Day</strong></p>
+<p style="text-align:center;"> <strong>Speech Day</strong></p>
