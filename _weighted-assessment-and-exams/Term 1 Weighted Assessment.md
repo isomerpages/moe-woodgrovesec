@@ -15,32 +15,32 @@ description: ""
 <tbody>
   <tr>
     <td>Sec 1</td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td>Sec 2</td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td>Sec 3</td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td>Sec 4</td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td>Sec 5</td>
     <td></td>
-    <td><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
     <td></td>
   </tr>
 </tbody>
