@@ -1,0 +1,4 @@
+collections:
+  students-and-staff:
+    output: true
+    order: []
