@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/Web1.png)" alt="School Uniform" style="width:70%;">  
+<body><img src="/images/Web1.png" alt="Talent Area 1: Community Youth Leadership (Girls and Boys)" style="width:70%;">  
   
 </body>
 
@@ -21,6 +21,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="![](/images/web%202.png)" alt="School Uniform" style="width:70%;">  
+<body><img src="/images/web%202.png" alt="Talent Area 2: Science for Sustainable Development (Girls and Boys)" style="width:70%;">  
   
 </body>
