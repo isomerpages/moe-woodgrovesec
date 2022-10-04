@@ -27,8 +27,7 @@ img {
   
 </body>
 
-Our Objectives
---------------
+#### Our Objectives
 
 1\. Foster and enhance ties between the school and parents.
 
@@ -44,8 +43,7 @@ Our Objectives
 
   
 
-How Parents Can Benefit from Joining the WGS PSG
-------------------------------------------------
+#### How Parents Can Benefit from Joining the WGS PSG
 
 1. Dialogues with School Leaders and staff to better understand school policies.
 
@@ -55,8 +53,7 @@ How Parents Can Benefit from Joining the WGS PSG
 
   
 
-How Your Child Can Benefit
---------------------------
+#### How Your Child Can Benefit
 
 1\. Develop a positive attitude and behaviour.
 
