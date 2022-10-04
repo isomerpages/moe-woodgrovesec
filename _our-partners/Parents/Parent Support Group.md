@@ -130,4 +130,6 @@ img {
 
 <p style="text-align:center;"> <strong>Local & Overseas Trips</strong></p>
 
+![Local & Overseas Trips](/images/Local%20&%20Overseas%20Trips.jpg)
+
 <p style="text-align:center;"> <strong>Speech Day</strong></p>
