@@ -2,6 +2,7 @@ collections:
   students-and-staff:
     output: true
     order:
+      - Students/September Holiday Assignments.md
       - Students/Academic Consultation for Excellence (ACE) Programme.md
       - Students/Support for 4NA and NT Students Special Timetable (19 to 30 Sep
         2022).md
