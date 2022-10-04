@@ -2,6 +2,7 @@ collections:
   weighted-assessment-and-exams:
     output: true
     order:
+      - Year End Examination.md
       - Term 3 Weighted Assessment.md
       - Prelim.md
       - Mid Year Examination.md
