@@ -33,14 +33,14 @@ description: ""
   </tr>
   <tr>
     <td>Sec 4</td>
-    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
-    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
-    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/WA%201_2022_Topics_Collated%204E%20caa%2015%20Feb.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/WA%201_2022_Topics_Collated%204NA.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/WA%201_2022_Topics_Collated%204NT.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td>Sec 5</td>
     <td></td>
-    <td><a href="/academic-curriculum/applied-learning-programme-alp"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/WA%201_2022_Topics_Collated%205NA.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
     <td></td>
   </tr>
 </tbody>
