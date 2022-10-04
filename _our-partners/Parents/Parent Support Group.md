@@ -114,6 +114,8 @@ img {
 
 <p style="text-align:center;"> <strong>Family Day</strong></p>
 
+![Family Day](/images/Family%20Day_1.jpg)
+
 <p style="text-align:center;"> <strong>Pancake Day</strong></p>
 
 <p style="text-align:center;"> <strong>Values-In-Action<br>(Role Modelling of Values)</strong></p>
