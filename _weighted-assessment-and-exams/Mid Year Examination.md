@@ -22,10 +22,10 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b7co"><span style="color:#000">Level</span><br></td>
-    <td class="tg-fymr">Express</td>
-    <td class="tg-fymr">Normal Academic</td>
-    <td class="tg-fymr">Normal Technical</td>
+    <td class="tg-b7co"><span style="color:#000"><strong>Level</strong></span><br></td>
+    <td class="tg-fymr"><strong>Express</strong></td>
+    <td class="tg-fymr"><strong>Normal Academic</strong></td>
+    <td class="tg-fymr"><strong>Normal Technical</strong></td>
   </tr>
   <tr>
     <td class="tg-fymr">Sec 1</td>
