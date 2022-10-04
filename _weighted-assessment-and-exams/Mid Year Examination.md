@@ -49,3 +49,5 @@ description: ""
 </table>
 
 #### [Sec 2 Examination Timetable](/files/MYE%20Exam%20Timetable%20Sec%202_25%20April%202022.pdf)
+
+#### [Sec 4&5 Examination Timetable](/files/MYE%20Exam%20Timetable%20Sec%204_5_25%20April%202022.pdf)
