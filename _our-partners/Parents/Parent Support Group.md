@@ -99,6 +99,8 @@ img {
 
 <p style="text-align:center;"> <strong>Aesthetics Nite</strong></p>
 
+![Aesthetics Nite](/images/Aesthetics%20Nite_1.jpg)
+
 <p style="text-align:center;"> <strong>Family Day</strong></p>
 
 <p style="text-align:center;"> <strong>Pancake Day</strong></p>
