@@ -51,3 +51,14 @@ img {
 1\. Develop a positive attitude and behaviour. <br>
 2\. Achieve more in school regardless of socio-economic background. <br>
 3\. Bridge the cultural gap between school and home.
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="![](/images/Pic%202.jpeg)" alt="School Uniform" style="width:50%;">  
+  
+</body>
