@@ -9,6 +9,14 @@ The ACE programme has been designed to provide close academic support for studen
 Visit our [ACE programme site](https://sites.google.com/moe.edu.sg/ace-wgs/home) to access the detailed schedule for all students.  
   
 
-###
+#### [Sec 1](/files/Sec%201%20ACE%2013%20Jul.pdf)
+
+####
+
+####
+
+####
+
+####
 
 _**The information is correct as at 25 July 2022**_
