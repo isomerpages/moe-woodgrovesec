@@ -20,15 +20,13 @@ Our school’s HBL consists of both online and offline approaches to learning. Y
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When you take part in live lessons conducted by your teachers, dress in the school T-shirt, turn on the video and follow your teachers’ instructions. <br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Practise good online etiquette and behaviour. Keep your personal information private and do not share your passwords with anyone.
 
-**Tips for Parents:**
+**<u>Tips for Parents:</u>**
 
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the daily timetable to work out a daily routine with your child to be engaged in learning during HBL.
-
-●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encourage your child to take short breaks in between lessons, and engage in healthy offline activities, such as physical activities or interactions with family members.
-
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the daily timetable to work out a daily routine with your child to be engaged in learning during HBL. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encourage your child to take short breaks in between lessons, and engage in healthy offline activities, such as physical activities or interactions with family members. <br>
 ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Encourage your child to maintain an optimistic and positive outlook while accepting the changes and emotions that he/she has had to face as part of going through HBL.
 
-**Please refer to this Parent Kit for more information:**&nbsp;[**Parent Kit - Supporting your child during Full HBL.pdf**](https://woodgrovesec-moe-edu-sg-admin.cwp.sg/qql/slot/u609/Academic%20Matters/2021/FHBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
+**Please refer to this Parent Kit for more information:**&nbsp;[**Parent Kit - Supporting your child during Full HBL.pdf**](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
 
   
 
