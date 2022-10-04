@@ -17,6 +17,6 @@ Visit our [ACE programme site](https://sites.google.com/moe.edu.sg/ace-wgs/home
 
 #### [Sec 4E & 5N](/files/4E5N%20Sem%202%20ACE_5%20Jul.pdf)
 
-####
+#### [Sec 4NA/NT](/files/Sec%204NA_NT%20Overview%2025%20Jul.pdf)
 
 _**The information is correct as at 25 July 2022**_
