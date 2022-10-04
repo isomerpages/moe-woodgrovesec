@@ -15,7 +15,3 @@ third_nav_title: Students
 #### [Term 3 Weighted Assessment](/students-and-staff/students/weighted-assessment-and-examination/term-3-weighted-assessment/)
 
 #### [Year End Examination](/students-and-staff/students/weighted-assessment-and-examination/year-end-examination)
-
-####
-
-####
