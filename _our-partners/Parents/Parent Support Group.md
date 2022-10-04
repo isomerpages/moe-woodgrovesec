@@ -64,3 +64,5 @@ img {
 </body> 
 
 #### Our Programmes
+
+<p style="text-align:center;"> <strong>Secondary 1 Registration & Campfire</strong></p>
