@@ -1,0 +1,4 @@
+collections:
+  wgss:
+    output: true
+    order: []
