@@ -7,3 +7,5 @@ third_nav_title: Students
 #### [Term 1 Weighted Assessment](/students-and-staff/students/weighted-assessment-and-examination/term-1-weighted-assessment/)
 
 #### [Term 2 Weighted Assessment](/students-and-staff/students/weighted-assessment-and-examination/term-2-weighted-assessment/)
+
+#### [Mid-Year Examination](/students-and-staff/students/weighted-assessment-and-examination/mid-year-examination/)
