@@ -15,9 +15,9 @@ description: ""
 <tbody>
   <tr>
     <td>Sec 4</td>
-    <td><a href="/files/WA%202_2022_Topics_Collated%201E.pdf"><img src="/images/copy.png" width="400" height="300"></td>
-    <td><a href="/files/WA%202_2022_Topics_Collated%201NA.pdf"><img src="/images/copy.png" width="400" height="300"></td>
-    <td><a href="/files/WA%202_2022_Topics_Collated%201NT.pdf"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/Prelim_2022_Topics_Collated%204E.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/Prelim_2022_Topics_Collated%204NA.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
+    <td><a href="[](/files/Prelim_2022_Topics_Collated%204NT.pdf)"><img src="/images/copy.png" width="400" height="300"></td>
   </tr>
   <tr>
     <td>Sec 5</td>
