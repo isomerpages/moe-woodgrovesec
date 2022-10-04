@@ -16,8 +16,8 @@ description: ""
   <tr>
     <td>Sec 1</td>
     <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 1E.pdf</a></td>
-    <td><a href="[](/files/EOY_2022_Topics_Collated%201NA.pdf)">EOY_2022_Topics_Collated 1E.pdf</a></td>
-    <td><a href="/files/EOY_2022_Topics_Collated%201E.pdf">EOY_2022_Topics_Collated 1E.pdf</a></td>
+    <td><a href="[](/files/EOY_2022_Topics_Collated%201NA.pdf)">EOY_2022_Topics_Collated 1NA.pdf</a></td>
+    <td><a href="[](/files/EOY_2022_Topics_Collated%201NT.pdf)">EOY_2022_Topics_Collated 1NT.pdf</a></td>
   </tr>
   <tr>
     <td>Sec 2</td>
