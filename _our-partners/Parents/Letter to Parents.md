@@ -31,7 +31,7 @@ third_nav_title: Parents
   <tr>
     <td class="tg-n4qt">    <span style="color:#222;background-color:#EAEAEA">January</span></td>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> </span><a href="[](/files/T1%20W2_Sec%201%20Letter%20to%20Parents.pdf)"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Term 1 Letter to Parents</span></a></td>
-    <td class="tg-l5i7"><a href="https://woodgrovesec.moe.edu.sg/qql/slot/u609/Letters%20for%20Parents/2022/T1%20W2_Sec%202-5%20Letter%20to%20Parents.pdf"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Term 1 Letter to Parents</span></a></td>
+    <td class="tg-l5i7"><a href="[](/files/T1%20W2_Sec%202-5%20Letter%20to%20Parents.pdf)"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Term 1 Letter to Parents</span></a></td>
     <td class="tg-l5i7"><a href="https://woodgrovesec.moe.edu.sg/qql/slot/u609/Letters%20for%20Parents/2022/T1%20W2_Sec%202-5%20Letter%20to%20Parents.pdf"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Term 1 Letter to Parents</span></a></td>
     <td class="tg-l5i7"><a href="https://woodgrovesec.moe.edu.sg/qql/slot/u609/Letters%20for%20Parents/2022/T1%20W2_Sec%202-5%20Letter%20to%20Parents.pdf"><span style="font-weight:500;text-decoration:underline;color:#FDB813">Term 1 Letter to Parents</span></a></td>
   </tr>
