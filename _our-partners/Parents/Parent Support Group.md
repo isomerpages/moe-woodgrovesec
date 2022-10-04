@@ -124,6 +124,10 @@ img {
 
 <p style="text-align:center;"> <strong>Values-In-Action<br>(Role Modelling of Values)</strong></p>
 
+![Values-In-Action (Role Modelling of Values)](/images/Values-In-Action%20(Role%20Modelling%20of%20Values)_1.jpg)
+
+![Values-In-Action (Role Modelling of Values)](/images/Values-In-Action%20(Role%20Modelling%20of%20Values)_2.jpg)
+
 <p style="text-align:center;"> <strong>Local & Overseas Trips</strong></p>
 
 <p style="text-align:center;"> <strong>Speech Day</strong></p>
