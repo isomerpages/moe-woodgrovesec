@@ -2,6 +2,7 @@ collections:
   students-and-staff:
     output: true
     order:
+      - Students/Weighted Assessment and Examination.md
       - Students/Home Based Learning.md
       - Students/September Holiday Assignments.md
       - Students/Academic Consultation for Excellence (ACE) Programme.md
