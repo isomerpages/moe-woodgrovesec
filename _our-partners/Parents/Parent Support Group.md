@@ -85,6 +85,8 @@ img {
 
 <p style="text-align:center;"> <strong>Hari Raya and Christmas Celebrations</strong></p>
 
+![Hari Raya and Christmas Celebrations](/images/Hari%20Raya%20and%20Christmas%20Celebrations.jpg)
+
 <p style="text-align:center;"> <strong>Cross Country</strong></p>
 
 <p style="text-align:center;"> <strong>Sports Day</strong></p>
