@@ -48,9 +48,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-1wig">Secondary 1</td>
-    <td class="tg-1wig">Secondary 2</td>
-    <td class="tg-1wig">Secondary 3</td>
+    <td class="tg-1wig"><a href="/files/EOY_2022_Topics_Collated%202E.pdf">Secondary 1</td>
+    <td class="tg-1wig"><a href="/files/EOY_2022_Topics_Collated%202E.pdf">Secondary 2</td>
+    <td class="tg-1wig"><a href="/files/EOY_2022_Topics_Collated%202E.pdf">Secondary 3</td>
   </tr>
 </thead>
 </table>
