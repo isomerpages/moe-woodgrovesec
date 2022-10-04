@@ -30,7 +30,7 @@ description: ""
 
 #### Prelim Time table
 
-##### [N Level](/files/2022%20N-Level%20Prelim%20Timetable.pdf)
+<h5 style="text-align:center;"><a href="/files/2022%20N-Level%20Prelim%20Timetable.pdf">N Level</a></h5>
 
 ##### [O Level](/files/2022%20O-Level%20Prelim%20Timetable_updated%2012%20Sep.pdf)
 
