@@ -1,4 +1,5 @@
 collections:
   students-and-staff:
     output: true
-    order: []
+    order:
+      - Staff.md
