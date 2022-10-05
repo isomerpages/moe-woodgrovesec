@@ -6,62 +6,49 @@ third_nav_title: NDLP in WGS
 ---
 ****Please refer to the following links:****    
 
-**1. Slides**
-
-**a. Information Slides for Parents**
-
-24 January 2022: [https://go.gov.sg/wgspdlp-parentinfo](https://go.gov.sg/wgspdlp-parentinfo) 
-
+**1. Slides** <br>
+**a. Information Slides for Parents** <br>
+24 January 2022: [https://go.gov.sg/wgspdlp-parentinfo](https://go.gov.sg/wgspdlp-parentinfo) <br>
 6 October 2021: [**https://go.gov.sg/wgspdlp-parent2**](https://go.gov.sg/wgspdlp-parent2) 
 
   
 
-**2. Letters**
-
-**a. Intent to Purchase** 
-
+**2. Letters** <br>
+**a. Intent to Purchase** <br>
 [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)
 
   
 
-**3. Resources**
-
-**a. Parent Handbook (I) on Learning with a PLD**
-
+**3. Resources** <br>
+**a. Parent Handbook (I) on Learning with a PLD** <br>
 [https://go.gov.sg/wgspdlp-handbook1](https://go.gov.sg/wgspdlp-handbook1) 
 
   
 
-**b. Parent Handbook (II) on Learning with a PLD** 
-
+**b. Parent Handbook (II) on Learning with a PLD** <br>
 [https://go.gov.sg/wgspdlp-handbook2](https://go.gov.sg/wgspdlp-handbook2)
 
   
 
-**c. Parent Kit on Cyber Wellness for Your Child** 
-
+**c. Parent Kit on Cyber Wellness for Your Child** <br>
 [https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness) 
 
   
 
-**d. MOE Cyber Wellness Programme** 
-
+**d. MOE Cyber Wellness Programme** <br>
 [https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/) 
 
   
 
-**e. Media Literacy Council** 
-
+**e. Media Literacy Council** <br>
 [https://go.gov.sg/better-internet-sg/](https://go.gov.sg/better-internet-sg/) 
 
   
 
-**f. National Library’s Learning & Information Literacy Resources**
-
+**f. National Library’s Learning & Information Literacy Resources** <br>
 [https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)  
 
   
 
-**g. TOUCH Community Services** 
-
+**g. TOUCH Community Services** <br>
 [https://help123.sg/](https://help123.sg/)
