@@ -2,4 +2,5 @@ collections:
   wgss:
     output: true
     order:
+      - Quick Links/.keep
       - Latest Update & Events.md
