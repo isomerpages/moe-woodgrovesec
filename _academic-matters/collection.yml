@@ -1,0 +1,4 @@
+collections:
+  academic-matters:
+    output: true
+    order: []
