@@ -2,5 +2,6 @@ collections:
   wgss:
     output: true
     order:
+      - Quick Links/Useful Links For Parents.md
       - Quick Links/.keep
       - Latest Update & Events.md
