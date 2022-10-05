@@ -20,6 +20,7 @@ img {
 </body>
 
 ![GCE N Level Results Release 2020](/images/GCE%20N%20Level%20Results%20Release%202020.jpg)
+The students collected their results from their Form Teachers in their respective classes. Both teaching staff and Allied Educators (Counsellors, and Learning and Behaviour Support) were there to provide support for and guidance to our students!
 
 <style>  
 img {  
@@ -28,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="GCE N Level Results Release 2020" style="width:50%;">  
+<body><img src="/images/Pic5.jpeg" alt="GCE N Level Results Release 2020" style="width:70%;">  
   
 </body>
 
@@ -39,6 +40,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="GCE N Level Results Release 2020" style="width:50%;">  
+<body><img src="/images/Pic6.jpeg" alt="GCE N Level Results Release 2020" style="width:70%;">  
   
 </body>
