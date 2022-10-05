@@ -38,4 +38,6 @@ Organisations such as SINDA, CDAC and Mendaki have several programmes and scheme
 
 Please click the title to find out more.
 
-[Read More...](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2020/Others/Community%20Support%20available%20for%20students%20and%20their%20families.pdf)
+
+
+<p style="text-align:right;"><a href="/files/Community%20Support%20available%20for%20students%20and%20their%20families.pdf">Read More...</a></p>
