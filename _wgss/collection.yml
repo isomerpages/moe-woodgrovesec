@@ -2,6 +2,7 @@ collections:
   wgss:
     output: true
     order:
+      - Events & Achievements/.keep
       - Quick Links/Useful Links For Staff.md
       - Quick Links/Useful Links For Students.md
       - Quick Links/Useful Links For Parents.md
