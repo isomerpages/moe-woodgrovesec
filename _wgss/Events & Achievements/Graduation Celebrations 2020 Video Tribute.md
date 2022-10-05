@@ -38,17 +38,63 @@ Click on the following images to view the video messages.
 
 Additional videos from Form Teachers.
 
-  
-
-| Class | Video Link |
-| --- | --- |
-| 4E1 | [Mdm Nora and Mr Tang](https://drive.google.com/file/d/1TLf60T0j0d7PlbZzm9_imSeClSgG7vur/view?usp=sharing) |
-| 4E2 | [Ms Nadiah](https://drive.google.com/file/d/1JphMkc62E3i4JpXkvXVuKsTemUF_zJgG/view?usp=sharing) |
-| 4E3 | [Mr Sharin, Ms Gina, Ms Khiew](https://drive.google.com/file/d/1M-odeomQZa9AM-K0YoiHydlYlomGOKV3/view?usp=sharing) |
-| 4E4 | [Ms Wang Jian and Mdm Dawn Tai](https://drive.google.com/file/d/1Cfi3wY43-iVqNiq1fs1U_565Oj9_Z6S7/view?usp=sharing) |
-| 4N1 | [Ms Dorothy, Mr Foo, Mdm Teo](https://drive.google.com/file/d/1NQnfplgjOo4gsMemFwBlt-q651mYoK3d/view?usp=sharing) |
-| 4N2 | [Mdm Azah and Mr Yip](https://drive.google.com/file/d/132hXX5LPSPMnL5oR3HwDldaJ5GeZs6oX/view?usp=sharing) |
-| 4T1 | [Mr Adrian, Mdm Herlina, Mr Karim](https://drive.google.com/file/d/1vZVKWJZOCRBDfYSxOAlQfUxl6kei5bcI/view?usp=sharing) |
-| 5N1 | [Ms Chong](https://drive.google.com/file/d/1uawEP9ZzSJOY-2qMSFSR5i0Aj1eANz1o/view?usp=sharing) |
-| 5N2 | [Mr Christon](https://drive.google.com/file/d/1zdBg-HALe48-7asuTS6xMgefx6nVKuxG/view?usp=sharing) |
-| Special Video | [Mr Fariz](https://drive.google.com/file/d/1OUBSa7WkoscRZOt-JRjuI-CEQw0UImvd/view?usp=sharing) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aevo{background-color:#FFF;color:#FDB813;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Class</th>
+    <th class="tg-a4yv">Video Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">4E1</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1TLf60T0j0d7PlbZzm9_imSeClSgG7vur/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Mdm Nora and Mr Tang</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4E2</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1JphMkc62E3i4JpXkvXVuKsTemUF_zJgG/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Ms Nadiah</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4E3</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1M-odeomQZa9AM-K0YoiHydlYlomGOKV3/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Mr Sharin, Ms Gina, Ms Khiew</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4E4</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1Cfi3wY43-iVqNiq1fs1U_565Oj9_Z6S7/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Ms Wang Jian and Mdm Dawn Tai</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4N1</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1NQnfplgjOo4gsMemFwBlt-q651mYoK3d/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Ms Dorothy, Mr Foo, Mdm Teo</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4N2</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/132hXX5LPSPMnL5oR3HwDldaJ5GeZs6oX/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Mdm Azah and Mr Yip</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">4T1</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1vZVKWJZOCRBDfYSxOAlQfUxl6kei5bcI/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Mr Adrian, Mdm Herlina, Mr Karim</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5N1</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1uawEP9ZzSJOY-2qMSFSR5i0Aj1eANz1o/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Ms Chong</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5N2</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1zdBg-HALe48-7asuTS6xMgefx6nVKuxG/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Mr Christon</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Special Video</td>
+    <td class="tg-aevo"><a href="https://drive.google.com/file/d/1OUBSa7WkoscRZOt-JRjuI-CEQw0UImvd/view?usp=sharing"><span style="font-weight:normal;text-decoration:underline;color:#FDB813">Mr Fariz</span></a></td>
+  </tr>
+</tbody>
+</table>
