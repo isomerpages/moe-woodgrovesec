@@ -18,8 +18,11 @@ For example, in the Small Business Operations module, our students are able to a
 ![Computer Game](/images/Pic%205.jpeg)
 <p style="text-align:center;">Computer Game</p>
 
+![Design & Build Glider](/images/Pic%201.jpeg)
 <p style="text-align:center;">Design & Build Glider</p>
 
+![Internet of Things Applications](/images/Pic_2.jpeg)
 <p style="text-align:center;">Internet of Things Applications</p>
 
+![3D Design & Print](/images/Pic%204.jpeg)
 <p style="text-align:center;">3D Design & Print</p>
