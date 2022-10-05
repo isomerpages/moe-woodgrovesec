@@ -14,8 +14,8 @@ third_nav_title: Quick Links
 *   [WGS Library Catalogue](https://schoolibrary.spydus.com.sg/woodgrovesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
       
     
-*   [CCA Selection Student's Guide 2021](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/CCA%20Selection%20Students%20Guide%202021.pptx)
+*   [CCA Selection Student's Guide 2021](https://woodgrovesec.moe.edu.sg/qql/slot/u609/CCA/CCA%20Selection%20Students%20Guide%202021.pptx)**(PPT file)**
 
   
 
-*   2022 WGS STUDENT HANDBOOK >>>> [2022 WGS STUDENT HANDBOOK\_students.pdf](https://woodgrovesec.moe.edu.sg/qql/slot/u609/2022%20WGS%20STUDENT%20HANDBOOK_students.pdf)
+*   2022 WGS STUDENT HANDBOOK >>>> [2022 WGS STUDENT HANDBOOK\_students.pdf](/files/2022%20WGS%20STUDENT%20HANDBOOK_students.pdf)
