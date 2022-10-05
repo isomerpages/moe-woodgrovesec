@@ -2,6 +2,7 @@ collections:
   wgss:
     output: true
     order:
+      - Search Results.md
       - Announcements.md
       - Events & Achievements/Graduation Celebrations 2020 Video Tribute.md
       - Events & Achievements/CNY 2021.md
