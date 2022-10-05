@@ -12,8 +12,10 @@ Our students took part in the following modules: Small business operations, Comp
   
 For example, in the Small Business Operations module, our students are able to appreciate more about running a business as they are provided with first-hand experience of setting up a start-up enterprise in a bazaar setting.
 
+![Small Business Operations](/images/Pic%203.jpeg)
 <p style="text-align:center;">Small Business Operations</p>
 
+![Computer Game](/images/Pic%205.jpeg)
 <p style="text-align:center;">Computer Game</p>
 
 <p style="text-align:center;">Design & Build Glider</p>
