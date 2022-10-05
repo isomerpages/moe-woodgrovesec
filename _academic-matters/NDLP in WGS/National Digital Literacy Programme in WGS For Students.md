@@ -4,8 +4,7 @@ permalink: /academic-matters/national-digital-literacy-programme-in-wgs/for-stud
 description: ""
 third_nav_title: NDLP in WGS
 ---
-**1\. Student Resources**
-
+**1\. Student Resources** <br>
 **a. Video on PDLP** <br>
 *video to embedded here!*
 
