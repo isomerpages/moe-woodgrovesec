@@ -30,7 +30,7 @@ Dear students,
 
 The class timetables for 2022 are now available. Please click on the title to access them. See you in school on Tuesday, 4 Jan!
 
-[Read More...](https://woodgrovesec.moe.edu.sg/academic-matters/class-timetable-2022)
+<p style="text-align:right;"><a href="/academic-matters/class-timetable-2022">Read More...</a></p>
 
 ##### Community Resources and Support
 
