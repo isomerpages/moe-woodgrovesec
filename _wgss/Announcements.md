@@ -3,7 +3,7 @@ title: Announcements
 permalink: /wgss/announcements/
 description: ""
 ---
-### September Holidays Assignments
+##### September Holidays Assignments
 
 2022-09-02
 
@@ -11,7 +11,7 @@ September Holidays Assignments
 
 <p style="text-align:right;"><a href="/students-and-staff/students/september-holiday-assignments">Read More...</a></p>
 
-### Woodgrove Secondary School is offering DSA in the two areas below for admission to Secondary 1 2023.
+##### Woodgrove Secondary School is offering DSA in the two areas below for admission to Secondary 1 2023.
 
 Talent Area 1: Community Youth Leadership _(Girls and Boys)_
 
@@ -23,7 +23,7 @@ The selection criteria and process for the talent areas will be updated from ear
 
 [Read More...](https://www.moe.gov.sg/dsa-sec)
 
-### Class Timetables 2022
+##### Class Timetables 2022
 
 Dear students,
 
@@ -31,7 +31,7 @@ The class timetables for 2022 are now available. Please click on the title to ac
 
 [Read More...](https://woodgrovesec.moe.edu.sg/academic-matters/class-timetable-2022)
 
-### Community Resources and Support
+##### Community Resources and Support
 
 Organisations such as SINDA, CDAC and Mendaki have several programmes and schemes to provide support and resources for students and their families. 
 
