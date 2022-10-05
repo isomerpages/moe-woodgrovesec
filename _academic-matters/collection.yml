@@ -1,4 +1,5 @@
 collections:
   academic-matters:
     output: true
-    order: []
+    order:
+      - NDLP in WGS/.keep
