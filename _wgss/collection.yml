@@ -2,6 +2,7 @@ collections:
   wgss:
     output: true
     order:
+      - Events & Achievements/Graduation Celebrations 2020 Video Tribute.md
       - Events & Achievements/CNY 2021.md
       - Events & Achievements/GCE N Level Results Release 2020.md
       - Events & Achievements/Elective Module (EM) Learning Experience.md
