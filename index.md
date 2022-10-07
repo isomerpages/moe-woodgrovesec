@@ -2,7 +2,7 @@
 layout: homepage
 title: Woodgrove Secondary School
 description: Woodgrove Secondary School
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -39,4 +39,5 @@ sections:
       image: /images/Aesthetics.jpeg
       alt: Image alt text
 ---
+
 
