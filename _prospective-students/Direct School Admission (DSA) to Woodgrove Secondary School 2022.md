@@ -38,12 +38,7 @@ Applicants should:
 **<u>Talent Area 2: Science for Sustainable Development</u> _(Girls and Boys)_**
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 DSA students in Area 2 will be automatically enrolled into the school’s Tier 2 STEM Applied Learning Programme. Students will access a wide variety of opportunities, including workshops, small group mentoring for student-initiated projects, and internationalisation opportunities related to STEM and/ or Sustainability. For more information about Woodgrove Secondary School’s STEM ALP, please refer to this [link](https://woodgrovesec.moe.edu.sg/curriculum/applied-learning-programme-alp). 
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <style>  
 img {  
