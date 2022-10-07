@@ -16,7 +16,7 @@ description: ""
   <tr>
     <td>Sec 1</td>
     <td><a href="/files/WA%201_2022_Topics_Collated%201E.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
-    <td><a href="/files/WA%201_2022_Topics_Collated%201NA.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
+    <td><a href="/files/WA%201_2022_Topics_Collated%201NA.pdf"><img src="/images/copy.png" width="200px"></a></td>
     <td><a href="/files/WA%201_2022_Topics_Collated%201NT.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
   </tr>
   <tr>
@@ -45,4 +45,3 @@ description: ""
 		  </tr>
 </tbody>
 </table>
-
