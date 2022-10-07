@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Woodgrove Secondary School
+description: Woodgrove Secondary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -39,3 +39,4 @@ sections:
       image: /images/Aesthetics.jpeg
       alt: Image alt text
 ---
+
