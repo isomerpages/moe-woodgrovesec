@@ -31,4 +31,11 @@ sections:
       alt: Image alt text
       url: /school-stories/woodgrove-awesome/
       image: /images/Woodgrove Awesome.jpeg
+  - infopic:
+      title: Programme
+      description: Aesthetics Programme
+      button: Read More
+      url: /our-curriculum/instructional-programmes-ip/craft-and-technology
+      image: /images/Aesthetics.jpeg
+      alt: Image alt text
 ---
