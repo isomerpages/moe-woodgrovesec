@@ -1,4 +1,5 @@
 collections:
   school-stories:
     output: true
-    order: []
+    order:
+      - Woodgrove Awesome.md
