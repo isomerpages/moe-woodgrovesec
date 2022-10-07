@@ -42,6 +42,3 @@ description: ""
     <td></td>
     <td><a href="/files/WA%201_2022_Topics_Collated%205NA.pdf"><img src="/images/copy.png" width="400" height="300"></td>
     <td></td>
-  </tr>
-</tbody>
-</table>
