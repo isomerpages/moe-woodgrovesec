@@ -10,10 +10,11 @@ sections:
       background: /images/woodgrove sec sch.gif
       button: Latest Updates
       url: /wgss/latest-update-n-events/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: ALP
+      description: STEM for Sustainable Living in the Community
+      button: Read More
+      url: /our-curriculum/applied-learning-programme-alp/
+      image: /images/Competition.jpeg
+      alt: Image alt text
 ---
