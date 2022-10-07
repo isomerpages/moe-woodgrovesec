@@ -25,9 +25,10 @@ sections:
       image: /images/LLP ILP.png
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Programme
+      description: Woodgrove Awesome
+      button: Read More
       alt: Image alt text
+      url: /school-stories/woodgrove-awesome/
+      image: /images/Woodgrove Awesome.jpeg
 ---
