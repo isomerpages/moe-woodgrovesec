@@ -17,4 +17,17 @@ sections:
       url: /our-curriculum/applied-learning-programme-alp/
       image: /images/Competition.jpeg
       alt: Image alt text
+  - infopic:
+      title: LLP
+      description: Community and Youth Leadership
+      button: Read More
+      url: /our-curriculum/learning-for-life-programme-llp/
+      image: /images/LLP ILP.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
