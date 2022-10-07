@@ -29,20 +29,20 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fymr">Sec 2</td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%202E.pdf"><img src="/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%202NA.pdf"><img src="/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%202NT.pdf"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%202E.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%202NA.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%202NT.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
   </tr>
   <tr>
     <td class="tg-fymr">Sec 4</td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%204E.pdf"><img src="/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%204NA%20caa%2013%20Apr.pdf"><img src="/images/copy.png" width="400" height="300"></td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%204NT.pdf"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%204E.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%204NA%20caa%2013%20Apr.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%204NT.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
   </tr>
   <tr>
     <td class="tg-fymr">Sec 5</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%205NA.pdf"><img src="/images/copy.png" width="400" height="300"></td>
+    <td class="tg-0pky"><a href="/files/MYE_2022_Topics_Collated%205NA.pdf"><img src="/images/copy.png" width="400" height="300"></a></td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
