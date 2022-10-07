@@ -25,11 +25,17 @@ WGS NCC was established in 2003. With a rebranding exercise in 2008, establishin
 
 Aside from the participating in activities, competitions and camps organised by Headquarter NCC, our cadets immerse themselves in an array of activities attuned to the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.
 
-  
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Alumnus%20Haiqal.jpeg" alt="Alumnus Haiqal" style="width:50%;">  
   
-
-![Alumnus Haiqal](/images/Alumnus%20Haiqal.jpeg)
+</body>
 
   
 
