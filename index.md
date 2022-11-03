@@ -10,4 +10,8 @@ sections:
       background: /images/woodgrove sec sch.gif
       url: /wgss/latest-update-n-events/
       title: Welcome to Our Home
+      key_highlights:
+        - title: Parent-Child Tool Kit
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
 ---
