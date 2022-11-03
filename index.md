@@ -4,7 +4,7 @@ title: Woodgrove Secondary School
 description: Woodgrove Secondary School
 image: /images/logo.png
 permalink: /
-notification: "Be Your Best Self. Embrace Challenges. Practise Gratitude. Serve to Lead.. "
+notification: ""
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
