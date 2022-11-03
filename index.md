@@ -14,4 +14,8 @@ sections:
         - title: Parent-Child Tool Kit
           description: ""
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
+  - resources:
+      title: STEM for Sustainable Living in the Community
+      subtitle: Youth Community Leadership
+      button: Resources Button Name
 ---
