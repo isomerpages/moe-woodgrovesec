@@ -15,5 +15,5 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
   - resources:
-      title: STEM for Sustainable Living in the Community
+      button: Applied Learning Program
 ---
