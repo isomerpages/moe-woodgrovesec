@@ -9,4 +9,5 @@ sections:
   - hero:
       background: /images/woodgrove sec sch.gif
       url: /wgss/latest-update-n-events/
+      title: Welcome to Our Home
 ---
