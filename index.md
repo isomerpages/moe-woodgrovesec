@@ -8,9 +8,7 @@ notification: "Be Your Best Self. Embrace Challenges. Practise Gratitude. Serve 
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
-      button: Latest Updates
       url: /wgss/latest-update-n-events/
-      title: Woodgrove Secondary School
   - infopic:
       title: ALP
       description: STEM for Sustainable Living in the Community
