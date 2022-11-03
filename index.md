@@ -10,6 +10,7 @@ sections:
       background: /images/woodgrove sec sch.gif
       button: Latest Updates
       url: /wgss/latest-update-n-events/
+      title: Woodgrove Secondary School
   - infopic:
       title: ALP
       description: STEM for Sustainable Living in the Community
@@ -39,5 +40,3 @@ sections:
       image: /images/Aesthetics.jpeg
       alt: Image alt text
 ---
-
-
