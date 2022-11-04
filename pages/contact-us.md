@@ -19,13 +19,8 @@ locations:
     title: Our Campus
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6893 2564
+      - email: woodgrove_ss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
