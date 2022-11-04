@@ -2,5 +2,5 @@ collections:
   the-woodgrove-identity:
     output: true
     order:
-      - Our School Song.md
       - Vision Mission Values.md
+      - Our School Song.md
