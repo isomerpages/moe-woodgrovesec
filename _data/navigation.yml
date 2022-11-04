@@ -1,11 +1,11 @@
 logo: /images/logo.png
 links:
-  - title: Our Woodgrove
+  - title: The Woodgrove Identity
     collection: our-woodgrove
   - title: Our Curriculum
     url: /our-curriculum/instructional-programmes-ip/craft-and-technology/
     sublinks:
-      - title: Instructional Programmes (IP)
+      - title: Our Departments
         url: /our-curriculum/instructional-programmes-ip/craft-and-technology/
       - title: CCE
         url: /our-curriculum/cce/national-education/2020-total-defence-day-commemoration/
@@ -23,3 +23,8 @@ links:
     collection: students-and-staff
   - title: Our Partners
     collection: our-partners
+  - title: Test
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
