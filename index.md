@@ -20,7 +20,4 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
-  - resources:
-      title: STEM for Sustainable Living for the Environment
-      button: Find Out More!
 ---
