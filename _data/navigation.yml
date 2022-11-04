@@ -1,7 +1,21 @@
 logo: /images/logo.png
 links:
   - title: The Woodgrove Identity
-    collection: our-woodgrove
+    url: /permalink
+    sublinks:
+      - title: Our Vision, Mission and Values
+        url: /permalink
+      - title: Our School Song
+        url: /permalink
+      - title: Our History
+        url: /permalink
+  - title: Our Staff
+    url: /permalink
+    sublinks:
+      - title: Our School Leaders
+        url: /permalink
+      - title: Our Teachers, Our Compass
+        url: /permalink
   - title: Our Curriculum
     url: /our-curriculum/instructional-programmes-ip/craft-and-technology/
     sublinks:
@@ -23,8 +37,5 @@ links:
     collection: students-and-staff
   - title: Our Partners
     collection: our-partners
-  - title: Test
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
+  - title: Our Staff
+    collection: academic-matters
