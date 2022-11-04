@@ -2,7 +2,6 @@ collections:
   academic-matters:
     output: true
     order:
-      - Schemes of Work.md
       - Class Timetable 2022.md
       - NDLP in WGS/National Digital Literacy Programme in WGS For Students.md
       - NDLP in WGS/National Digital Literacy Programme in WGS For Parents.md
