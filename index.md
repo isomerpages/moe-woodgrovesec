@@ -12,8 +12,14 @@ sections:
       title: Welcome to Our Home
       key_highlights:
         - title: Parent-Child Tool Kit
-          description: ""
+          description: "Key Termly Information "
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
+        - title: Success Stories
+          description: Our Future Ready Learners
+          url: ""
+        - title: Woodgrove Story
+          description: Woodgrovers on Social Media
+          url: https://www.instagram.com/woodgrovestory/?hl=en
   - resources:
       title: STEM for Sustainable Living for the Environment
       button: Find Out More!
