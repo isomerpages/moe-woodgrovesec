@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 7.30am - 5.00pm
         description: Closed on Public Holidays and Weekends
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: ""
     title: Our Campus
 contacts:
