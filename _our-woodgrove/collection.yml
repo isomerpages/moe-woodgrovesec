@@ -2,7 +2,6 @@ collections:
   our-woodgrove:
     output: true
     order:
-      - Vision Mission Values.md
       - Principal’s Message.md
       - Our People   Contact us/.keep
       - Our People   Contact us/School Executive Team.md
