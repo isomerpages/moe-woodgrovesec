@@ -27,10 +27,9 @@ description: ""
 
 2010: We broke the Singapore Book of Records with Our Towers of Hope and Possibilities.
 
-![]()
+![](/images/The%20Woodgrove%20Spirit/(2011)%20President's%20Award%20for%20the%20Environment.png)
 
-2011: The school was conferred the President's Award for the Environment. This is an award that affirms the school's commitment towards environmental education.
+2011 & 2015: The school was conferred the President's Award for the Environment and ASEAN Eco-School Award. These awards  affirm the school's commitment towards environmental education.
 
-![]()
 
-2015: We attained our second ASEAN Eco-School Award in recognition for our efforts towards environmental education.
+
