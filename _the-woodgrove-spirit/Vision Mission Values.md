@@ -3,5 +3,4 @@ title: Vision Mission Values
 permalink: /our-woodgrove/vision-mission-values/
 description: ""
 ---
-
-![Vision Mission Values](/images/VMV.jpeg)
+![](/images/The%20Woodgrove%20Spirit/VMV.jpeg)
