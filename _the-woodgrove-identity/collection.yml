@@ -2,6 +2,7 @@ collections:
   the-woodgrove-identity:
     output: true
     order:
+      - Our Logo.md
       - Vision Mission Values.md
       - Our School Song.md
       - Our History.md
