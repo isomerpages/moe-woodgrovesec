@@ -3,9 +3,7 @@ title: Our School Song
 permalink: /School-Song/permalink/
 description: ""
 ---
-
-
-![](/images/The%20Woodgrove%20Anthem.png)
+![](/images/The%20Woodgrove%20Spirit/The%20Woodgrove%20Anthem.png)
 
 Our school song was jointly composed by the school's first principal, Mrs Helena Song, and her team of pioneer teachers. First sung in 2000, the lyrics remain unchanged. 
 
