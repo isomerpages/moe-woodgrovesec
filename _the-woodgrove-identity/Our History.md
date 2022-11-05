@@ -29,8 +29,8 @@ description: ""
 
 ![]()
 
-2011: The school was conferred the President's Award for the Environment. This is an award that affirms the school's commitment towards Environmental Education.
+2011: The school was conferred the President's Award for the Environment. This is an award that affirms the school's commitment towards environmental education.
 
+![]()
 
-
-
+2015: We attained our second ASEAN Eco-School Award in recognition for our efforts towards environmental education.
