@@ -8,8 +8,6 @@ image: ""
 
 The school's logo features a stylised bird perched on the branch of a tree.
 
-**The bird** represents our Woodgrovers soaring to become the best versions of themselves. Orange and yellow are colours that  reflect our passionate Woodgrovers possesing the fire to work towards being future ready learners and thoughtful leaders. This would mean striving to become their best selves, serving to lead, and embracing challenges. 
+The school crest depicts birds ready to soar into the sky from a sturdy branch. The birds signify Woodgrovers as dynamic learners, grounded on sound values and daring to fly up high to achieve their goals and overcome future challenges. The leaves signify life and growth in a harmonious, safe and supportive environment as the school prepares the learners well in the pursuit of their dreams.
 
-The **tree branch** represents the Woodgrover having a sense of rootedness even as they soar. This encapculates the importance of having a sense of gratitude through one's life journey.
-
-The use of symbols related to nature reminds Woodgrovers that they are part of a wider ecosystem. There is a community present that can support them in achieving their dreams.
+The colour yellow symbolises positive attitudes and a strong commitment to excel in one’s responsibilities. The colour orange mirrors a burning passion, the vigour and hunger for progress as well as a determination to achieve one’s goals. The colour green denotes virtue and an appreciation for aesthetics, while white projects purity, integrity as well as a professional image and standard.
