@@ -2,5 +2,5 @@ collections:
   our-school-leaders:
     output: true
     order:
-      - Our Teachers.md
       - Our School Leaders.md
+      - Our Teachers.md
