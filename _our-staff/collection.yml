@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Example Title.md
-      - Our Teachers/Our Teachers.md
       - Our Teachers/.keep
       - Our Teacher Leaders/Our Teacher Leaders.md
       - Our Teacher Leaders/.keep
