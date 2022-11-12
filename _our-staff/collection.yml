@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Our Teacher Leaders/.keep
       - Our School Leaders/Our School Leaders.md
       - Our School Leaders/.keep
       - Our Teacher Leaders.md
