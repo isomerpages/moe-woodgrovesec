@@ -4,10 +4,11 @@ permalink: /logo/permalink/
 description: ""
 image: ""
 ---
+![](/images/WGS%20LOGO_002_high%20res_removed_background_PNG%20(2).png) 
+
+<width="80" height="160">
 
 
-
-![](/images/WGS%20LOGO_002_high%20res_removed_background_PNG%20(2).png)
 
 The school's logo features a stylised bird perched on the branch of a tree.
 
