@@ -10,4 +10,3 @@ Apart from guiding our students in various subject areas, our teachers strive to
 Should you require any of our teachers to contact you regarding your child's development, please feel free to send them an email. 
 
 You can access their contact details by class / subject via this link:
-
