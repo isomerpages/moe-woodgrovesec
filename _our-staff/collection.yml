@@ -1,5 +1,5 @@
 collections:
-  staff-and-contacts:
+  our-staff:
     output: true
     order:
       - Our School Leaders.md
