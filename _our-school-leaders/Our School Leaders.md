@@ -17,5 +17,3 @@ Best Regards,
 Mr Chua (Principal)
 Mr Tan Boon Cheng, Mdm Chitra (Vice-Principals: Curriculum)
 Mdm Priscilla Tan (Vice-Principal: Curriculum)
-
-
