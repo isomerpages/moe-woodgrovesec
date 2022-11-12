@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Our School Leaders/.keep
-      - Our School Leaders.md
       - Our Teacher Leaders.md
       - Our Teachers.md
