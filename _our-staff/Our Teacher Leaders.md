@@ -19,8 +19,12 @@ Ms Indirani Palaraju | Head of Department, English Language & Literature | indir
 
 | Name and Role | Details | Contact |
 | -------- | -------- | -------- |
+| Mr Go Jun Hong | Upper Secondary Year Head (Internal)      | go_jun_hong@moe.edu.sg
+| Ms Azleen | Upper Secondary Assistant Year Head (Internal)      | norazleen_ayob@moe.edu.sg
+| Mr Kumar| Lower Secondary Year Head (Internal)      | devakumar_santhirasegaran@moe.edu.sg
+| Ms Herlina | Lower Secondary Assistant Year Head (Internal)      | herlina_fazelyana_hamzah@moe.edu.sg
 | Mr Christon Cher Dingxiong | Subject Head (Internal) Communications and Partnerships      | cher_dingxiong@moe.edu.sg
-| -------- | -------- | -------- |
+| -- | -------- | -------- |
 
 
 
