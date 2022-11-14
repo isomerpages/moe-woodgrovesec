@@ -27,8 +27,7 @@ description: ""
 
 2010: We broke the Singapore Book of Records with Our Towers of Hope and Possibilities.
 
-![](/images/The%20Woodgrove%20Spirit/(2011)%20President's%20Award%20for%20the%20Environment.png)
-
+_<img src="/images/The%20Woodgrove%20Spirit/(2011)%20President's%20Award%20for%20the%20Environment.png" alt="HTML tutorial" style="width:300px;height:450px;">_
 
 
 _<img src="/images/The%20Woodgrove%20Spirit/(2015)%202nd%20ASEAN%20Eco-Schools%20Award.png" alt="HTML tutorial" style="width:300px;height:450px;">_
