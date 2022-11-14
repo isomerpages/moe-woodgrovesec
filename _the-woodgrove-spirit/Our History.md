@@ -29,6 +29,8 @@ description: ""
 
 ![](/images/The%20Woodgrove%20Spirit/(2011)%20President's%20Award%20for%20the%20Environment.png)
 
-![](/images/The%20Woodgrove%20Spirit/(2015)%202nd%20ASEAN%20Eco-Schools%20Award.png)
+
+
+_<img src="/images/The%20Woodgrove%20Spirit/(2015)%202nd%20ASEAN%20Eco-Schools%20Award.png" alt="HTML tutorial" style="width:300px;height:450px;">_
 
 2011 & 2015: The school was conferred the President's Award for the Environment and ASEAN Eco-School Award. These awards  affirm the school's commitment towards environmental education.
