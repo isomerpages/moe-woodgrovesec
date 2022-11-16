@@ -10,15 +10,15 @@ Woodgrove Secondary School (WGS) Badminton started off as a recreational CCA for
 
 In 2015, the school engaged its first badminton coach and WGS Badminton CCA became an all-boys competitive team with the aim to further develop the players’ knowledge, skills and values in badminton .Every year, the team represents the school in the North Zone ‘B’ and ‘C’ Division Boys Badminton Championship. Besides developing in terms of knowledge and skills during training and matches, the players also contribute to the society through Service Learning projects. From 2023, the school’s badminton team will begin accepting girls. 
 
-**Training Dates**
+**Training Days**
 
 Boys : Mon and Thurs 3:30 -5:30
 
 Girls: Tues and Thurs 3:30 -5:30 pm 
 
-The Badminton Team will be accepting girls from 2023 onwards.
+The Badminton Team will be accepting girls from 2023.
 
-*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+*Additional sessions will be organised for selected students in preparation for various events. Sessions are subject to change in 2023.
 
 **Achievements and Highlights 2022**
 
