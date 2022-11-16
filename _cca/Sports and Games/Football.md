@@ -10,7 +10,7 @@ WGS Football Team was established in 2007 as a recreational  team which sought t
 
 In 2008, football became an official CCA. It seeks to educate students to be resilient and disciplined through the training programmes. Furthermore, the  CCA employs effective methods to develop the fitness and strength of students to stay competitive for the National School Games. With its motto 'One for all, All for One', the football team places a strong emphasis on teamwork and being responsible for each other to emerge as a strong, cohesive unit.
 
-Training Dates
+**Training Dates**
 
 Tuesday : 3.30pm to 5.30pm
 
