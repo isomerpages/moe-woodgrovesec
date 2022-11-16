@@ -27,5 +27,3 @@ National School Games North Zone B Division Championships (Quarterfinalists)
 National School Games North Zone C Division Championships
 
 ![](/images/badminton_2.jpg)
-
-
