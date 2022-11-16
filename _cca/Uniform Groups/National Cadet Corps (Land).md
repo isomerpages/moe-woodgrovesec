@@ -24,7 +24,6 @@ Find out more about as at the NCC [Instagram Page](https://www.instagram.com/woo
 
 **Achievements and Highlights 2022**
 
-
 Freestyle Drill Competition 
 
 Precision Drill Squad Competition 
