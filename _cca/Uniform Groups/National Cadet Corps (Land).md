@@ -4,7 +4,41 @@ permalink: /our-curriculum/cca/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniform Groups
 ---
-<h4 style="text-align:center;">NATIONAL CADET CORP (LAND)</h4>
+**National Cadet Corps (Land)**
+
+Established in 2023, the National Cadet Corps (Land) aims to groom extraordinary youth leaders and nurture inspiring and committed citizens through fun, adventurous and military related activities.
+
+With its slogan, Trained - A Force To Be Reckoned With, the unit has grown from strength to strength by achieving the Gold Award for the Best Unit Competition (BUC) and Unit Recognition (UR).
+
+Aside from participating in activities, competitions and camps, our cadets immerse themselves in an array of activities related to the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.
+
+
+**Training Days:**
+  
+Mondays - 3:30-5:30pm
+
+*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+
+
+Find out more about as at the NCC [Instagram Page](https://www.instagram.com/woodgrove_warriors/?hl=en)
+
+**Achievements and Highlights 2022**
+
+
+Freestyle Drill Competition 
+
+Precision Drill Squad Competition 
+
+NCC Sports and Games (District Finalist)
+
+Orienteering Competition 
+
+Outstanding Cadet Award 
+
+Unit Recognition (Distinction)
+
+
+
 
 <p style="text-align:center;">Est. 2003</p>
 
@@ -15,15 +49,6 @@ third_nav_title: Uniform Groups
 
   
 
-WGS NCC was established in 2003. With a rebranding exercise in 2008, establishing itself as ‘TRAINED - A Force to be Reckoned With’, it has grown from strength to strength achieving the Gold for the Best Unit Competition (BUC) and Unit Recognition (UR).
-
-  
-
-  
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 384px; height: 186px;" class="ive_eobj_center" alt="PDS.jpg" width="100%" src="/images/PDS.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 383px; height: 186px;" class="ive_eobj_center" alt="FSD.jpg" width="100%" src="/images/FSD.jpeg"></td></tr></tbody></table>
-
-Aside from the participating in activities, competitions and camps organised by Headquarter NCC, our cadets immerse themselves in an array of activities attuned to the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.
 
 
 <style>  
@@ -39,33 +64,6 @@ img {
 
   
 
-Our successful alumni bears testimony that WGS NCC produces men of valour who fearlessly adapt and thrive in the ever changing global landscape.
 
   
 
-#### 'Cadet Strong' Framework
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 856px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 155.8pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Mind:<br style="margin: 0px; outline: 0px; padding: 0px;">A cadet with a resilient mind is confident to take on challenges and overcome setbacks.</font><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 207px; height: 155px;" class="ive_eobj_center" alt="Resilient Mind.jpg" width="100%" src="/images/Resilient%20Mind.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 155.85pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Body:<br style="margin: 0px; outline: 0px; padding: 0px;">Every cadet understands the importance of a fit body, takes ownership to maintain a good level of physical fitness and adopt healthy eating habits.</font><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 155px; height: 155px;" class="ive_eobj_center" alt="Fit Body.jpg" width="100%" src="/images/Fit%20Body.jpeg"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 155.85pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Heart:<br style="margin: 0px; outline: 0px; padding: 0px;">Each cadet has a committed heart and lives by the NCC Core Values with a strong sense of purpose to serve the cadet’s team, school and nation. Cadet learns passionately to develop cadet’s own abilities and proactively contributes towards wherever the cadet is.</font><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: none; padding: 0px; border: none; clear: both; display: block; width: 206px; height: 155px;" class="ive_eobj_center" alt="Committed Heart.jpg" width="100%" src="/images/Committed%20Heart.jpeg"></td></tr></tbody></table>
-
-  
-
-#### 8 Core Values
-
-Loyalty to Country, Uprightness, Leadership, Discipline, Commitment &amp; Responsibility, Care for Fellow Cadets, Adventurous Spirit and Safety.
-
-#### Teachers In Charge
-
-Mr Manson Yip <br>
-Mr Mohamad Fariz Tajularus <br>
-Mr Isham Ishak <br>
-Mr Gireesh
-
-#### Executive Committee
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 856px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Unit Sergeant Major (USM)</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Jabir bin Esoof Saleh</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Assistant Sergeant Major (ASM)</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Chai Xiang Yong</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Precision Drill Squad IC</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Tay Kai Feng</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Freestyle Drill Squad IC</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Phang Kai De</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Admin &amp; Logistics IC</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Chua Jia Sheng</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Junior Cadets Platoon Sergeant</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Putra Mohamad Irfan bin Mohamad Razib</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Senior Cadets Platoon Sergeant</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Izzan Ameerul Bin Sahad</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Cadet Leaders Platoon Sergeant</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Chong Zhi Hong</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Sports &amp; Games Sergeant</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Ryan Choo Yongle</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Physical Training Sergeant</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 233.75pt;" valign="top"><font style="margin: 0px; outline: 0px; padding: 0px;" color="#000000">Muhammad Thaqim bin Arman</font><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-  
-
-#### CCA Days and Time:
-
-Monday :&nbsp;3.30pm to 5.30pm
