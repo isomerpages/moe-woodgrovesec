@@ -26,7 +26,6 @@ National School Games North Zone B Division Championships (Quarterfinalists)
 
 National School Games North Zone C Division Championships
 
-**Our Badminton Team in Pictures**
 ![](/images/CCAs/Badminton%201.png)
 
 ![](/images/CCAs/Badminton%202.png)
