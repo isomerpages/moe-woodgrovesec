@@ -18,15 +18,12 @@ Thursday : 3.45pm to 5.45pm
 
 *Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-Achievements and Highlights 2022
+**Achievements and Highlights 2022**
 
 National School Games North Zone B Division Championships 
 
 National School Games North Zone C Division Championships
 
-
-
- 
 <style>  
 img {  
   display: block;  
