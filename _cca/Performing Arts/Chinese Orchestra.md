@@ -21,3 +21,5 @@ Thursday : 3.45pm to 5.45pm
 Admiralty National Day Dinner 2022
 
 ![](/images/CNY%20Pic%201.jpeg)
+
+![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%201.png)![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%202.png)![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%203%20png.png)
