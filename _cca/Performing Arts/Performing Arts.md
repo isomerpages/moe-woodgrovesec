@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/C0_AestheticNite.jpeg" alt="Performing Arts" style="width:80%;">  
+<body><img src="/images/C0_AestheticNite.jpeg" alt="Chinese Orchestra" style="width:80%;">  
   
 </body>
 
