@@ -4,7 +4,7 @@ permalink: /our-curriculum/cca/uniformed-groups/national-police-cadet-npcc/
 description: ""
 third_nav_title: Uniform Groups
 ---
-**National Police Cadet Corps**
+![](/images/CCAs/NPCC/NPCC%202.png)**National Police Cadet Corps**
 
 The National Police Cadet Corps strives to develop its members to be active community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
 
@@ -25,14 +25,5 @@ SPF NPCC Badge
 Best Unit Cadet Award 2022
 
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Group%20Photo.jpeg" alt="National Police Cadet (NPCC)" style="width:300%;">  
-  
-![National Police Cadet (NPCC)](/images/National%20Police%20Cadet%20(NPCC)_.jpg)
-
+![](/images/CCAs/NPCC/NPCC1.png)![](/images/CCAs/NPCC/NPCC%203.png)
+![](/images/CCAs/NPCC/NPCC%202.png)
