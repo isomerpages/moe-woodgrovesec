@@ -27,4 +27,3 @@ Disaster Reduction Risk Competition (Silver)
 First Aid Competition (Commendation)
 
 Trailblazer Competition (Gold)
-
