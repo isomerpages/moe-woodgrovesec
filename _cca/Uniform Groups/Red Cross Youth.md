@@ -27,3 +27,7 @@ Disaster Reduction Risk Competition (Silver)
 First Aid Competition (Commendation)
 
 Trailblazer Competition (Gold)
+
+![](/images/CCAs/Red%20Cross/IMG-20220719-WA0067%20(1).jpg)
+
+![](/images/CCAs/Red%20Cross/IMG-20220719-WA0042.jpg)
