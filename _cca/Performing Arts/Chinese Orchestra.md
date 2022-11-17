@@ -21,4 +21,3 @@ Thursday : 3.45pm to 5.45pm
 Admiralty National Day Dinner 2022
 
 ![](/images/CNY%20Pic%201.jpeg)
-
