@@ -21,3 +21,7 @@ Monday: 3:30-5:30pm
 Singapore Amazing Flying Machine Competition (SAFMC) 2022
 
 SYFC Inter-school Aeromodelling Competition (SIAC) 2022
+
+![](/images/CCAs/Youth%20Flying%20Club/WGS_264.jpg)
+![](/images/CCAs/Youth%20Flying%20Club/WGS_265%20(2).jpg)
+![](/images/CCAs/Youth%20Flying%20Club/WGS_268%20(2).jpg)
