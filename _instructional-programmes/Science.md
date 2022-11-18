@@ -26,7 +26,9 @@ Subjects Offered at Upper Secondary:
 
 Key Programmes:
 
-*   Science Guru Program. To find out more about this programme, click on this [link]
+*   Science Guru Program. To find out more about this programme, click on this link: [Science Guru Program](https://sites.google.com/moe.edu.sg/wgsscience/home)
+
+
     
 *   Science Program with the Singapore Science Center
     
@@ -37,9 +39,7 @@ Key Programmes:
 
 *Programmes are subjected to availability and might differ for each year.
 
-(https://sites.google.com/moe.edu.sg/wgsscience/home)!
 
-[](https://sites.google.com/moe.edu.sg/wgsscience/home)
 
 
 
@@ -47,23 +47,11 @@ Key Programmes:
 
 ![Biology lesson at Blood Bank](/images/Biology%20lesson%20at%20Blood%20Bank.jpg)
 
-#### Scientific Inquiry Research Experience (SIRE) 2019
 
-Our Secondary One research team explored the possibility of converting the Durian Seeds Into Bioplastics. The team believed that bioplastics can reduce the plastic waste in the global community.
 
 ![Scientific Inquiry Research Experience (SIRE) 2019](/images/Scientific%20Inquiry%20Research%20Experience%20(SIRE)%202019.jpg)
 
-#### IN3 (Inspire, Innovate, Inquire) Science Talk 2019
 
-The inaugural IN3 Science Talk was graced by Dr Mark Lim, a Lead Scientist in the Energy Research Institute at Nanyang Technological University (NTU).
-
-  
-
-Objectives:
-
-*   To inspire students’ interest in the learning of Science
-*   To provide opportunities for authentic learning beyond classroom and curriculum especially in the field of Science, Technology, Engineering and Mathematics (STEM)
-*   To hear from industry experts about current trends and potential career opportunities in STEM
 
 <style>  
 img {  
@@ -76,28 +64,8 @@ img {
   
 </body>
 
-#### Learning Journey to NUS Science Demonstration Lab
-
-Physics students have the opportunity to see the applications of physics through the use many everyday materials in the demonstrations.
-
-  
-
-**_“I used to think that physics are only in the nature of engineering Now I think that physics can be in the matter of every substance and connected through various ways.”_**
-
-  
-
-Objectives: <br>
-To allow students to deepen the understanding of the concepts learnt through visually and intellectually Science
-
 ![Learning Journey to NUS Science Demonstration Lab](/images/Learning%20Journey%20to%20NUS%20Science%20Demonstration%20Lab.jpg)
 
-#### Secondary 2 Science Trails @ Singapore Science Centre
 
-Our Secondary Two students have the opportunity to see the scientific concepts they learnt in class come to live at the various trails at Science Centre.
-
-  
-
-Objectives: <br>
-To allow students to experience the scientific concepts and phenomena that they have learnt or will be learning in their science lessons.
 
 ![Secondary 2 Science Trails @ Singapore Science Centre](/images/Secondary%202%20Science%20Trails%20@%20Singapore%20Science%20Centre.jpg)
