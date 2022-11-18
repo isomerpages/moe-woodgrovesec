@@ -3,49 +3,47 @@ title: Science
 permalink: /our-curriculum/instructional-programmes-ip/InfocommTechnologyAppliedSciences/
 description: ""
 ---
-
-
 _**Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.”**_
 
 **Stephen Hawking** <br>
 **1946 – 2018**
 
-#### Mission
-Making Science Learning fun, meaningful and relevant for all
+The Science Department aims to nurture students to become scientific literate citizens. Equipped with a strong grounding in the scientific knowledge and the practices of science, our students will be able to make informed decisions about science related issues, innovate and push the frontiers of science. The enculturation of positive values and attitudes allows them to function well as global citizens with the passion to use science in improving lives of self, society and the environment. We hope to engage our students in real-world phenomena, equip our students to explore the scienctific concepts through experimentation and model making, equip students to make a positive impact to self, and society through our science lessons and activities.
 
-  
+Subjects Offered at Lower Secondary:
 
-The Science Department aims to nurture students to become scientific literate citizens. Equipped with a strong grounding in the scientific knowledge and the practices of science, our students will be able to make informed decisions about science related issues, innovate and push the frontiers of science. The enculturation of positive values and attitudes allows them to function well as global citizens with the passion to use science in improving lives of self, society and the environment.
+*   General Science - Students will discover a range of topics that span across Biology, Physics and Chemistry
 
-  
+Subjects Offered at Upper Secondary:
 
-This is achieved through the use of the 3E’s
+*   Pure Science: Biology, Chemistry, Physics
+    
+*   Combined Science: Chemistry/Physics , Chemistry/Biology
+    
+*   General Science (G3 Students)
+    
+*Subject availability is subjected to change and might differ for each year.
 
-\-   **Engage** in real-world phenomena, <br>
-\-   **Explore** the scienctific concepts through experimentation and model making, <br>
-\-   **Empower** students to make a positive impact to self, and society through our Science lessons and activities.
+Key Programmes:
 
-  
+*   Science Guru Program. To find out more about this programme, click on this [link]
+    
+*   Science Program with the Singapore Science Center
+    
+*   International Elementz Fair
+    
+*   Greenwave Environmental Care Competition
+    
 
-#### Science Guru Club – Academic consultation and Science Interest programme
+*Programmes are subjected to availability and might differ for each year.
 
-Science Guru Club is an academic consultation and Science Interest Group programme offered to all Woodgrovers.
-
-To find out more about this programme, click on this [link](https://sites.google.com/moe.edu.sg/wgsscience/home)!
+(https://sites.google.com/moe.edu.sg/wgsscience/home)!
 
 [](https://sites.google.com/moe.edu.sg/wgsscience/home)
 
-#### Biology lesson at Blood Bank
 
-Biology students have part of their biology lessons covered with a visit to the blood bank. With the knowledge they acquired, the students setup a booth during their recess and lunch breaks to encourage their teachers and peers to understand more about blood donation and to adopt a healthier lifestyle.
 
   
-
-We believe meaningful and relevant science learning goes beyond classroom lessons and laboratory practical. Hence, we curate and provide students with enrichment activities across levels and stream to further engage them in scientific issues in daily life, society and the environment.
-
-  
-
-Students also participate in Science Competitions for richer experience in scientific practices.
 
 ![Biology lesson at Blood Bank](/images/Biology%20lesson%20at%20Blood%20Bank.jpg)
 
