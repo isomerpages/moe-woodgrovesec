@@ -27,3 +27,5 @@ Design a Green T contest by Daikin and Mediacorp
 Green Challenge by Woodlands Police Division
 
 Green Read 2022 Challenge by Bowen Secondary School
+
+![](/images/CCAs/Environment%20Science%20Club/Capture.png)![](/images/CCAs/Environment%20Science%20Club/WGS_092%20(1).jpg)
