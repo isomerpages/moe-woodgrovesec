@@ -54,8 +54,6 @@ Subjects Offered at Upper Secondary
 
 \*Programmes are subjected to availability and might differ for each year.
 
-**
-
   
 <img style="width:70%;" alt="School Uniform" src="/images/Engaging%20in%20dialogue%20during%20Reading%20Period.jpeg">  
   
