@@ -44,3 +44,5 @@ Key Programmes (Malay Unit):
 *   Mother Tongue Fortnight 2022
     
 *Programmes are subjected to availability and might differ for each year.
+
+![](/images/IP%20Departments/Mother%20Tongue/Capture.png)
