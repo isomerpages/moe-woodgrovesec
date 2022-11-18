@@ -31,6 +31,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-
-  
-</body>
+![](/images/CCAs/Robotics/WGS_258%20(2).jpg)
