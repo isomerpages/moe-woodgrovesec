@@ -24,3 +24,5 @@ Admiralty Chinese New Year Celebration 2022
 
 National Day Heartland @ North West District 2022
 
+![](/images/CCAs/Modern%20Dance/Capture.png)
+![](/images/CCAs/Modern%20Dance/WGS_074.jpg)
