@@ -11,6 +11,7 @@ Art
 
 *Students taking music at Upper Secondary will attend lessons at another school.
 
+![](/images/Aesthetics.jpeg)
 
 ![ACES Day](/images/ACES%20Day.jpg)
 
@@ -30,7 +31,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:50%;" alt="Sports Enrichment Programme" src="/images/PE16.jpeg">  
-  
-
-
+<img style="width:50%;" alt="Sports Enrichment Programme" src="/images/PE16.jpeg">
