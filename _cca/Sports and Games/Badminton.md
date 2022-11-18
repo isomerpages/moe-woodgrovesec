@@ -4,7 +4,7 @@ permalink: /our-curriculum/cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-**Badminton**
+![](/images/CCAs/Badminton/Badminton%203.png)**Badminton**
 
 Woodgrove Secondary School (WGS) Badminton started off as a recreational CCA for both boys and girls, with or without prior experience in badminton. The focus was to develop some knowledge and skills in badminton, build interest in the sports and to promote a healthy lifestyle.
 
@@ -26,12 +26,4 @@ National School Games North Zone B Division Championships (Quarterfinalists)
 
 National School Games North Zone C Division Championships
 
-![](/images/CCAs/Badminton%201.png)
-
-![](/images/CCAs/Badminton%202.png)
-
-![](/images/CCAs/Badminton%203.png)
-
-![](/images/CCAs/Badminton%205.png)
-
-![](/images/CCAs/Badminton%206.png)
+![](/images/CCAs/Badminton/Badminton%201.png)![](/images/CCAs/Badminton/Badminton%202.png)
