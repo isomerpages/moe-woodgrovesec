@@ -49,5 +49,5 @@ img {
 }  
 </style>  
 <body><img src="/images/Botanic%20Garden%201.jpeg" alt="Symphonic Band" style="width:80%;">  
-  
-</body>
+	
+  ![](/images/CCAs/Band/WGS_224.jpg)
