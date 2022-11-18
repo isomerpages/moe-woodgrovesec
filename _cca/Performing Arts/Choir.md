@@ -24,3 +24,4 @@ World of Woodgrove (WoW) Primary School Outreach
 
 ![](/images/Choir/Capture.png)
 ![](/images/Choir/WGS_105.jpg)
+![](/images/Choir/Choir.png)
