@@ -2,6 +2,7 @@ collections:
   instructional-programmes:
     output: true
     order:
+      - Applied Science.md
       - Mother Tongue Department.md
       - English and Literature.md
       - Humanities.md
