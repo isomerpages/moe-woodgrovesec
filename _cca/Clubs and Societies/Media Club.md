@@ -29,5 +29,5 @@ Photography and Video Coverage School Events:
 * Woodgrove Awesome
 * Speech Day
 
-
-
+![](/images/CCAs/Media/WGS_269.jpg)
+![](/images/CCAs/Media/WGS_271%20(2).jpg)
