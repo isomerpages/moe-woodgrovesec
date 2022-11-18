@@ -3,8 +3,6 @@ title: English and Literature
 permalink: /our-curriculum/instructional-programmes-ip/english-and-literature/
 description: ""
 ---
-**
-
 The English Language and Literature Department aims to empower students into becoming empathetic communicators, discerning readers and creative inquirers of the English Language. Apart from this, it also aims to cultivate the love of the English Language as an aesthetic form and empower students to use language creatively for impact.
 
 
@@ -83,7 +81,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="School Uniform" src="/images/National%20Schools%20Literature%20Festival.jpg">  
-  
-
-
+<img style="width:70%;" alt="School Uniform" src="/images/National%20Schools%20Literature%20Festival.jpg">
