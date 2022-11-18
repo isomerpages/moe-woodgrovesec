@@ -7,7 +7,10 @@ description: ""
 
 The English Language and Literature Department aims to empower students into becoming empathetic communicators, discerning readers and creative inquirers of the English Language. Apart from this, it also aims to cultivate the love of the English Language as an aesthetic form and empower students to use language creatively for impact.
 
-  
+
+We would also like to affirm good creative writing pieces via our showcase microsite:
+
+[Writer's Block: A Showcase of Creative Writing Works by Woodgrovers]( https://sites.google.com/moe.edu.sg/wgswritersblock/home)
 
 Subjects Offered at Lower Secondary
 
@@ -55,16 +58,9 @@ Subjects Offered at Upper Secondary
 
 **
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/English%20and%20Literature.jpg" alt="School Uniform" style="width:75%;">  
   
-</body>
+<img style="width:70%;" alt="School Uniform" src="/images/Engaging%20in%20dialogue%20during%20Reading%20Period.jpeg">  
+  
 
 
 <style>  
@@ -74,20 +70,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Engaging%20in%20dialogue%20during%20Reading%20Period.jpeg" alt="School Uniform" style="width:70%;">  
+<img style="width:70%;" alt="School Uniform" src="/images/Words%20Go%20Round%20Talk%20by%20Mr%20Kenneth%20Kwek.jpeg">  
   
-</body>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Words%20Go%20Round%20Talk%20by%20Mr%20Kenneth%20Kwek.jpeg" alt="School Uniform" style="width:70%;">  
-  
-</body>
 
 
 
@@ -98,28 +83,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/National%20Schools%20Literature%20Festival.jpg" alt="School Uniform" style="width:70%;">  
+<img style="width:70%;" alt="School Uniform" src="/images/National%20Schools%20Literature%20Festival.jpg">  
   
-</body>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Literature%20Trail.jpg" alt="School Uniform" style="width:70%;">  
-  
-</body>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Theatre%20Excursion.jpeg" alt="School Uniform" style="width:70%;">  
-  
-</body>
