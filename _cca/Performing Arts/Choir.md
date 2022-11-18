@@ -21,3 +21,6 @@ Thursday : 3.45pm to 5.45pm
 Admiralty PAssionArts Festival 2022 
 
 World of Woodgrove (WoW) Primary School Outreach
+
+![](/images/Choir/Capture.png)
+![](/images/Choir/WGS_105.jpg)
