@@ -46,3 +46,11 @@ Key Programmes (Malay Unit):
 *Programmes are subjected to availability and might differ for each year.
 
 ![](/images/IP%20Departments/Mother%20Tongue/Capture.png)
+
+![](/images/IP%20Departments/Mother%20Tongue/S1_all.jpeg)
+
+![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_xin%20yao%20Concert%205.jpeg)
+
+![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_Chinese%20Chess%205.jpeg)
+
+![](/images/IP%20Departments/Mother%20Tongue/S3_Dadar2.jpg)
