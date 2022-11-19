@@ -2,10 +2,10 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Applied Science.md
-      - Mother Tongue Department.md
       - English and Literature.md
+      - Mother Tongue Department.md
       - Humanities.md
       - Mathematics.md
-      - Aesthetics, Physical Education, Co Curricular Activities.md
+      - Applied Science.md
       - Science.md
+      - Aesthetics, Physical Education, Co Curricular Activities.md
