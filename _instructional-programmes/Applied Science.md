@@ -29,3 +29,9 @@ Subjects Offered at Upper Secondary 
 *   Computing
     
 *   Computer Applications
+
+![](/images/IP%20Departments/Applied%20Sciences/WGS_010%20(1).jpg)
+
+![](/images/IP%20Departments/Applied%20Sciences/WGS_020.jpg)
+
+![](/images/IP%20Departments/Applied%20Sciences/WGS_123%20(2).jpg)
