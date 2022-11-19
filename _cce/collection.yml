@@ -2,9 +2,4 @@ collections:
   cce:
     output: true
     order:
-      - National Education/2020 Total Defence Day Commemoration.md
-      - National Education/International Friendship Day.md
-      - National Education/Racial Harmony Day.md
-      - National Education/National Day 2020.md
-      - National Education/.keep
       - Sexuality Education.md
