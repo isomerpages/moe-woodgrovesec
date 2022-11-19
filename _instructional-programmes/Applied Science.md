@@ -29,5 +29,3 @@ Subjects Offered at Upper Secondary 
 *   Computing
     
 *   Computer Applications
-    
-
