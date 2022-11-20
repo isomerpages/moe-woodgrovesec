@@ -2,4 +2,5 @@ collections:
   prospective-students:
     output: true
     order:
+      - Woodgrove Open House.md
       - Direct School Admission (DSA) to Woodgrove Secondary School 2022.md
