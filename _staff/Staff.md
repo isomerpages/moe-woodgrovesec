@@ -3,6 +3,10 @@ title: Staff
 permalink: /students-and-staff/staff/
 description: ""
 ---
+Dear Staff,
+
+We have consolidated a list of links that you frequent. We hope this is useful.
+
 *   [iCON mail](https://workspace.google.com/dashboard)
 *   [Resource Booking System](https://rbs.avero-tech.com/login.html)  
     
