@@ -1,5 +1,5 @@
 collections:
-  students-and-staff:
+  staff:
     output: true
     order:
       - Students/Weighted Assessment and Examination.md
