@@ -8,7 +8,7 @@ _<img src="/images/WGS%20LOGO_002_high%20res_removed_background_PNG%20(2).png" a
 
 
 
-The school's logo features a stylised bird perched on the branch of a tree.
+The school's crest features a stylised bird perched on the branch of a tree.
 
 The school crest depicts birds ready to soar into the sky from a sturdy branch. The birds signify Woodgrovers as dynamic learners, grounded on sound values and daring to fly up high to achieve their goals and overcome future challenges. The leaves signify life and growth in a harmonious, safe and supportive environment as the school prepares the learners well in the pursuit of their dreams.
 
