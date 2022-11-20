@@ -2,6 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
-      - Transfer Cases.md
       - Direct School Admission (DSA) to Woodgrove Secondary School 2022.md
       - Woodgrove Open House.md
+      - Transfer Cases.md
