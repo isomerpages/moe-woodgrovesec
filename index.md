@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
-      url: /wgss/latest-update-n-events/
+      url: youtu.be/lZKe_rkEGgU/
       title: Welcome to Our Home
       key_highlights:
         - title: Parent-Child Tool Kit
