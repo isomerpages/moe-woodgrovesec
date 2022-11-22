@@ -20,5 +20,5 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
-  - infopic: {}
+  - resources: {}
 ---
