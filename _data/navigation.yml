@@ -39,9 +39,10 @@ links:
         url: /personal-learning-devices/permalink/
   - title: Prospective Students
     collection: prospective-students
-  - title: Staff
-    collection: staff
   - title: Our Partners
     collection: our-partners
-  - title: Our Staff
-    collection: academic-matters
+  - title: For Staff
+    url: /permalink
+    sublinks:
+      - title: Useful Links
+        url: test
