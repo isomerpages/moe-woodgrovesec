@@ -42,7 +42,7 @@ links:
   - title: Our Partners
     collection: our-partners
   - title: For Staff
-    url: /staff/links/
+    url: https://woodgrovesec.moe.edu.sg/staff/links/
     sublinks:
       - title: Useful Links
         url: /staff/links/
