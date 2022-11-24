@@ -2,11 +2,11 @@ title: Woodgrove Secondary School
 url: https://woodgrovesec.moe.edu.sg
 favicon: /images/woodgrove favicon.ico
 colors:
-  primary-color: "#0717f3"
-  secondary-color: "#0717f3"
+  primary-color: "#afb4fa"
+  secondary-color: "#afb4fa"
   media-colors:
     - title: media-color-one
-      color: "#d321ce"
+      color: "#b3f9eb"
     - title: media-color-two
       color: "#f8e71c"
     - title: media-color-three
