@@ -13,5 +13,6 @@ During the ceremony, on top of going down memory lane of their journey in WGS, o
 Thereafter, before heading to canteen for lunch, we had our first ever cohort photo taken at the parade square. It might be the last official school day for our seniors, but always remember that the you are always welcome back to WGS as you journey in your last lap of your national examinations.  
   
 All the best, Woodgrovers!
+
 ![](/images/Latest%20News/Farewell:%20Class%20of%202022/PXL_20220930_022029482MP.png)_<img 
 																																													 src="/images/Latest%20News/Farewell:%20Class%20of%202022/2022%20cohort.jpg" alt="HTML tutorial" style="width:1700px;height:600px;">_
