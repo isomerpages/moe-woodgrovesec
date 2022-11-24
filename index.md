@@ -22,7 +22,7 @@ sections:
           url: https://www.instagram.com/woodgrovestory/?hl=en
       subtitle: Welcome to Woodgrove Secondary School's Website
   - resources:
-      title: News and Media
-      subtitle: Woodgrove Press
+      title: Voice of Woodgrove
+      subtitle: The Woodgrove Press
       button: Click Here for More News
 ---
