@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#417505"
     - title: media-color-four
-      color: "#00838f"
+      color: "#9013fe"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f8e71c"
 description: Woodgrove Secondary School
 permalink: none
 baseurl: ""
