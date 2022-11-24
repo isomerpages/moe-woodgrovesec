@@ -24,11 +24,4 @@ sections:
       title: News and Media
       subtitle: Woodgrove Press
       button: Click Here for More News
-  - infopic:
-      url: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/jch15GegDdk" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      alt: Image alt text
 ---
