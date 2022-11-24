@@ -26,4 +26,15 @@ sections:
       title: Woodgrove Media
       subtitle: The Voice of Woodgrove
       button: Click Here for More News
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      url: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/jch15GegDdk" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+      alt: Image alt text
 ---
