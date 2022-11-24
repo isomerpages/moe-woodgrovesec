@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Achievements/ECHA%20Nominees%202022/Slide2.png)
+
+![](/images/Achievements/ECHA%20Nominees%202022/Slide3.png)
+
+![](/images/Achievements/ECHA%20Nominees%202022/Slide4.png)
