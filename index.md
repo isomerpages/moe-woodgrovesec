@@ -23,4 +23,5 @@ sections:
   - resources:
       title: News and Media
       subtitle: Woodgrove Press
+      button: Celebrating Success
 ---
