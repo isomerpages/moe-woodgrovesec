@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Latest%20News/Farewell:%20Class%20of%202022/2022%20cohort.jpg)
