@@ -6,4 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Latest%20News/Farewell:%20Class%20of%202022/2022%20cohort.jpg)
+
+_<img src="/images/Latest%20News/Farewell:%20Class%20of%202022/2022%20cohort.jpg" alt="HTML tutorial" style="width:1700px;height:600px;">_
+
+
+
