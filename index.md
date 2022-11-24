@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/woodgrove sec sch.gif
       url: youtu.be/lZKe_rkEGgU/
-      title: Welcome to Our Home
+      title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
           description: "Key Termly Information "
@@ -20,6 +20,7 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
+      subtitle: Welcome to Woodgrove Secondary School's Website
   - resources:
       title: News and Media
       subtitle: Woodgrove Press
