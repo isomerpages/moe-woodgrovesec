@@ -24,6 +24,6 @@ sections:
       title: News and Media
       subtitle: Woodgrove Press
       button: Click Here for More News
-  - infobar:
+  - infopic:
       url: https://youtu.be/jch15GegDdk
 ---
