@@ -27,7 +27,7 @@ sections:
       subtitle: The Voice of Woodgrove
       button: Click Here for More News
   - infobar:
-      description: <iframe width="1080" height="608"
+      description: <iframe width="800" height="450"
         src="https://www.youtube.com/embed/jch15GegDdk" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
