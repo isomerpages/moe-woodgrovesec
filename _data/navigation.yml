@@ -16,8 +16,12 @@ links:
     sublinks:
       - title: Our School Leaders
         url: /our-school-leaders/permalink/
-      - title: Key Personnel and Teachers
+      - title: "Key Personnel "
         url: /leaders/permalink/
+      - title: Form Teachers
+        url: formteachers/permalink
+      - title: Counselling & ECG
+        url: Counselling/permalink
   - title: Our Curriculum
     url: /our-curriculum/instructional-programmes-ip/english-and-literature/
     sublinks:
