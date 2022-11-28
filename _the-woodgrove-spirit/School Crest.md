@@ -4,7 +4,6 @@ permalink: /logo/permalink/
 description: ""
 image: ""
 ---
-
 _<img src="/images/WGS%20LOGO_002_high%20res_removed_background_PNG%20(2).png" alt="HTML tutorial" style="width:300px;height:450px;">_
 
 
