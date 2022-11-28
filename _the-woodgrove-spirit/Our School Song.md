@@ -3,7 +3,7 @@ title: Our School Song
 permalink: /School-Song/permalink/
 description: ""
 ---
-![](/images/The%20Woodgrove%20Spirit/The%20Woodgrove%20Anthem.png)
+![](/images/The%20Woodgrove%20Spirit/The%20School%20Song.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OIhoWAHYdso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
