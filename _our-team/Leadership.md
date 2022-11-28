@@ -7,3 +7,9 @@ Our teacher leaders are a dedicated team of individuals who plan, oversee implem
 
 ![](/images/Leadership%20and%20Form%20Teachers/Slide1.png)
 
+![](/images/Leadership%20and%20Form%20Teachers/Slide2.png)
+
+![](/images/Leadership%20and%20Form%20Teachers/Slide3.png)
+
+
+
