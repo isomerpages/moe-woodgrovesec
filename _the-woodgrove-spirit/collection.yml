@@ -2,6 +2,7 @@ collections:
   the-woodgrove-spirit:
     output: true
     order:
+      - Yearbooks.md
       - School Crest.md
       - Vision Mission Values.md
       - Our School Song.md
