@@ -17,4 +17,6 @@ https://online.fliphtml5.com/obrr/jcgl/#p=1
 
 Capturing Memories Together
 
+[https://sites.google.com/moe.edu.sg/wgsyearbook2022/our-woodgrove-family](https://sites.google.com/moe.edu.sg/wgsyearbook2022/our-woodgrove-family)
+
 The school yearbook team of teachers made another move to use Googlesites as a collaborative platform to chronicle our journey for the year. We believe that memories are forged together and we hope to involve the wider Woodgrove Community in 2023.
