@@ -2,5 +2,6 @@ collections:
   our-team:
     output: true
     order:
+      - Counselling.md
       - Our School Leaders.md
       - Leadership.md
