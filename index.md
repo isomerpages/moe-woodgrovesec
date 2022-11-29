@@ -27,15 +27,24 @@ sections:
       subtitle: The Voice of Woodgrove
       button: Click Here for More News
   - infobar:
-      description: <iframe width="800" height="450"
+      description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
       title: Our Lives in Woodgrove
   - infobar:
-      description: <iframe width="800" height="450"
+      description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+      button: Button Text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
