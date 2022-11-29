@@ -32,7 +32,7 @@ sections:
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
-      title: Our Lives in Woodgrove
+      subtitle: Our Woodgrove Experience
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
@@ -41,8 +41,6 @@ sections:
         allowfullscreen></iframe>
       button: Button Text
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
