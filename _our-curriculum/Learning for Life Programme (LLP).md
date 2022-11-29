@@ -43,7 +43,7 @@ img {
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project at the Sunlove Marsiling Senior Activity Centre</p>
+<p style="text-align:center;">VIA project at the Sunlove Marsiling Senior Activity Centre</p>
   
 
 <style>  
