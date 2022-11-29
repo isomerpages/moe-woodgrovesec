@@ -10,7 +10,7 @@ The National Police Cadet Corps strives to develop its members to be active comm
 
 In order to do so, the unit encourages students to challenge themselves to set high standards and cultivate  leadership qualities, as well as, build character and inculcate strong social and moral values. The unit has a culture that encourages and motivates cadets to treat each other with respect, courtesy and tact.
 
-Find out more about us [here.](https://www.instagram.com/wgs_npcc/?hl=en)
+Find out more about us [here](https://www.instagram.com/wgs_npcc/?hl=en).
 
 **Training Days:**
 
