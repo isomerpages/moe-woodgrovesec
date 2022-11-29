@@ -17,7 +17,7 @@ sections:
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
         - title: Success Stories
           description: Our Future Ready Learners
-          url: ""
+          url: /success-stories/permalink/
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
