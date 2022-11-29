@@ -12,8 +12,8 @@ We offer a wide range of opportunities for students to lead in various capacitie
 ![](/images/Teams/LLP/Capture.png)
 
 
-
-
+![](/images/Teams/LLP/Student%20Forum%20(1).jpg)
+Student Forum - A platform that empowers students to raise issues to the school.
   
 
   
