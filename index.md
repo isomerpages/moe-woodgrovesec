@@ -32,7 +32,7 @@ sections:
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
-      subtitle: Our Woodgrove Experience
+      title: Our Woodgrove Experience
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
