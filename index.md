@@ -5,7 +5,7 @@ description: Woodgrove Secondary School
 image: /images/logo.png
 permalink: /
 notification: "We would like to welcome all Secondary One students and parents
-  into the Woodgrove Family! "
+  to the Woodgrove Family! An amazing journey of learning begins here. "
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
