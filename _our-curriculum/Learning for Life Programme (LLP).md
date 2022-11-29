@@ -3,17 +3,16 @@ title: Learning for Life Programme (LLP)
 permalink: /our-curriculum/learning-for-life-programme-llp/
 description: ""
 ---
-
 #### Community & Youth Leadership
 
-The Learners and Leaders for Life” is a Community & Youth Leadership (CYL) programme that aims to develop student leaders to attain the 3A qualities: Awareness, Affection and Ability to Act. This can be achieved by nurturing student leaders who are aware of the community and environmental needs (Awareness), having compassion for others (Affection) and the ability to make a difference (Ability to Act). The CYL programme is closely aligned to MOE’s 21st CC Framework and the school’s WGS Education “Learners and Leaders for Life” Framework, which strive to produce students who possess the four desirable traits:
+The school's Community and Youth leadership programme centers around  Kouzes and Posner’s The Leadership Challenge (TLC) framework, with all students being trained on the 5 main exemplary leadership mindsets and practices.
 
-  
+We offer a wide range of opportunities for students to lead in various capacities. Class Committee members and School Councillors  undergo in-house workshops such as Team Building and Facilitation Skills and Project Management. In addition, CCA leaders explore various aspects of leadership. This includes the importance of challenging the process and inspiring a shared vision.
 
-(1) Compassionate individuals with the passion to serve <br>
-(2) Responsible, disciplined and dynamic learners <br>
-(3) Resilient citizens with integrity <br>
-(4) Confident, adaptable and innovative individuals prepared for the challenges ahead
+![](/images/Teams/LLP/Capture.png)
+
+
+
 
   
 
@@ -30,7 +29,7 @@ img {
   
 </body>
 
-<p style="text-align:center;">Go M.A.D. (Go and make a difference) VIA project – Intergenerational Learning Programme</p>
+<p style="text-align:center;"> VIA project – Intergenerational Learning Programme</p>
 
 
 <style>  
