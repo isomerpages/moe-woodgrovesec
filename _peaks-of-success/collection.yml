@@ -1,5 +1,5 @@
 collections:
-  success-stories:
+  peaks-of-success:
     output: true
     order:
       - Success Stories.md
