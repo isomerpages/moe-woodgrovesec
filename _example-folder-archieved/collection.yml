@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  example-folder-archieved:
     output: true
     order:
       - folder-page.md
