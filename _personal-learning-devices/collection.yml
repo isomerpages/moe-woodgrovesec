@@ -2,6 +2,8 @@ collections:
   personal-learning-devices:
     output: true
     order:
+      - Digital Literacy Programme/National Digital Literacy Programmes for
+        Students.md
       - Digital Literacy Programme/National Digital Literacy Programme for
         Parents.md
       - Digital Literacy Programme/.keep
