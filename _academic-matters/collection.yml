@@ -1,7 +1,0 @@
-collections:
-  academic-matters:
-    output: true
-    order:
-      - NDLP in WGS/National Digital Literacy Programme in WGS For Students.md
-      - NDLP in WGS/National Digital Literacy Programme in WGS For Parents.md
-      - NDLP in WGS/.keep
