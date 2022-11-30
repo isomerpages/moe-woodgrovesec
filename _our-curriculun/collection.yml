@@ -1,0 +1,4 @@
+collections:
+  our-curriculun:
+    output: true
+    order: []
