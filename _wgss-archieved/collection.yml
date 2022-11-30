@@ -1,5 +1,5 @@
 collections:
-  wgss:
+  wgss-archieved:
     output: true
     order:
       - Search Results.md
