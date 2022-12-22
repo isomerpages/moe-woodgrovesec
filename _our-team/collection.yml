@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Form Teachers/.keep
       - Our School Leaders.md
       - Leadership.md
       - Secondary 1 Form Teachers.md
