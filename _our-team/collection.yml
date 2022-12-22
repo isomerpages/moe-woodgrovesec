@@ -2,11 +2,11 @@ collections:
   our-team:
     output: true
     order:
+      - Our School Leaders.md
+      - Leadership.md
       - Form Teachers/.keep
       - Form Teachers/Secondary 1 Form Teachers.md
       - Form Teachers/Secondary 2 Form Teachers.md
       - Form Teachers/Secondary 3 Form Teachers.md
       - Form Teachers/Secondary 4 & 5 Form Teachers.md
-      - Our School Leaders.md
-      - Leadership.md
       - Counselling & Guidance.md
