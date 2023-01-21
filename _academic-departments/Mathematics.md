@@ -31,10 +31,6 @@ Key Programmes:
     
 
 \*Programmes are subjected to availability and might differ for each year.
-
-**
-**
-
   
 <img style="width:90%;" alt="School Uniform" src="/images/mathematics_modelling.jpg">  
   
