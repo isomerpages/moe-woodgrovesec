@@ -3,11 +3,13 @@ title: Learning for Life Programme (LLP)
 permalink: /our-curriculum/learning-for-life-programme-llp/
 description: ""
 ---
-#### Community & Youth Leadership
+#### Community & Youth Leadership (CYL)
 
-The school's Community and Youth leadership programme centers around  Kouzes and Posner’s The Leadership Challenge (TLC) framework, with all students being trained on the 5 main exemplary leadership mindsets and practices.
+The CYL programme will be adopting the Five Practices of Exemplary Student Leadership by Kouzes and Posner, with the fundamental belief that leadership is not a position, and anyone can lead when given the opportunity.
 
-We offer a wide range of opportunities for students to lead in various capacities. Class Committee members and School Councillors  undergo in-house workshops such as Team Building and Facilitation Skills and Project Management. In addition, CCA leaders explore various aspects of leadership. This includes the importance of challenging the process and inspiring a shared vision.
+We offer a wide range of opportunities for students to lead in various capacities. Class Committee members and School Councillors undergo in-house workshops to conduct team building, improve facilitation skills and excel in project management. In addition, CCA leaders explore various aspects of leadership in which they will collaborate with Student Councillors to run morning assemblies in school. This includes the importance of challenging the process and inspiring a shared vision.
+
+**
 
 ![](/images/Teams/LLP/Capture.png)
 
