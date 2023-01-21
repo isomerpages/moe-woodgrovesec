@@ -18,21 +18,6 @@ We offer a wide range of opportunities for students to lead in various capacitie
 Student Forum - A platform that empowers students to raise issues to the school.
   
 
-  
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/01%20LLP%20ILP.png" alt="School Uniform" style="width:90%;">  
-  
-</body>
-
-<p style="text-align:center;"> VIA project – Intergenerational Learning Programme</p>
-
 
 <style>  
 img {  
@@ -45,8 +30,7 @@ img {
   
 </body>
 
-<p style="text-align:center;">VIA project at the Sunlove Marsiling Senior Activity Centre</p>
-  
+<p style="text-align:center;"> VIA project – Intergenerational Learning Programme</p>
 
 <style>  
 img {  
@@ -58,6 +42,7 @@ img {
 <body><img src="/images/03%20LLP%20ACE%20The%20Place.png" alt="Collaboration with community partners – ACE The Place CC" style="width:90%;">  
   
 </body>
+
 
 <p style="text-align:center;">Collaboration with community partners – ACE The Place CC</p>  
 
