@@ -5,38 +5,42 @@ description: ""
 ---
 The Humanities Department aims to develop learners who are global citizens with the passion to take an active role in the bettering of the lives of the people, society and environment. The department consciously delivers the curriculum using the inquiry approach. Beyond the knowledge and skills, we hope that learners will develop an interest in the study of Humanities through the offering of a wide range of programmes. We believe in making the learning of Humanities come alive through authentic learning experiences.
 
-
 Subjects Offered at Lower Secondary:
 
-*   Social Studies 
-
+*   Geography
+    
+*   History
+    
+*   Social Studies for Normal (Technical) Stream
+    
 
 Subjects Offered at Upper Secondary
 
-*   Social Studies
+*   Humanities (Social Studies, History)
     
-*   History Elective
+*   Humanities (Social Studies, Geography)
     
-*   Geography Elective
+*   Geography 
     
-*   Pure Geography
-    
-*Subject availability is subjected to change and might differ for each year.
+
+\*Subject availability is subjected to change and might differ for each year.
 
 Key Programmes:
 
-*   Model United Nations Conference
-    
 *   Geographical and Historical Investigations
     
 *   NUS Geography Challenge
     
-*   War & Diplomacy Card Challenge
-    
 *   Historical Scene Investigation Competition
     
-*Programmes are subjected to availability and might differ for each year.
+*   MOE History Challenge 
+    
+*   National Youth Environment Conference
+    
 
+\*Programmes are subject to availability and might differ for each year.
+
+**
 <style>  
 img {  
   display: block;  
