@@ -22,7 +22,7 @@ Subjects Offered at Upper Secondary:
     
 \*Students taking music at Upper Secondary can opt to attend lessons at another school.
 
-Please refer to [link](https://staging.domm9e24mq5p4.amplifyapp.com/our-curriculum/cca/sports-and-games/badminton/) for more information about our CCAs.
+Please refer to this [link](https://staging.domm9e24mq5p4.amplifyapp.com/cca/permalink/) for more information about our CCAs.
 
 ![](/images/Aesthetics.jpeg)
 
