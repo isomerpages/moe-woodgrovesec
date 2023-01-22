@@ -3,13 +3,30 @@ title: Aesthetics, Physical Education, Co Curricular Activities
 permalink: /our-curriculum/instructional-programmes-ip/AestheticsPhysicalEducationCoCurricularActivities/
 description: ""
 ---
+**
+
 Newly formed in 2023, the Aesthetics, Physical Education and CCA Department aims to provide students with a wide array of experiences that range from the physical to aesthetics domains. By nurturing the whole child, the department hopes to be an anchor that champions the development of students holistically.
 
-Subjects Offered at Lower and Upper Secondary:
+Subjects Offered at Lower Secondary:
 
-Art
+*   PE
+    
+*   Music
+    
+*   Art
+    
 
-*Students taking music at Upper Secondary will attend lessons at another school.
+Subjects Offered at Upper Secondary:
+
+*   PE
+    
+*   Music
+    
+\*Students taking music at Upper Secondary can opt to attend lessons at another school.
+
+Please refer to this link for more information about our CCAs.
+
+**
 
 ![](/images/Aesthetics.jpeg)
 
