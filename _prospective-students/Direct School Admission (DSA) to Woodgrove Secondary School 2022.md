@@ -3,15 +3,12 @@ title: Direct School Admission (DSA) to Woodgrove Secondary School 2022
 permalink: /prospective-students/direct-school-admission-dsa-to-woodgrove-secondary-school-2022/
 description: ""
 ---
-Woodgrove Secondary School is offering DSA in the two areas below for admission to Secondary 1 2023.
+Woodgrove Secondary School is offering DSA in the two areas below for admission to Secondary 1.
 
-**<u>Talent Area 1: Community Youth Leadership (Girls and Boys)</u>**
+Talent Area 1: Community Youth Leadership (Girls and Boys)
 
-The Community & Youth Leadership (CYL) programme envisions every Woodgrover to be a thoughtful leader. The programme aims to develop Woodgrovers to be compassionate leaders with the passion to serve. DSA students will be automatically enrolled into the school’s Student Leadership Development Programme. Students will access a wide variety of opportunities, including opportunities to lead the student body and hone their leadership skills. 
-
-For more information about Woodgrove Secondary School’s LLP, please refer to this [link](https://woodgrovesec.moe.edu.sg/curriculum/learning-for-life-programme-llp). 
-
-
+The Community Youth Leadership (CYL) programme envisions every Woodgrover as a future-ready learner and thoughtful leader. The programme aims to develop Woodgrovers to be compassionate leaders with the passion to serve. CYL offers two main platforms to develop and hone students’ leadership traits – the Student Leadership Development (SLD) Programme and the Values-in-Action (VIA) Programme. DSA students will automatically be enrolled into the school’s Student Leadership Development Programme, where they will be provided with a wide variety of opportunities and platforms to carry out student-initiated projects to lead the student body and hone their leadership skills through school events, as well as contribute to the community through our Values-in-Action (VIA) programme.
+ 
 <style>  
 img {  
   display: block;  
@@ -27,21 +24,18 @@ img {
 
 Applicants should:
 
-·       Demonstrate strong leadership qualities in Prefectorial Board/ CCA/ Class/ equivalent student organisation;
+·       Demonstrate strong leadership qualities in Prefectorial Board/ CCA/ Class/ equivalent student organisation;
 
-·       Have organised and/or participated in a service learning project;
+·       Have organised and/or participated in a service learning project;
 
-·       Be able to manage academic workload.
+·       Be able to manage academic workload.
 
-·       Have good conduct.
+·       Have good conduct.
 
   
+**Talent Area 2: Science for Sustainable Development (Girls and Boys)**
 
-**<u>Talent Area 2: Science for Sustainable Development</u> _(Girls and Boys)_**
-
-
-DSA students will be automatically enrolled into the school’s Tier 2 STEM Applied Learning Programme. Students will access a wide variety of opportunities, including workshops, small group mentoring for student-initiated projects, and internationalisation opportunities related to STEM and/ or Sustainability. For more information about Woodgrove Secondary School’s STEM ALP, please refer to this [link](https://woodgrovesec.moe.edu.sg/curriculum/applied-learning-programme-alp). 
-
+DSA students will be automatically enrolled into the school’s Tier 2 STEM Applied Learning Programme. Students will access a wide variety of opportunities, including workshops, small group mentoring for student-initiated projects, and internationalisation opportunities related to STEM and/ or Sustainability.
 
 <style>  
 img {  
@@ -53,48 +47,28 @@ img {
 <body><img src="/images/web%202.png" alt="Talent Area 2: Science for Sustainable Development (Girls and Boys)" style="width:70%;">  
   
 </body>
-<p style="text-align:center;"><strong>Photo: Snippets of Tier 2 Opportunities in 2022</strong></p>
+<p style="text-align:center;"><strong></strong></p>
 
-Criteria for DSA in Talent Area 2: Science for sustainable development
+**Criteria for DSA in Talent Area 2: Science for Sustainable Development**
 
 Applicants should:
 
-·       demonstrate strong interest and talent in the area of STEM (Science, Technology, Engineering, Mathematics);
+·       demonstrate strong interest and talent in the area of STEM (Science, Technology, Engineering, Mathematics);
 
-·       exuberate passion in advocating for sustainability/ the environment;
+·       exuberate passion in advocating for sustainability/ the environment;
 
-·       have participated in relevant opportunities/ CCA/ interest group within or outside school;
+·       have participated in relevant opportunities/ CCA/ interest group within or outside school;
 
-·       be able to manage academic workload; and
+·       be able to manage academic workload; and
 
-·       have good conduct. 
+·       have good conduct. 
 
-#### Overview of DSA-Sec Exercise
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-**The DSA-Sec Exercise will be conducted in the following stages:**
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
+Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
-
-| Stages | Timeframe | Remarks |
-| -------- | -------- | -------- |
-| Application     | 5 May 2023, 11am to 1 June 2023 3pm.  | Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2023, 11 am to 1 Jun 2023, 3 pm. **Please submit your application at [https://go.gov.sg/apply-dsa-sec](https://go.gov.sg/apply-dsa-sec).** **For more details, please refer to MOE website: [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).**
-| Selection | 27 Jun 2023  to  12 Sep 2023 |Shortlisted applicants will be invited for an interview between mid-July to mid-August. The school will notify the shortlisted applicants on the details of the interview. 
-| School Preference Submission| 31 Oct 2023 to 4 Nov 2023 | Applicants can submit up to three school preferences from schools that have given them Confirmed Offer or Waiting List offer. 
-| Results | Late November 2023 | Allocation results will be released through Primary Schools or email. |
-
-
-
-
-
-
-
-**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
-
-**Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.**
-
-
-
-**Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.**
 
 **Useful MOE weblinks:**
 
