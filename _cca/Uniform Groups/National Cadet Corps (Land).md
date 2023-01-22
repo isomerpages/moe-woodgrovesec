@@ -4,16 +4,38 @@ permalink: /our-curriculum/cca/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniform Groups
 ---
-**National Cadet Corps (Land)**
+#### National Cadet Corps (Land)
 
-Established in 2023, the National Cadet Corps (Land) aims to groom extraordinary youth leaders and nurture inspiring and committed citizens through fun, adventurous and military related activities.
+The National Cadet Corps (Land) aims to groom extraordinary youth leaders and nurture inspiring and committed citizens through fun, adventurous and military related activities.
 
 With its slogan, Trained - A Force To Be Reckoned With, the unit has grown from strength to strength by achieving the Gold Award for the Best Unit Competition (BUC) and Unit Recognition (UR).
 
-Aside from participating in activities, competitions and camps, our cadets immerse themselves in an array of activities related to the 'Cadet Strong' framework, where all NCC cadets are 'Cadet Strong', with a resilient mind, fit body and committed heart.
-
+Aside from participating in activities, competitions and camps, our cadets immerse themselves in an array of activities related to the ‘Cadet Strong’ framework, where all NCC cadets are ‘Cadet Strong’, with a resilient mind, fit body and committed heart.
 
 Find out more about us [here](https://www.instagram.com/woodgrove_warriors/?hl=en).
+
+Training Days
+
+Mondays - 3:30-5:30pm
+
+\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+
+Achievements and Highlights 2022
+
+Freestyle Drill Competition 
+
+Precision Drill Squad Competition 
+
+NCC Sports and Games (District Finalist)
+
+Orienteering Competition 
+
+Outstanding Cadet Award 
+
+Unit Recognition (Distinction)
+
+
+**Find out more about us [here](https://www.instagram.com/woodgrove_warriors/?hl=en)**
 
 
 **Training Days:**
