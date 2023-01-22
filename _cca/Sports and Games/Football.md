@@ -4,25 +4,26 @@ permalink: /our-curriculum/cca/sports-and-games/football/
 description: ""
 third_nav_title: Sports and Games
 ---
-**Football**
+#### Football
 
-WGS Football Team was established in 2007 as a recreational  team which sought to develop students, with or without prior experience in football, with relevant football knowledge and skills to encourage learning and promote healthy living. The football team took part in ad-hoc football games organised by the grassroots community.
+WGS Football Team was established in 2007 as a recreational team which sought to develop students, with or without prior experience in football, with relevant football knowledge and skills to encourage learning and promote healthy living. The football team took part in ad-hoc football games organised by the grassroots community.
 
-In 2008, football became an official CCA. It seeks to educate students to be resilient and disciplined through the training programmes. Furthermore, the  CCA employs effective methods to develop the fitness and strength of students to stay competitive for the National School Games. With its motto 'One for all, All for One', the football team places a strong emphasis on teamwork and being responsible for each other to emerge as a strong, cohesive unit.
+In 2008, football became an official CCA. It seeks to educate students to be resilient and disciplined through the training programmes. Furthermore, the CCA employs effective methods to develop the fitness and strength of students to stay competitive for the National School Games. With its motto ‘One for All, All for One’, the football team places a strong emphasis on teamwork and being responsible for each other to emerge as a strong, cohesive unit.
 
 **Training Days**
 
 Tuesday : 3.30pm to 5.30pm
 
-Thursday : 3.45pm to 5.45pm
+Thursday : 3.30pm to 5.30pm
 
-*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
 **Achievements and Highlights 2022**
 
 National School Games North Zone B Division Championships 
 
 National School Games North Zone C Division Championships
+
 
 <style>  
 img {  
