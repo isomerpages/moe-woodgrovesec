@@ -4,7 +4,7 @@ permalink: /our-curriculum/cca/clubs-and-societies/environmental-science-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-**Environmental Science Club**
+#### Environmental Science Club
 
 Established in 2002 with 15 students, the Environmental Science Club has played a key role in shaping environmental education in the school. The key programmes and projects of the club focus on various environmental themes such as climate action, water and energy conservation, nature and biodiversity appreciation, as well as green buildings and features. These are some of the ways through which the club creates greater awareness on environmental issues and events in the students and community.
 
@@ -14,11 +14,13 @@ In addition, the club has supportive and strong green partners who have provided
 
 Monday : 3.30pm to 5.30pm
 
-*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+Thursday: 3.30-5.30pm
+
+\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
 **Achievements and Highlights 2022**
 
-Farmer's Market @ Sembawang GRC
+Farmer’s Market @ Sembawang GRC
 
 Community in Nature Award Schools Category (Merit)
 
