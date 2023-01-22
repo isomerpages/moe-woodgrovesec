@@ -105,10 +105,12 @@ b.    Character and Citizenship Education (CCE)
 | Mass Talk by HPB appointed vendor   | Awareness of the different STIs and HIV/AIDS. Modes of transmission Modes of protection, specifically on how the condom is used. Consequences and impact of STIs/HIV     | Term 2 Week 1     |
 | Classroom based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 2 Week 3 |
 
+**Information for Parents**
 
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form via Parents Gateway.
 
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form via Parents gateway
 
-
-
-
+13.      Parents can contact the school at [woodgrove\_ss@moe.edu.sg](mailto:woodgrove_ss@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
