@@ -4,7 +4,7 @@ permalink: /our-curriculum/cca/clubs-and-societies/youth-flying-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-**Youth Flying Club**
+#### Youth Flying Club
 
 The Youth Flying Club (YFC) hopes to promote aviation among youths and inculcate a strong passion for flying. To achieve this, students embark on aeromodelling and flight simulation courses.
 
@@ -12,9 +12,11 @@ Members of the YFC experience hands-on activities such as first-person view (FPV
 
 **Training Days**
 
-Monday: 3:30-5:30pm
+Tuesday: 3:30-5:30pm
 
-*Additional sessions will be organised for selected students for the preparation of various events.
+Thursday: 3:30-5:30pm
+
+\*Additional sessions will be organised for selected students for the preparation of various events.
 
 **Achievements and Highlights 2022**
 
