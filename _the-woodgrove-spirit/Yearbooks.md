@@ -3,8 +3,6 @@ title: Yearbooks
 permalink: /Yearbook/permalink/
 description: ""
 ---
-
-
 Our memories bind us together as a Woodgrove Family and each year, we curate them to remind ourselves about the times spent together, friendships forged and achievements. 
 
 **2021**
