@@ -13,5 +13,3 @@ Our leadership are a dedicated team of individuals who plan, oversee implementat
 
 ![](/images/Leadership%20and%20Form%20Teachers/Key%20Personnel/slide4.png)
 
-
-
