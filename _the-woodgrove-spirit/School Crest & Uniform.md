@@ -20,4 +20,4 @@ The colour yellow symbolises positive attitudes and a strong commitment to excel
 
 ![](/images/The%20Woodgrove%20Spirit/480b9d4e25633832b1bba0f71e0d11b5.jpg)
 
-Woodgrove Secondary School has a distinctive lower secondary girl's uniform. It was the brainchild of former art teacher, Ms Dee Chia Yuteng. The classic Sailormoon design was inspired by the uniforms worn by Japanese girls in the movie, Loveletter.  
+Woodgrove Secondary School has a distinctive lower secondary girl's uniform. It was the brainchild of former art teacher, Ms Dee Chia Yuteng. The classic Sailormoon design was inspired by the uniforms worn by Japanese girls in the movie, Loveletter.
