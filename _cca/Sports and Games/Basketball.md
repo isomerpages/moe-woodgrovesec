@@ -25,9 +25,7 @@ Thursday: 3.45pm to 5.45pm
 National School Games North Zone B Division Championships National School Games North Zone C Division Championships
 
 ![](/images/BDivGirls2020.jpeg)
+Through sport, we have forged strong bonds with one another.
 
 ![](/images/BDivBoys2020.jpeg)
-
-
-
-
+Victory is the result of teamwork, sweat and tenacity. 
