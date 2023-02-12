@@ -29,5 +29,7 @@ First Aid Competition (Commendation)
 Trailblazer Competition (Gold)
 
 ![](/images/CCAs/Red%20Cross/IMG-20220719-WA0067%20(1).jpg)
+Our rehearsal sessions under the hot sun for National Day Parade 2022 enabled us to cultivate resilience and pride.
 
 ![](/images/CCAs/Red%20Cross/IMG-20220719-WA0042.jpg)
+We are proud to represent the school for National Day Parade 2022.
