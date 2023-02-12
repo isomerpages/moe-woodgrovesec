@@ -42,15 +42,13 @@ Key Programmes:
 
 
 
-
-  
-
 ![Biology lesson at Blood Bank](/images/Biology%20lesson%20at%20Blood%20Bank.jpg)
 
-
+We were given the opportunity to have a biology lesson at the blood bank and share what we have learnt in school.
 
 ![Scientific Inquiry Research Experience (SIRE) 2019](/images/Scientific%20Inquiry%20Research%20Experience%20(SIRE)%202019.jpg)
 
+We were part of the Scientific Inquiry Research Experience.
 
 
 <style>  
@@ -61,11 +59,11 @@ img {
 }  
 </style>  
 <body><img src="/images/3IN%20talk.jpeg" alt="IN3 (Inspire, Innovate, Inquire) Science Talk 2019" style="width:75%;">  
-  
+  We are proud to invite notable speakers to broaden our horizons on the relevance of science beyond school.
 </body>
 
 ![Learning Journey to NUS Science Demonstration Lab](/images/Learning%20Journey%20to%20NUS%20Science%20Demonstration%20Lab.jpg)
-
-
+We were given the opportunity to visit NUS to learn more about scientific inquiry.
 
 ![Secondary 2 Science Trails @ Singapore Science Centre](/images/Secondary%202%20Science%20Trails%20@%20Singapore%20Science%20Centre.jpg)
+The visit to the Science Center made the learning of science fun!
