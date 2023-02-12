@@ -37,4 +37,4 @@ Before we embark on a project, we plan on how to develop our product.
 We are given the opportunity to use various machines o devlop our product independently.
 
 ![](/images/IP%20Departments/Applied%20Sciences/WGS_123%20(2).jpg)
-Making our ideas into reality can be a challenging process. Our teachers are always there to guide us.
+Turning our ideas into reality can be a challenging process. Our teachers are always there to guide us.
