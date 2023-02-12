@@ -32,10 +32,9 @@ Key Programmes:
 
 \*Programmes are subjected to availability and might differ for each year.
   
-<img style="width:90%;" alt="School Uniform" src="/images/mathematics_modelling.jpg">  
-  
 
 
+**At the Mathematics Department, we provide students with opportunities to apply what they have learnt beyond the classroom.**
 <style>  
 img {  
   display: block;  
@@ -57,12 +56,9 @@ img {
 <img style="width:50%;" alt="School Uniform" src="/images/Sec%202%20Trail%202019%20(2).jpeg">  
   
 
-
 <style>  
 img {  
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
 }  
-</style>  
-<img style="width:80%;" alt="School Uniform" src="/images/Siling%20Peer%20Tutoring%20(1).jpeg">
