@@ -25,5 +25,10 @@ Singapore Amazing Flying Machine Competition (SAFMC) 2022
 SYFC Inter-school Aeromodelling Competition (SIAC) 2022
 
 ![](/images/CCAs/Youth%20Flying%20Club/WGS_264.jpg)
+We explore how drones can take flight, and how we can fly our drones responsibly.
+
 ![](/images/CCAs/Youth%20Flying%20Club/WGS_265%20(2).jpg)
+Our aspiring pilots get to try out the cockpit simulator.
+
 ![](/images/CCAs/Youth%20Flying%20Club/WGS_268%20(2).jpg)
+We are proud to be part of the Youth Flying Club family.
