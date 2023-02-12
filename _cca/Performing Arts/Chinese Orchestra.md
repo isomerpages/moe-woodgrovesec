@@ -21,4 +21,13 @@ Thursday : 3.30pm to 5.30pm
 Admiralty National Day Dinner 2022
 
 ![](/images/CNY%20Pic%201.jpeg)
-![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%201.png)![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%202.png)![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%203%20png.png)
+We are part of the annual Chinese New Year celebrations in school.
+
+![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%201.png)
+We are proud to perform for the community beyond school.
+
+![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%202.png)
+Our conductor has many years of experience and we value him.
+
+![](/images/CCAs/Chinese%20Orchestra/Chinese%20Orchestra%203%20png.png)
+Together, we are one united Chinese Orchestra,
