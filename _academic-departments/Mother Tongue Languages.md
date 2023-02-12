@@ -43,11 +43,17 @@ Key Programmes (Malay Unit):
 **
 
 ![](/images/IP%20Departments/Mother%20Tongue/Capture.png)
+Our Mother Tongue department has 2 branches. One for the study and appreciation of Chinese Language, and the other, Malay Language.
 
 ![](/images/IP%20Departments/Mother%20Tongue/S1_all.jpeg)
-
-![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_xin%20yao%20Concert%205.jpeg)
-
-![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_Chinese%20Chess%205.jpeg)
+We learned more about what goes on in a Malay Wedding to better appreciate the connection between the Malay Language and culture.
 
 ![](/images/IP%20Departments/Mother%20Tongue/S3_Dadar2.jpg)
+We also learned how to make Malay pastries to better appreciate the connection between the Malay Language and culture.
+
+![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_xin%20yao%20Concert%205.jpeg)
+We were given the opportunity to better appreciate the Chinese Language through local contemporary Mandopop.
+
+![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_Chinese%20Chess%205.jpeg)
+We learned more about Chinese Chess to better appreciate the connection between the Chinese Language and culture.
+
