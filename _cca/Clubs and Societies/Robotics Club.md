@@ -30,4 +30,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
+At the robotics club, we explore how to make robots work through coding.
+
+
 ![](/images/CCAs/Robotics/WGS_258%20(2).jpg)
+It is great to share a common passion with our friends - we believe that robots can make our lives better,
+
