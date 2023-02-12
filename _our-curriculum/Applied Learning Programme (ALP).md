@@ -15,24 +15,14 @@ The school organises the ALP through a Tiered Approach:
     
 All students are equipped with the twin enablers of Design Thinking and Coding through hands-on learning activities. The Design Thinking Process allows our students to take on a human-centric approach in solving problems, while coding expands the possibilities of the solutions our students can generate.
 
-**
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Students%20doing%20experiments%20during%20their%20ALP%20lesson.jpg" alt="Students doing experiments during their ALP lesson." style="width:90%;">  
-  
+
+
 </body>
 
 
 <p style="text-align:center;"></p>
   
-
-  
-
+**We explored how vertical farming can ensure food security in Singapore.**
 <style>  
 img {  
   display: block;  
@@ -43,19 +33,17 @@ img {
 <body><img src="/images/Students%20on%20excursion%20to%20learn%20about%20vertical%20farming.jpg" alt="Students on excursion to learn about vertical farming." style="width:90%;">  
 </body>
 <p style="text-align:center;">.</p>
- 
 <style>  
 img {  
   display: block;  
   margin-left: auto;  
   margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Students%20gaining%20insight%20on%20sustainable%20food%20production%20during%20their%20overseas%20trip.jpg" alt="Students gaining insight on sustainable food production during their overseas trip." style="width:90%;">  
+}  </style> 
+
+**We were given the opportunity to visit an aquaculture facility in Fujian, China to understand how abalone can be cultivated.**
+<body><img src="/images/Students%20gaining%20insight%20on%20sustainable%20food%20production%20during%20their%20overseas%20trip.jpg" style="width:90%;">  
   
 </body>
-
-
 
 <style>  
 img {  
