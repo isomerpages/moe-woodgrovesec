@@ -15,5 +15,5 @@ In 2021, a more contemporary version was produced by the school choir under the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tUCrhWwuaLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+Woodgrove Secondary School has a unique lower secondary girl's uniform. Do you know the story that inspired such a design?
 ![](/images/Slide5.jpeg)
