@@ -47,7 +47,7 @@ Key Programmes
   
 <img style="width:70%;" alt="School Uniform" src="/images/Engaging%20in%20dialogue%20during%20Reading%20Period.jpeg">  
   
-
+During our lessons, we work together to read between the lines.
 
 <style>  
 img {  
@@ -56,9 +56,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
+
+
 <img style="width:70%;" alt="School Uniform" src="/images/Words%20Go%20Round%20Talk%20by%20Mr%20Kenneth%20Kwek.jpeg">  
   
-
+We are excited to learn from a writer and how he uses language to write creatively.
 
 
 
@@ -70,3 +72,4 @@ img {
 }  
 </style>  
 <img style="width:70%;" alt="School Uniform" src="/images/National%20Schools%20Literature%20Festival.jpg">
+We look forward to the yearly National Schools Literature festival to celebrate our love for the subject and pit our wits against other schools in the various events.
