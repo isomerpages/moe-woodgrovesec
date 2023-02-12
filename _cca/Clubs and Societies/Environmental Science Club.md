@@ -33,3 +33,5 @@ Green Read 2022 Challenge by Bowen Secondary School
 ![](/images/CCAs/Environment%20Science%20Club/Capture.png)
 We are proud to be part of community outreach efforts to conserve the environment.
 
+![](/images/CCAs/Environment%20Science%20Club/WGS_092%20(1).jpg)
+We explore sustainable farming and how it could be the future for our food security.
