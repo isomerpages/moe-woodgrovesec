@@ -34,7 +34,6 @@ img {
 </style>  
 <body><img src="/images/football_4.jpeg" alt="SSSC North Zone C Division Football Championships 2016" style="width:80%;">  
   
-
 <style>  
 img {  
   display: block;  
