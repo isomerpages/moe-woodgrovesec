@@ -23,5 +23,10 @@ Admiralty PAssionArts Festival 2022 
 World of Woodgrove (WoW) Primary School Outreach
 
 ![](/images/CCAs/Choir/Capture.png)
+We are proud to support events in the community to strengthen the social fabric of our nation.
+
 ![](/images/CCAs/Choir/WGS_099.jpg)
+We value the effort of our coach who has been with us for years.
+
 ![](/images/CCAs/Choir/WGS_105.jpg)
+At the Woodgrove Choir, every voice has the potential to make music.
