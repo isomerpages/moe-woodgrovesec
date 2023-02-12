@@ -35,4 +35,10 @@ International Science Drama Competition 
 SYF Goes Online Showcase - 1 student's Monologue was selected for the nationwide showcase
 
 ![](/images/Image%2011%20Found%20You%20-%20Our%20Award%20Winning%20Performance%20in%202019.jpeg)
-![](/images/Image%2010%20Quiet%20Desperation%20-%20Our%20Award%20Winning%20Performance%20in%202015.jpeg)![](/images/Image%209%20Gemuk%20(Fat)%20-%20Our%20Award%20Winning%20Performance%20in%202012.jpeg)
+We highlighted the plight of refugees and how we should help them in the darkest of times.
+
+![](/images/Image%2010%20Quiet%20Desperation%20-%20Our%20Award%20Winning%20Performance%20in%202015.jpeg)
+In the production, Quiet Desperation, we highlighted the importance of mental health and how we need to forge a kinder society.
+
+![](/images/Image%209%20Gemuk%20(Fat)%20-%20Our%20Award%20Winning%20Performance%20in%202012.jpeg)
+We launched Gemuk, which deals with themes such as body image. 
