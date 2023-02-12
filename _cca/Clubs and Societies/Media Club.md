@@ -34,4 +34,7 @@ Photography and Video Coverage School Events:
     
 
 ![](/images/CCAs/Media/WGS_269.jpg)
+At the media club, we explore how video productions work. 
+
 ![](/images/CCAs/Media/WGS_271%20(2).jpg)
+We are happy to share our Woodgrove Story through photography and film.
