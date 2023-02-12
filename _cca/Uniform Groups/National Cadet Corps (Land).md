@@ -60,3 +60,5 @@ img {
 <body><img src="/images/Alumnus%20Haiqal.jpeg" alt="Alumnus Haiqal" style="width:50%;">  
   
 </body>
+
+We are proud to recognize the achievements of our students.
