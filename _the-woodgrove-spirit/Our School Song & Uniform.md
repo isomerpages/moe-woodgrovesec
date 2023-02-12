@@ -3,7 +3,6 @@ title: Our School Song & Uniform
 permalink: /School-Song/permalink/
 description: ""
 ---
-
 ![](/images/The%20Woodgrove%20Spirit/The%20School%20Song.png)
 
 Our school song was jointly composed by the school's first principal, Mrs Helena Song, and her team of pioneer teachers. First sung in 2000, the lyrics remain unchanged. 
@@ -16,5 +15,3 @@ In 2021, a more contemporary version was produced by the school choir under the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tUCrhWwuaLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Woodgrove Secondary School has a unique lower secondary girl's uniform. Do you know the story that inspired such a design?
-![](/images/Slide5.jpeg)
