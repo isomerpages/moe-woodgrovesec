@@ -26,5 +26,11 @@ National School Games North Zone B Division Championships (Quarterfinalists)
 
 National School Games North Zone C Division Championships
 
-![](/images/CCAs/Badminton/Badminton%201.png)![](/images/CCAs/Badminton/Badminton%202.png)
+![](/images/CCAs/Badminton/Badminton%201.png)
+Our training sessions include footwork and various techniques to ace the game.
+
+![](/images/CCAs/Badminton/Badminton%202.png)
+We value good sportsmanship in every match.
+
 ![](/images/CCAs/Badminton/Badminton%203.png)
+We learn to umpire matches.
