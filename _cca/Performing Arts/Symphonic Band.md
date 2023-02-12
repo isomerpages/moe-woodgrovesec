@@ -46,5 +46,9 @@ img {
 }  
 </style>  
 <body><img src="/images/Botanic%20Garden%201.jpeg" alt="Symphonic Band" style="width:80%;">  
+	     We are proud to perform and bring music to the community 
 	
   ![](/images/CCAs/Band/WGS_224.jpg)
+	Through regular practice, we strive to make music as one united band.
+	
+	
