@@ -24,6 +24,7 @@ Subjects Offered at Upper Secondary:
 
 Please refer to this [link](https://staging.domm9e24mq5p4.amplifyapp.com/cca/permalink/) for more information about our CCAs.
 
+**At Woodgrove Secondary School, all students are given the opportunity to explore the arts and outdoor adventure**
 ![](/images/Aesthetics.jpeg)
 
 ![ACES Day](/images/ACES%20Day.jpg)
