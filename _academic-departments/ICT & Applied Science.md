@@ -29,8 +29,12 @@ Subjects Offered at Upper Secondary 
 *   Elements of Business Skills
     
 
-![](/images/IP%20Departments/Applied%20Sciences/WGS_010%20(1).jpg)
-
 ![](/images/IP%20Departments/Applied%20Sciences/WGS_020.jpg)
+Before we embark on a project, we plan on how to develop our product.
+
+
+![](/images/IP%20Departments/Applied%20Sciences/WGS_010%20(1).jpg)
+We are given the opportunity to use various machines o devlop our product independently.
 
 ![](/images/IP%20Departments/Applied%20Sciences/WGS_123%20(2).jpg)
+Making our ideas into reality can be a challenging process. Our teachers are always there to guide us.
