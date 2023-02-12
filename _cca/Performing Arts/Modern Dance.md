@@ -25,5 +25,10 @@ Admiralty Chinese New Year Celebration 2022
 National Day Heartland @ North West District 2022
 
 ![](/images/CCAs/Modern%20Dance/Capture.png)
+We are proud to be part of the school's Chinese New Year celebrations.
+
 ![](/images/CCAs/Modern%20Dance/WGS_074.jpg)
+During training sessions, we master the art of being synchronized. This requires lots of communication and coordination.
+
 ![](/images/CCAs/Modern%20Dance/20221027_134034AB1.jpg)
+We are proud to feature the best of us when our Primary Six visitors visit our school.
