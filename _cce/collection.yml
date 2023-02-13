@@ -1,0 +1,6 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Citizenship and Character Education.md
+      - Sexuality Education.md

@@ -1,15 +1,50 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our Identity
+    url: /logo/permalink/
+    sublinks:
+      - title: School Crest & Uniform
+        url: /logo/permalink/
+      - title: Our Vision, Mission and Values
+        url: /our-woodgrove/vision-mission-values/
+      - title: Our School Song
+        url: /School-Song/permalink/
+      - title: Yearbook
+        url: /Yearbook/permalink/
+  - title: Our Team
+    url: /our-school-leaders/permalink/
+    sublinks:
+      - title: Our School Leaders
+        url: /our-school-leaders/permalink/
+      - title: "Key Personnel "
+        url: /leadership/permalink/
+      - title: Form Teachers
+        url: /formteachers/permalink
+      - title: Counselling & ECG
+        url: /counselling/permalink
+  - title: Curriculum
+    url: /our-curriculum/instructional-programmes-ip/english-and-literature/
+    sublinks:
+      - title: Academic Departments
+        url: /our-curriculum/instructional-programmes-ip/english-and-literature/
+      - title: Citizenship & Character Ed.
+        url: /cce/permalink/
+      - title: Applied Learning Programme
+        url: /our-curriculum/applied-learning-programme-alp/
+      - title: Learning for Life Programme
+        url: /our-curriculum/learning-for-life-programme-llp/
+      - title: CCA
+        url: /cca/permalink/overview/
+      - title: Full Subject Based Banding
+        url: /our-curriculum/subject-based-banding/
+      - title: Digital Literacy
+        url: /personal-learning-devices/permalink/
+  - title: Prospective Students
+    collection: prospective-students
+  - title: Partners
+    collection: our-partners
+  - title: Staff
+    url: /staff/links/
+    sublinks:
+      - title: Useful Links
+        url: /staff/links/

@@ -1,0 +1,10 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - "Partners: Alumni.md"
+      - School Advisory Committee.md
+      - Vendors and Services.md
+      - Parents/Parent & Child Toolkit.md
+      - Parents/Parent Support Group.md
+      - Parents/.keep

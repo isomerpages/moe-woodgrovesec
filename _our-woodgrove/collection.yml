@@ -1,0 +1,11 @@
+collections:
+  our-woodgrove:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Our People   Contact us/.keep
+      - Our People   Contact us/School Executive Team.md
+      - Our People   Contact us/Form Teachers 2022.md
+      - Woodgrove Heritage.md
+      - Yearbook.md
+      - Locate Us.md

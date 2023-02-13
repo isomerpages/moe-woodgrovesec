@@ -1,0 +1,5 @@
+collections:
+  peaks-of-success:
+    output: true
+    order:
+      - Success Stories.md
