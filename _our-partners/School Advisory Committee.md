@@ -12,4 +12,4 @@ description: ""
 |Member  |Mr Tan Hua Koon Stuart     | 
 | Member    |Mr Khoo Lian Wai Jimmy     | 
 | Member   |Mr Teoh Shi Hao Sean     | 
-| Principal / Honorary Secretary     | Mr Chua Chor Huat |     
+| Principal / Honorary Secretary     | Mr Chua Chor Huat |
