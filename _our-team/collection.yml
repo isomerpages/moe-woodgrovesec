@@ -2,7 +2,7 @@ collections:
   our-team:
     output: true
     order:
-      - Counsellors.md
       - Our School Leaders.md
       - Key Personnel.md
       - Form Teachers & Counsellors.md
+      - Counsellors.md
