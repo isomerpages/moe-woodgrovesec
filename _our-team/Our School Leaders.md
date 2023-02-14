@@ -3,19 +3,15 @@ title: Our School Leaders
 permalink: /our-school-leaders/permalink/
 description: ""
 ---
-
-
 ![](/images/School%20Leaders.jpg)
 
 Dear Reader,
 
-Woodgrove Secondary School has been in existence for more than 20 years and we are honoured to be helming a school that has developed strengths in various fields such as environmental education, and emerging niche areas such as Youth Community Leadership and STEM for Sustainable Living in the Community.
+In WGS, we strive to equip our Woodgrovers with the necessary skills and mind-sets to be effective life-long learners. Thus, we believe in creating many learning opportunities and platforms for students to explore, through which they can discover their passions and talents. Beyond the regular secondary school curriculum, we provide real-life applications of learning in all our subjects, particularly through our school’s Applied Learning Programme on Sustainability and Learning for Life Programme on Community and Youth Leadership.
 
-Through the years, the school has had her ups and downs but time and again, the Woodgrove family has always rallied and soared above difficult times. The post-covid world presents a new set of challenges and opportunities for our students and we certainly look forward to preparing our students into becoming future ready learners and thoughtful leaders.
+The COVID-19 pandemic has brought many challenges to the educational landscape, there are also exciting opportunities ahead in the dawn of this new digital era which has spurred and championed the use of various digital platforms. As we adapt to new norms and prepare for the implementation of key MOE initiatives such as the use of personal learning devices and Full Subject-Based Banding, our whole school community will forge ahead in this new chapter of life with confidence and steadfastness.
 
-Our team of teachers are committed to developing our students through various specially curated learning experiences and we believe that our students can excel in both academic and non-academic areas. 
-
-Finally, it does take a village to raise a child. We value the efforts of our parents, alumni and partners in helping to raise mature and responsible adults of the future.
+We are excited for the opportunities to learn and grow in the forthcoming years, and our greatest strength lies in our commitment to provide an all-rounded education for our students.
 
 Best Regards,
 
