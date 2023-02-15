@@ -97,20 +97,7 @@ img {
 
 ![Sports Day](/images/Sports%20Day.jpg)
 
-<p style="text-align:center;"> <strong>Aesthetics Nite</strong></p>
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<body><img src="/images/Aesthetics%20Nite_1.jpg" alt="Aesthetics Nite" style="width:60%;">  
-  
-</body>
-
-![Aesthetics Nite](/images/Aesthetics%20Nite_2.jpg)
 
 <p style="text-align:center;"> <strong>Family Day</strong></p>
 

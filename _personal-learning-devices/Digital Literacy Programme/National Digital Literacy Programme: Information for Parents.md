@@ -1,9 +1,10 @@
 ---
-title: National Digital Literacy Programme for Parents
+title: "National Digital Literacy Programme: Information for Parents"
 permalink: /personal-learning-devices/permalink/
 description: ""
 third_nav_title: Digital Literacy Programme
 ---
+
 
 
 
