@@ -23,4 +23,4 @@ We have consolidated a list of links that you frequent. We hope this is useful.
 *   [All Ears Form Builder](https://forms.moe.edu.sg/)
 *   [FormSg](https://form.gov.sg/#!/)
 *   [ACE Learning Program](https://sites.google.com/moe.edu.sg/ace-wgs)
-*   [Class Timetables / Assessments (WA1)](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/useful-links-for-students)
+*   [Class Timetables / Assessments (WA1)](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home)
