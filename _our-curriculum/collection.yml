@@ -2,6 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
+      - "Digital Literacy/National Digital Literacy Programme: Information for
+        Parents.md"
       - Digital Literacy/National Digital Literacy Programmes for Students.md
       - Digital Literacy/.keep
       - Aesthetics, Physical Education, Co Curricular Activities.md
