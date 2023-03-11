@@ -2,5 +2,4 @@ collections:
   academic-departments:
     output: true
     order:
-      - Science.md
       - Aesthetics, Physical Education, Co Curricular Activities.md
