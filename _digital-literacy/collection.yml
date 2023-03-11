@@ -1,5 +1,5 @@
 collections:
-  digital-literacy-programme:
+  digital-literacy:
     output: true
     order:
       - Digital Literacy Programme/National Digital Literacy Programmes for
