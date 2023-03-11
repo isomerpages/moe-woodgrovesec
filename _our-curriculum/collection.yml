@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Departments/English and Literature.md
       - Academic Departments/.keep
       - Sexuality Education.md
       - Character and Citizenship Education.md
