@@ -1,5 +1,4 @@
 collections:
   academic-departments:
     output: true
-    order:
-      - Aesthetics, Physical Education, Co Curricular Activities.md
+    order: []
