@@ -2,9 +2,9 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Character and Citizenship Ed/Sexuality Education.md
-      - Character and Citizenship Ed/Character and Citizenship Education.md
       - Character and Citizenship Ed/.keep
+      - Character and Citizenship Ed/Character and Citizenship Education.md
+      - Character and Citizenship Ed/Sexuality Education.md
       - "Digital Literacy/National Digital Literacy Programme: Information for
         Parents.md"
       - Digital Literacy/National Digital Literacy Programmes for Students.md
