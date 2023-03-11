@@ -2,7 +2,6 @@ collections:
   academic-departments:
     output: true
     order:
-      - Mathematics.md
       - ICT & Applied Science.md
       - Science.md
       - Aesthetics, Physical Education, Co Curricular Activities.md
