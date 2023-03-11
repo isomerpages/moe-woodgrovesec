@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Digital Literacy/.keep
       - Aesthetics, Physical Education, Co Curricular Activities.md
       - Academic Departments/Science.md
       - Academic Departments/ICT & Applied Science.md
