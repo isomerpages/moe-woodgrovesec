@@ -69,7 +69,6 @@ Social networking sites, online games, videosharing sites and devices such as mo
 *   deliberate online falsehoods; and 
     
 *   the loss of opportunities to build deep connections with peers, resulting in feelings of isolation. 
-    
 
 All of these can have an adverse impact on our students' well-being.
 
