@@ -38,6 +38,8 @@ Sexuality Education aims to help students:
     
 *   Develop a moral compass, respect for themselves and for others as sexual beings, premised on the heterosexual married couple forming a nuclear family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
+More information can be found [here](https://www.woodgrovesec.moe.edu.sg/our-curriculum/character-and-citizenship-education-cce/sexuality-education/).
+
 # Mental Health
 
 Mental well-being is key to overall health and development. To strengthen students’ mental well-being, we need to equip them to manage their thoughts, feelings and behaviours to effectively cope with life’s stresses, relate well to others, develop a sense of meaning and purpose in life, as well as contribute to the community. 
