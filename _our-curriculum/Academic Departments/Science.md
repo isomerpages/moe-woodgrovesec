@@ -2,7 +2,9 @@
 title: Science
 permalink: /our-curriculum/instructional-programmes-ip/InfocommTechnologyAppliedSciences/
 description: ""
+third_nav_title: Academic Departments
 ---
+
 _**Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.”**_
 
 **Stephen Hawking** <br>

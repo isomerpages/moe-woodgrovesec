@@ -1,5 +1,5 @@
 collections:
-  our-woodgrove:
+  expired-our-woodgrove:
     output: true
     order:
       - Principal’s Message.md

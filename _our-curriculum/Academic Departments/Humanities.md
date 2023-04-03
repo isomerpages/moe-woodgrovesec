@@ -2,7 +2,9 @@
 title: Humanities
 permalink: /our-curriculum/instructional-programmes-ip/humanities/
 description: ""
+third_nav_title: Academic Departments
 ---
+
 The Humanities Department aims to develop learners who are global citizens with the passion to take an active role in the bettering of the lives of the people, society and environment. The department consciously delivers the curriculum using the inquiry approach. Beyond the knowledge and skills, we hope that learners will develop an interest in the study of Humanities through the offering of a wide range of programmes. We believe in making the learning of Humanities come alive through authentic learning experiences.
 
 Subjects Offered at Lower Secondary:

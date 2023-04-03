@@ -2,8 +2,10 @@
 title: National Digital Literacy Programmes for Students
 permalink: /personal-learning-devices/Digital-Literacy-Programme/permalink/
 description: ""
-third_nav_title: Digital Literacy Programme
+third_nav_title: Digital Literacy
 ---
+
+
 Dear Student,
 
 Congratulations on receiving your personal learning device. It is important that you are a responsible user of technology.

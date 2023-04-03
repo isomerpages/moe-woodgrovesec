@@ -1,5 +1,5 @@
 collections:
-  chinese-language:
+  expired-chinese-language:
     output: true
     order:
       - 2019年.md

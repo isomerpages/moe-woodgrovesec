@@ -2,7 +2,10 @@
 title: Aesthetics, Physical Education, Co Curricular Activities
 permalink: /our-curriculum/instructional-programmes-ip/AestheticsPhysicalEducationCoCurricularActivities/
 description: ""
+third_nav_title: Academic Departments
 ---
+
+
 Newly formed in 2023, the Aesthetics, Physical Education and CCA Department aims to provide students with a wide array of experiences that range from the physical to aesthetics domains. By nurturing the whole child, the department hopes to be an anchor that champions the development of students holistically.
 
 Subjects Offered at Lower Secondary:

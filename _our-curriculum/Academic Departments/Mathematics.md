@@ -2,7 +2,9 @@
 title: Mathematics
 permalink: /our-curriculum/instructional-programmes-ip/mathematics/
 description: ""
+third_nav_title: Academic Departments
 ---
+
 At the Mathematics Department, we believe in developing students’ mastery of mathematical processes such as reasoning, communication and modelling. We also hope to bring coherence and connections between different topics so as to develop in students a deeper and more robust understanding of mathematics and a better appreciation of the discipline. Finally, we believe in developing students’ metacognition by promoting self-directed learning and reflection.
 
 Subjects offered at Lower Secondary:

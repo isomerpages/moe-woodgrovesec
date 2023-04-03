@@ -2,7 +2,9 @@
 title: Mother Tongue Languages
 permalink: /our-curriculum/instructional-programmes-ip/MotherTongueLanguages/
 description: ""
+third_nav_title: Academic Departments
 ---
+
 The Mother Tongue Languages Department seeks to equip students with the ability to acquire cultural knowledge and appreciation, expose and engage students with a range of literary texts, and connect students to contemporary issues and current affairs by contextualising learning and integrating technology for engaged learning.
 
 Subjects Offered at Upper and Lower Secondary:

@@ -2,6 +2,7 @@
 title: English and Literature
 permalink: /our-curriculum/instructional-programmes-ip/english-and-literature/
 description: ""
+third_nav_title: Academic Departments
 ---
 The English Language and Literature Department aims to mould students into empathetic communicators, discerning readers and creative inquirers of the English Language. On top of this, it also aims to cultivate a love of the English Language as an aesthetic form as well as empower students to use language creatively for impact.
 
