@@ -43,7 +43,7 @@ b.    Character and Citizenship Education (CCE)
 
 **At Woodgrove Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
-[Secondary 1](https://cms.isomer.gov.sg/sites/moe-woodgrovesec/media/files/mediaDirectory/files/editMediaSettings/2023%20info%20on%20sed%20for%20schs%20website%20sec%201.pdf)
+[Secondary 1](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%201.pdf)
 
 [Secondary 2](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Others/2023%20Sexuality%20Education%20sec%202.pdf)
 
