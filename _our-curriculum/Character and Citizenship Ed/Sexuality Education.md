@@ -45,13 +45,13 @@ b.    Character and Citizenship Education (CCE)
 
 [Secondary 1](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%201.pdf)
 
-[Secondary 2](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Others/2023%20Sexuality%20Education%20sec%202.pdf)
+[Secondary 2](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%202.pdf)
 
-[Secondary 3](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Others/2023%20Sexuality%20Education%20Sec%203.pdf)
+[Secondary 3](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%203.pdf)
 
-[Secondary 4](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Others/2023%20Sexuality%20Education%20Sec%204.pdf)
+[Secondary 4](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%204.pdf)
 
-[Secondary 5](https://woodgrovesec.moe.edu.sg/qql/slot/u609/Others/2023%20Sexuality%20Education%20Sec%205.pdf)
+
 
 **MOE Sexuality Education in Schools**
 
