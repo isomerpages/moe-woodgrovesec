@@ -51,6 +51,8 @@ b.    Character and Citizenship Education (CCE)
 
 [Secondary 4](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%204.pdf)
 
+[Secondary 5](/files/2023%20info%20on%20sed%20for%20schs%20website%20sec%205.pdf)
+
 
 
 **MOE Sexuality Education in Schools**
