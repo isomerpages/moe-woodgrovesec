@@ -21,4 +21,3 @@ We hope the newest members of our school had a fun and fulfilling time at the Op
 ![](/images/Latest%20News/CCA%20Open%20House%202023/20230112_162147%20(1)-min.jpg)
 
 ![](/images/Latest%20News/CCA%20Open%20House%202023/20230112_153801-min.jpg)
-
