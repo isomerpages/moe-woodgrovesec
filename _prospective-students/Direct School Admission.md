@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /prospective-students/dsa/
+permalink: /prospective-students/permalink/
 description: ""
 ---
 Woodgrove Secondary School is offering DSA in the two areas below for admission to Secondary 1.
