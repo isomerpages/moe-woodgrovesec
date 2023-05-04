@@ -2,4 +2,5 @@ collections:
   prospective-students:
     output: true
     order:
+      - Direct School Admissions.md
       - Woodgrove Open House.md
