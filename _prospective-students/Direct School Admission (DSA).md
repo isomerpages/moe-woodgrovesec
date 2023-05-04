@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /prospective-students/dsa-talent/
+permalink: /prospective-students/permalink/
 description: ""
 ---
 **
