@@ -2,6 +2,4 @@ collections:
   prospective-students:
     output: true
     order:
-      - Direct School Admission (DSA).md
-      - Direct School Admission.md
       - Woodgrove Open House.md
