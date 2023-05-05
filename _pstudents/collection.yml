@@ -1,5 +1,0 @@
-collections:
-  pstudents:
-    output: true
-    order:
-      - Direct School Admission.md
