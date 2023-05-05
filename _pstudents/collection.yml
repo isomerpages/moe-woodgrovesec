@@ -1,4 +1,5 @@
 collections:
   pstudents:
     output: true
-    order: []
+    order:
+      - Woodgrove Open House.md
