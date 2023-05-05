@@ -20,7 +20,7 @@ Thursday : 3.30pm to 5.30pm
 
 **Achievements and Highlights 2022**
 
-National School Games North Zone B Division Championships 
+National School Games North Zone B Division Championships&nbsp;
 
 National School Games North Zone C Division Championships
 
@@ -32,7 +32,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/football_4.jpeg" alt="SSSC North Zone C Division Football Championships 2016" style="width:80%;">  
+<img src="/images/CCAs/football_4.jpeg" alt="SSSC North Zone C Division Football Championships 2016" style="width:80%;">  
   
 <style>  
 img {  
@@ -41,9 +41,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/football_10.jpeg" alt="First 11 at one of the home ground match." style="width:80%;">  
+<img src="/images/CCAs/football_10.jpeg" alt="First 11 at one of the home ground match." style="width:80%;">  
   
-</body>
+
 
 
 
@@ -54,6 +54,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/football_league%202%20final.jpeg" alt="League 2 final versus Guangyang Secondary School" style="width:80%;">  
-  
-</body>
+<img src="/images/CCAs/football_league%202%20final.jpeg" alt="League 2 final versus Guangyang Secondary School" style="width:80%;">
