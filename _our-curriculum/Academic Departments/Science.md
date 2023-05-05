@@ -43,7 +43,7 @@ Key Programmes:
 
 
 
-![Biology lesson at Blood Bank](/images/ungrouped photos/Biology%20lesson%20at%20Blood%20Bank.jpg)
+![Biology lesson at Blood Bank](![](/images/Ungrouped%20photos/Biology%20lesson%20at%20Blood%20Bank.jpg))
 
 We were given the opportunity to have a biology lesson at the blood bank and share what we have learnt in school.
 
