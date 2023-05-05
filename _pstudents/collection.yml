@@ -2,5 +2,4 @@ collections:
   pstudents:
     output: true
     order:
-      - DSA Test.md
       - Direct School Admission.md
