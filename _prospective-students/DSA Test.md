@@ -89,5 +89,4 @@ Useful MOE weblinks:
 
 Contact Us
 
-For further enquiries, parents/ applicants may email us at woodgrove\_ss@moe.edu.sg with \[DSA\] in the subject of the email.
-
+For further enquiries, parents/ applicants may email us at woodgrove_ss@moe.edu.sg with \[DSA\] in the subject of the email.
