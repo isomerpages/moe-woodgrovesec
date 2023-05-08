@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Direct School Admission.md
-      - DSA Test.md
       - Woodgrove Open House.md
