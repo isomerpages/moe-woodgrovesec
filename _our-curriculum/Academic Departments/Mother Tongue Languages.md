@@ -4,7 +4,6 @@ permalink: /our-curriculum/instructional-programmes-ip/MotherTongueLanguages/
 description: ""
 third_nav_title: Academic Departments
 ---
-
 The Mother Tongue Languages Department seeks to equip students with the ability to acquire cultural knowledge and appreciation, expose and engage students with a range of literary texts, and connect students to contemporary issues and current affairs by contextualising learning and integrating technology for engaged learning.
 
 Subjects Offered at Upper and Lower Secondary:
@@ -42,8 +41,6 @@ Key Programmes (Malay Unit):
 
 \*Programmes are subject to availability and might differ for each year.
 
-**
-
 ![](/images/IP%20Departments/Mother%20Tongue/Capture.png)
 Our Mother Tongue department has 2 branches. One for the study and appreciation of Chinese Language, and the other, Malay Language.
 
@@ -58,4 +55,3 @@ We were given the opportunity to better appreciate the Chinese Language through 
 
 ![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_Chinese%20Chess%205.jpeg)
 We learned more about Chinese Chess to better appreciate the connection between the Chinese Language and culture.
-

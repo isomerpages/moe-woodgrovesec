@@ -1,6 +1,6 @@
 ---
 title: Woodgrove Open House
-permalink: /prospective-students/permalink/
+permalink: /pstudents/open-house/
 description: ""
 ---
 At Woodgrove Secondary School, we believe that prospective students should make an informed decision by considering what the school has to offer. 

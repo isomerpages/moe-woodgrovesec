@@ -39,8 +39,6 @@ links:
         url: /our-curriculum/subject-based-banding/
       - title: Digital Literacy
         url: /personal-learning-devices/Digital-Literacy-Programme/permalink/
-  - title: Prospective Students
-    collection: prospective-students
   - title: Partners
     collection: our-partners
   - title: Staff
@@ -48,3 +46,5 @@ links:
     sublinks:
       - title: Useful Links
         url: /staff/links/
+  - title: Prospective Students
+    collection: prospective-students

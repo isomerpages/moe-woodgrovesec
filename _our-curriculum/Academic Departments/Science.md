@@ -4,7 +4,6 @@ permalink: /our-curriculum/instructional-programmes-ip/InfocommTechnologyApplied
 description: ""
 third_nav_title: Academic Departments
 ---
-
 _**Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.”**_
 
 **Stephen Hawking** <br>
@@ -14,7 +13,7 @@ The Science Department aims to nurture students to become scientific literate ci
 
 Subjects Offered at Lower Secondary:
 
-*   General Science - Students will discover a range of topics that span across Biology, Physics and Chemistry
+*   General Science&nbsp;- Students will discover a range of topics that span across Biology, Physics and Chemistry
 
 Subjects Offered at Upper Secondary:
 
@@ -44,7 +43,7 @@ Key Programmes:
 
 
 
-![Biology lesson at Blood Bank](/images/Biology%20lesson%20at%20Blood%20Bank.jpg)
+![Biology lesson at Blood Bank](/images/Ungrouped%20photos/Biology%20lesson%20at%20Blood%20Bank.jpg)
 
 We were given the opportunity to have a biology lesson at the blood bank and share what we have learnt in school.
 
@@ -60,9 +59,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/3IN%20talk.jpeg" alt="IN3 (Inspire, Innovate, Inquire) Science Talk 2019" style="width:75%;">  
+<img src="/images/3IN%20talk.jpeg" alt="IN3 (Inspire, Innovate, Inquire) Science Talk 2019" style="width:75%;">  
   We are proud to invite notable speakers to broaden our horizons on the relevance of science beyond school.
-</body>
+
 
 ![Learning Journey to NUS Science Demonstration Lab](/images/Learning%20Journey%20to%20NUS%20Science%20Demonstration%20Lab.jpg)
 We were given the opportunity to visit NUS to learn more about scientific inquiry.
