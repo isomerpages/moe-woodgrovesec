@@ -14,9 +14,9 @@ sections:
         - title: Parent-Child Tool Kit
           description: "Key Termly Information "
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
-        - title: Direct School Admission
-          description: Be Future Ready With Us
-          url: https://drive.google.com/file/d/1UdySuGxCKTFh87h1pHRyGaWp4eD9AS9s/view?usp=sharing
+        - title: Success Stories
+          description: School of Future Ready Learners
+          url: /success-stories/permalink/
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
