@@ -3,7 +3,7 @@ title: Our School Leaders
 permalink: /our-school-leaders/permalink/
 description: ""
 ---
-![](/images/School%20Leaders.jpg)
+![](/images/School%20leaders/school%20leaders_2023.jpg)
 
 In WGS, we strive to equip our Woodgrovers with the necessary skills and mind-sets to be effective life-long learners. Thus, we believe in creating many learning opportunities and platforms for students to explore, through which they can discover their passions and talents. Beyond the regular secondary school curriculum, we provide real-life applications of learning in all our subjects, particularly through our school’s Applied Learning Programme on Sustainability and Learning for Life Programme on Community and Youth Leadership.
 

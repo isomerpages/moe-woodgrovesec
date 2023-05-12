@@ -2,7 +2,7 @@
 title: National Cadet Corps (Land)
 permalink: /our-curriculum/cca/uniformed-groups/national-cadet-corps-land/
 description: ""
-third_nav_title: Uniform Groups
+third_nav_title: Uniformed Groups
 ---
 #### National Cadet Corps (Land)
 
@@ -21,15 +21,15 @@ Mondays - 3:30-5:30pm
 
 **Achievements and Highlights 2022**
 
-Freestyle Drill Competition 
+Freestyle Drill Competition&nbsp;
 
-Precision Drill Squad Competition 
+Precision Drill Squad Competition&nbsp;
 
 NCC Sports and Games (District Finalist)
 
-Orienteering Competition 
+Orienteering Competition&nbsp;
 
-Outstanding Cadet Award 
+Outstanding Cadet Award&nbsp;
 
 Unit Recognition (Distinction)
 
@@ -57,8 +57,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Alumnus%20Haiqal.jpeg" alt="Alumnus Haiqal" style="width:50%;">  
+<img src="/images/Alumnus%20Haiqal.jpeg" alt="Alumnus Haiqal" style="width:50%;">  
   
-</body>
+
 
 We are proud to recognize the achievements of our students.
