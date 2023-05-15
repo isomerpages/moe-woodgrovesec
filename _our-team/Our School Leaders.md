@@ -22,5 +22,3 @@ Chua Chor Huat
 Principal
 
 Woodgrove Secondary School
-
-
