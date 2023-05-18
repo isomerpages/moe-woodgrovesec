@@ -21,7 +21,8 @@ We are very proud of WGS and especially proud of our amazing Woodgrovers. Please
 <style>
   .no-spacing {
     line-height: ;
-    font-size: 16px;
+    font-size: 16px; 
+  }
 </style>
 
 <div class="no-spacing">
