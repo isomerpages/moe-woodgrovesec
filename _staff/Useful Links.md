@@ -7,6 +7,7 @@ Dear Staff,
 
 We have consolidated a list of links that you frequent. We hope this is useful.
 
+* [One Stop SCT and ICT resources (Staffs Only)](https://woodgrove.padlet.org/Shirley/wgs-sct-and-useful-links-for-wgs-staff-only-f0fc240vhvxtw898)
 *   [iCON mail](https://workspace.google.com/dashboard)
 *   [Resource Booking System](https://rbs.avero-tech.com/login.html)  
     
