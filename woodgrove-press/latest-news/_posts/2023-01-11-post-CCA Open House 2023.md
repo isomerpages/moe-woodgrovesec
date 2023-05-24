@@ -1,6 +1,6 @@
 ---
 title: CCA Open House 2023
-permalink: /woodgrove-press/latest-news/permalink/
+permalink: /woodgrove-press/latest-news/cca-open-house-2023/
 date: 2023-01-11
 layout: post
 description: ""

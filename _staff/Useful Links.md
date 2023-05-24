@@ -7,7 +7,7 @@ Dear Staff,
 
 We have consolidated a list of links that you frequent. We hope this is useful.
 
-* [One Stop SCT and ICT resources (Staffs Only)](https://woodgrove.padlet.org/Shirley/wgs-sct-and-useful-links-for-wgs-staff-only-f0fc240vhvxtw898)
+* [One Stop SCT and ICT resources (Staff Only)](https://woodgrove.padlet.org/Shirley/wgs-sct-and-useful-links-for-wgs-staff-only-f0fc240vhvxtw898)
 *   [iCON mail](https://workspace.google.com/dashboard)
 *   [Resource Booking System](https://rbs.avero-tech.com/login.html)  
     
@@ -15,13 +15,13 @@ We have consolidated a list of links that you frequent. We hope this is useful.
     
 *   [HRP](https://www.hrp.gov.sg/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
-*   [Parents Gateway (Teacher login)](https://pg.moe.edu.sg/)
-*   [School Cockpit (intranet)](https://schoolcockpit.moe.gov.sg/)
+*   [Parents Gateway (Teacher Login)](https://pg.moe.edu.sg/)
+*   [School Cockpit (Intranet)](https://schoolcockpit.moe.gov.sg/)
 *   [SC Mobile](https://scmobile.moe.edu.sg/login)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [WGS Library Catalogue](https://schoolibrary.moe.edu.sg/woodgrovesec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [iExams2](https://iexams.seab.gov.sg/)
 *   [All Ears Form Builder](https://forms.moe.edu.sg/)
-*   [FormSg](https://form.gov.sg/#!/)
+*   [FormSG](https://form.gov.sg/#!/)
 *   [ACE Learning Program](https://sites.google.com/moe.edu.sg/ace-wgs)
 *   [Class Timetables / Assessments (WA1)](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home)
