@@ -14,7 +14,7 @@ description: ""
 | 2A    | Mdm Ang Leng Leng<br>ang_leng_leng@moe.edu.sg | Mdm Chan Yen Ling Jacqueline<br>chan_yen_ling_jacqueline@moe.edu.sg |
 | 2B    | Mdm Sim Hui Kee<br>sim_hui_kee@moe.edu.sg | Mdm Nai Irene<br>Nai_IRENE@moe.edu.sg |
 | 2C    | Ms Chong Yu Yun<br>Chong_Yu_Yun@moe.edu.sg | Ms Gina Goh<br>goh_si_min_gina@moe.edu.sg |
-| 2D    | Ms Seah Xin Ni<br>Seah_Xin_Ni@moe.edu.sg | Mr Thng Guan Heng<br>thng_guan_heng@moe.edu.sg |
+| 2D    | Ms Seah Xin Ni<br>seah_xin_ni@moe.edu.sg | Mr Thng Guan Heng<br>thng_guan_heng@moe.edu.sg |
 | 2E    | Mdm Cherylin Koh Li Hong<br>koh_li_hong@moe.edu.sg | Mr Muhamad Isham Bin Ishak<br>muhamad_isham_ishak@moe.edu.sg |
 | 2F    | Mdm Chong Fee Kim<br>Chong_Fee_Kim@moe.edu.sg | Mr Zhuo Bing Ru<br>zhuo_bingru@moe.edu.sg |
 | 2G    | Mdm Ng-Siew May Ling<br>siew_may_ling@moe.edu.sg | Mr Adrian Quek Peng Yeow<br>quek_peng_yeow@moe.edu.sg |
