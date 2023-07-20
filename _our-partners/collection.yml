@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Vendors/Vendors and Services.md
       - Vendors/School Canteen Vacancies.md
       - Vendors/.keep
       - "Partners: Alumni.md"
