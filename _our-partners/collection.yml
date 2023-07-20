@@ -2,9 +2,9 @@ collections:
   our-partners:
     output: true
     order:
-      - Vendors/School Bookshop and Uniform.md
-      - Vendors/School Canteen Vacancies.md
-      - Vendors/.keep
+      - Vendors and Services/School Bookshop and Uniform.md
+      - Vendors and Services/School Canteen Vacancies.md
+      - Vendors and Services/.keep
       - "Partners: Alumni.md"
       - School Advisory Committee.md
       - Parents/Parent & Child Toolkit.md
