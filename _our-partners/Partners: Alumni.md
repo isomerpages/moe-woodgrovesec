@@ -16,6 +16,7 @@ The alumni of Woodgrove Secondary School hold their alma mater close to their he
 **National Service Engagement with Secondary 3 Juniors**
 ![](/images/Partners:%20Alumni/img_9914%20(2).jpg)
 ![](/images/Partners:%20Alumni/img_9824.jpg)
+![](/images/Partners:%20Alumni/alumni%20ns%20engagement%202021-2022.jpg)
 
 
 **Dialogue with Parent Support Group**
