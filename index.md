@@ -12,7 +12,7 @@ sections:
       title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
-          description: "Key Termly Information "
+          description: Key Termly Information
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
         - title: Success Stories
           description: School of Future Ready Learners
@@ -30,20 +30,20 @@ sections:
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      title: Our Woodgrove Experience
+        allowfullscreen=""></iframe>
+      title: The Woodgrove Experience
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen=""></iframe>
       button: Button Text
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
         player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        allowfullscreen=""></iframe>
       button: Button Text
 ---
