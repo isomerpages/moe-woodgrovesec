@@ -48,7 +48,7 @@ sections:
       button: Button Text
   - infopic:
       title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION
+      subtitle: HAVE A QUESTION?
       id: infopic
       button: View or Ask Questions on Ask.Gov
       url: https://ask.gov.sg/wgs
