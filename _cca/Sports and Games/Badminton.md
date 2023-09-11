@@ -16,9 +16,17 @@ Boys : Mon and Thurs 3:30 -5:30
 
 Girls: Mon and Thurs 3:30 -5:30 pm 
 
-The Badminton Team will be accepting girls from 2023.
-
 \*Additional sessions will be organised for selected students in preparation for various events. Sessions are subject to change in 2023.
+
+**Achievements and Highlights 2023**
+**
+
+‘B’ Division Zonals
+
+‘C’ Division Zonals
+
+
+
 
 **Achievements and Highlights 2022**
 
