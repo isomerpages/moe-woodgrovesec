@@ -18,7 +18,23 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+
+‘B’ Division Zonals
+
+‘C’ Division Zonals
+
+  
+
+‘B’ Division League 5: Quarterfinalists
+
+  
+
+‘C’ Division League 3: Group Stage
+
+
+#### Achievements and Highlights 2022
 
 National School Games North Zone B Division Championships&nbsp;
 
