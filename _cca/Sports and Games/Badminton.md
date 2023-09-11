@@ -18,8 +18,8 @@ Girls: Mon and Thurs 3:30 -5:30 pm 
 
 \*Additional sessions will be organised for selected students in preparation for various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2023**
-**
+#### Achievements and Highlights 2023
+
 
 ‘B’ Division Zonals
 
@@ -27,8 +27,7 @@ Girls: Mon and Thurs 3:30 -5:30 pm 
 
 
 
-
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2022
 
 National School Games North Zone B Division Championships (Quarterfinalists)
 
