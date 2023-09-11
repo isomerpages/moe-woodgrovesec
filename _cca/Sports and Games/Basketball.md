@@ -43,7 +43,9 @@ Thursday: 3.45pm to 5.45pm
 
 #### Achievements and Highlights 2022
 
-National School Games North Zone B Division Championships National School Games North Zone C Division Championships
+National School Games North Zone B Division Championships
+
+National School Games North Zone C Division Championships
 
 ![](/images/CCAs/Basketball/screenshot.png)
 Our boys clinched 2nd position for the B Division North Zone Basketball Championships in 2023
@@ -51,5 +53,5 @@ Our boys clinched 2nd position for the B Division North Zone Basketball Champion
 ![](/images/CCAs/BDivGirls2020.jpeg)
 Through sport, we have forged strong bonds with one another.
 
-!![](/images/CCAs/BDivBoys2020.jpeg)
+![](/images/CCAs/BDivBoys2020.jpeg)
 Victory is the result of teamwork, sweat and tenacity.
