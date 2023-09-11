@@ -20,11 +20,35 @@ Thursday: 3.45pm to 5.45pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+
+**Girls**
+
+‘B’ Division North Zone 2nd Round
+
+‘C’ Division North Zone 1st Round
+
+
+**Boys**
+
+‘B’ Division North Zone top 4
+
+‘B’ Division Nationals Top 8
+
+‘C’ Division Zonals 2nd Round
+
+
+
+
+#### Achievements and Highlights 2022
 
 National School Games North Zone B Division Championships National School Games North Zone C Division Championships
 
-!![](/images/CCAs/BDivGirls2020.jpeg)
+![](/images/CCAs/Basketball/screenshot.png)
+Our boys clinched 2nd position for the B Division North Zone Basketball Championships in 2023
+
+![](/images/CCAs/BDivGirls2020.jpeg)
 Through sport, we have forged strong bonds with one another.
 
 !![](/images/CCAs/BDivBoys2020.jpeg)
