@@ -36,17 +36,10 @@ Learning journey to “Monster in the Mirror”
 
 #### Achievements and Highlights 2022
 
-International Science Drama Competition 
+International Science Drama Competition (Participation)
 
-SYF Goes Online Showcase - 1 student’s Monologue was selected for the nationwide showcase
-
-**
-
-**Achievements and Highlights 2022**
-
-International Science Drama Competition 
-
-SYF Goes Online Showcase - 1 student's Monologue was selected for the nationwide showcase
+SYF Goes Online Showcase: 
+1 student’s Monologue was selected for the nationwide showcase
 
 ![](/images/Image%2011%20Found%20You%20-%20Our%20Award%20Winning%20Performance%20in%202019.jpeg)
 We highlighted the plight of refugees and how we should help them in the darkest of times.
