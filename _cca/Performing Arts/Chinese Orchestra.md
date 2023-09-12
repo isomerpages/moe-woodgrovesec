@@ -16,9 +16,21 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+Chinese New Year Celebrations Performance
+
+Singapore Youth Festival Arts Presentation (Distinction)
+
+Performance for National Day Dinner at Vista Park
+
+
+#### Achievements and Highlights 2022
+
+Chinese New Year Celebrations Performance
 
 Admiralty National Day Dinner 2022
+
 
 ![](/images/CNY%20Pic%201.jpeg)
 We are part of the annual Chinese New Year celebrations in school.
