@@ -16,7 +16,17 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+Singapore Youth Festival Arts Presentation: Certificate of Accomplishment 
+
+National Day Celebration Performance
+
+Speech Day Performance
+
+Music Exchange with Yusof Ishak Secondary School
+
+#### Achievements and Highlights 2022
 
 Admiralty PAssionArts Festival 2022 
 
