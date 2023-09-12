@@ -25,6 +25,8 @@ Girls: Mon and Thurs 3:30 -5:30 pm 
 
 ‘C’ Division Zonals
 
+Sports Camp
+
 
 
 #### Achievements and Highlights 2022
