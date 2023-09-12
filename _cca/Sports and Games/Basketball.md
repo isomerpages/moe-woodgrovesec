@@ -27,16 +27,16 @@ Thursday: 3.45pm to 5.45pm
 
 National School Games North Zone B Division Championships: 2nd Round
 
-‘C’ Division North Zone 1st Round
+National School Games North Zone C Division Championships: North Zone 1st Round
 
 
 **Boys**
 
-‘B’ Division North Zone top 4
+National School Games North Zone B Division Championships: Top 4
 
-‘B’ Division Nationals Top 8
+National School Games Nationals B Division Championships: Top 8
 
-‘C’ Division Zonals 2nd Round
+National School Games North Zone C Division Championships:  2nd Round
 
 
 
