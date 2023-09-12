@@ -12,7 +12,7 @@ The Drama Club has a tradition of excellence and takes pride in being a club of 
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Training Days**
+**Training Days (2023)**
 
 Monday : 3.30pm to 5.30pm
 
@@ -20,7 +20,21 @@ Thursday: 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+Singapore Youth Festival Arts Presentation: Certificate of Commendation
+
+ReACT Showcase: An inter-school exchange for students to explore contemporary issues through Drama.
+
+International Science Center Drama Competition
+
+*   3rd Position (Film Category)
+    
+*   Finalists (Drama Category)
+    
+Learning journey to “Monster in the Mirror”
+
+#### Achievements and Highlights 2022
 
 International Science Drama Competition 
 
@@ -41,4 +55,4 @@ We highlighted the plight of refugees and how we should help them in the darkest
 In the production, Quiet Desperation, we highlighted the importance of mental health and how we need to forge a kinder society.
 
 ![](/images/Image%209%20Gemuk%20(Fat)%20-%20Our%20Award%20Winning%20Performance%20in%202012.jpeg)
-We launched Gemuk, which deals with themes such as body image. 
+We launched Gemuk, which deals with themes such as body image.
