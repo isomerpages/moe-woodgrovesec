@@ -12,7 +12,7 @@ Apart from developing the skills of play and teamwork, the CCA also develops mem
 
 In the Basketball team, it is believed that every member can develop self-confidence and self-esteem, possess the resilience needed during competitions, work together and rise up to lead, and thrive in a positive environment that fosters discipline, dedication, teamwork and sportsmanship.
 
-**Training Days**
+**Training Days (2023)**
 
 Monday : 3.30pm to 5.30pm
 
