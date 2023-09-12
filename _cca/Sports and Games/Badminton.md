@@ -24,9 +24,9 @@ National School Games North Zone B Division Championships
 
 National School Games North Zone C Division Championships
 
-Sports Camp
+Student-Initiated School Based Matches
 
-
+Friendly Matches 
 
 #### Achievements and Highlights 2022
 
