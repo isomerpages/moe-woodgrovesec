@@ -25,7 +25,7 @@ Thursday: 3.45pm to 5.45pm
 
 **Girls**
 
-‘B’ Division North Zone 2nd Round
+National School Games North Zone B Division Championships: 2nd Round
 
 ‘C’ Division North Zone 1st Round
 
