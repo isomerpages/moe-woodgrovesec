@@ -20,23 +20,18 @@ Thursday : 3.30pm to 5.30pm
 
 #### Achievements and Highlights 2023
 
+National School Games North Zone B Division Championships
 
-‘B’ Division Zonals
+National School Games North Zone C Division Championships
 
-‘C’ Division Zonals
+National School Games B Division League 5: Quarterfinalists
 
-  
-
-‘B’ Division League 5: Quarterfinalists
-
-  
-
-‘C’ Division League 3: Group Stage
+National School Games C Division League 3: Group Stage
 
 
 #### Achievements and Highlights 2022
 
-National School Games North Zone B Division Championships&nbsp;
+National School Games North Zone B Division Championships
 
 National School Games North Zone C Division Championships
 
