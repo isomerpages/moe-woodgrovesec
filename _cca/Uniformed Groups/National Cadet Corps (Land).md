@@ -19,6 +19,13 @@ Mondays - 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
+**Achievements and Highlights 2023**
+
+National Cadet Corps (NCC) Outstanding Cadet Awards (OCA): 
+Master Sergeant Haidar and Master Sergeant Firas,&nbsp; 4N3
+
+Laser Run Competition: Participation
+
 **Achievements and Highlights 2022**
 
 Freestyle Drill Competition&nbsp;
