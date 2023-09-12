@@ -38,14 +38,6 @@ National School Games Nationals B Division Championships: Top 8
 
 National School Games North Zone C Division Championships:  2nd Round
 
-**CCA (General)**
-
-Student-Run CCA Matches
-
-Friendly Matches With Other Schools
-
-
-
 
 #### Achievements and Highlights 2022
 
