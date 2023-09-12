@@ -38,14 +38,20 @@ National School Games Nationals B Division Championships: Top 8
 
 National School Games North Zone C Division Championships:  2nd Round
 
+**CCA (General)**
+
+Student-Run CCA Matches
+
+Friendly Matches With Other Schools
+
 
 
 
 #### Achievements and Highlights 2022
 
-National School Games North Zone B Division Championships
+National School Games North Zone B Division Championships: Participation
 
-National School Games North Zone C Division Championships
+National School Games North Zone C Division Championships: Participation
 
 ![](/images/CCAs/Basketball/screenshot.png)
 Our boys clinched 2nd position for the B Division North Zone Basketball Championships in 2023
