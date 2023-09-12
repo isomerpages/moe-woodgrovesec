@@ -20,10 +20,9 @@ Girls: Mon and Thurs 3:30 -5:30 pm 
 
 #### Achievements and Highlights 2023
 
+National School Games North Zone B Division Championships
 
-‘B’ Division Zonals
-
-‘C’ Division Zonals
+National School Games North Zone C Division Championships
 
 Sports Camp
 
@@ -31,7 +30,7 @@ Sports Camp
 
 #### Achievements and Highlights 2022
 
-National School Games North Zone B Division Championships (Quarterfinalists)
+National School Games North Zone B Division Championships: Quarter Finals
 
 National School Games North Zone C Division Championships
 
