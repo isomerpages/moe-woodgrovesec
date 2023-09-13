@@ -13,7 +13,7 @@ With its slogan, Trained - A Force To Be Reckoned With, the unit has grown from 
 Aside from participating in activities, competitions and camps, our cadets immerse themselves in an array of activities related to the ‘Cadet Strong’ framework, where all NCC cadets are ‘Cadet Strong’, with a resilient mind, fit body and committed heart.
 
 
-**Training Days**
+**Training Days (2023)**
 
 Mondays - 3:30-5:30pm
 
