@@ -41,11 +41,15 @@ International Science Drama Competition (Participation)
 SYF Goes Online Showcase: 
 1 student’s Monologue was selected for the nationwide showcase
 
+
+![](/images/CCAs/Image%202%20Madah%20(Eulogy)%20-%20Our%20Award%20Winning%20Peformance%20in%202017%20_%202018.jpeg)
+We created a play about memories and cherishing our loved ones: Madah
+
 ![](/images/Image%2011%20Found%20You%20-%20Our%20Award%20Winning%20Performance%20in%202019.jpeg)
 We highlighted the plight of refugees and how we should help them in the darkest of times.
 
 ![](/images/Image%2010%20Quiet%20Desperation%20-%20Our%20Award%20Winning%20Performance%20in%202015.jpeg)
 In the production, Quiet Desperation, we highlighted the importance of mental health and how we need to forge a kinder society.
 
-![](/images/Image%209%20Gemuk%20(Fat)%20-%20Our%20Award%20Winning%20Performance%20in%202012.jpeg)
-We launched Gemuk, which deals with themes such as body image.
+![](/images/CCAs/Image%208%20%20Our%20Very%20First%20Production%20-%20The%20Little%20Girl%20and%20the%20Funny%20Old%20Tree.jpeg)
+Our very first production: The Little Girl and the Funny Old Tree

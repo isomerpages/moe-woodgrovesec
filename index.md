@@ -21,10 +21,6 @@ sections:
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
       subtitle: Welcome to Woodgrove Secondary School's Website
-  - resources:
-      title: Woodgrove Media
-      subtitle: The Voice of Woodgrove
-      button: Click Here for More News
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
@@ -52,5 +48,10 @@ sections:
       id: infopic
       button: View or Ask Questions on Ask.Gov
       url: https://ask.gov.sg/wgs
+      alt: AskGov
       image: /images/wgs-askgov.png
+  - resources:
+      title: Woodgrove Media
+      subtitle: The Voice of Woodgrove
+      button: Click Here for More News
 ---
