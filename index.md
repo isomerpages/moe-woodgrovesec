@@ -42,6 +42,10 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
       button: Button Text
+  - resources:
+      title: Woodgrove Media
+      subtitle: The Voice of Woodgrove
+      button: Click Here for More News
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
@@ -50,8 +54,4 @@ sections:
       url: https://ask.gov.sg/wgs
       alt: AskGov
       image: /images/wgs-askgov.png
-  - resources:
-      title: Woodgrove Media
-      subtitle: The Voice of Woodgrove
-      button: Click Here for More News
 ---
