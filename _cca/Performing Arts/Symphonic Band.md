@@ -18,9 +18,23 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
 
-Admiralty PAssion Arts Festival 2022 
+Singapore Youth Festival Arts Presentation: Certificate of Commendation
+
+
+National Day Celebrations
+
+
+Speech Day
+
+  
+Music Exchange with Yusof Ishak Secondary School
+
+
+#### Achievements and Highlights 2022
+
+Admiralty PAssion Arts Festival 2022&nbsp;
 
 World of Woodgrove (WoW) Primary School Outreach
 
@@ -31,9 +45,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/SIBF%202018.jpeg" alt="Symphonic Band" style="width:80%;">  
+<img src="/images/SIBF%202018.jpeg" alt="Symphonic Band" style="width:80%;">  
   
-</body>
+
 
 
 
@@ -45,10 +59,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Botanic%20Garden%201.jpeg" alt="Symphonic Band" style="width:80%;">  
+<img src="/images/Botanic%20Garden%201.jpeg" alt="Symphonic Band" style="width:80%;">  
 	     We are proud to perform and bring music to the community 
 	
   ![](/images/CCAs/Band/WGS_224.jpg)
 	Through regular practice, we strive to make music as one united band.
-	
-	
