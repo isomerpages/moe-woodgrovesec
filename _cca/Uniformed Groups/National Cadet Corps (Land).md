@@ -43,15 +43,18 @@ Unit Recognition (Distinction)
 
 **Find out more about us [here](https://www.instagram.com/woodgrove_warriors/?hl=en)**
 
+![](/images/CCAs/NCC/img-20230913-wa0004.jpg)
+Urban Operations Cluster Training with Partner Schools
 
+![](/images/CCAs/NCC/img-20230913-wa0007.jpg)
+NCC District Sports and Games Competition
 
+![](/images/CCAs/NCC/img-20230913-wa0008.jpg)
+National Day Commemoration
   
 ![Unit Photo](/images/Unit%20Photo.jpeg)
-
+One United NCC
   
-
-
-
 <style>  
 img {  
   display: block;  
