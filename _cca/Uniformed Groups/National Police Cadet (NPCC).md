@@ -48,7 +48,7 @@ Best Unit Cadet Award 2022
 National Day Observance Ceremony 2023
 
 ![](/images/CCAs/NPCC/NPCC1.png)
-At the NPCC, we learn the value of discipline and excellence
+At the NPCC, we learn the value of discipline and excellence.
 
 ![](/images/CCAs/NPCC/NPCC%203.png)
 We are given the opportunity to learn more about equipment that the police force uses to uphold the law.
