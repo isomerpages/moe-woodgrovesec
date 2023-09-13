@@ -12,13 +12,31 @@ In order to do so, the unit encourages students to challenge themselves to set h
 
 **Find out more about us [here.](https://www.instagram.com/wgs_npcc/?hl=en)
 
-**Training Days**
+**Training Days 2023**
 
 Mondays - 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+
+Visit to Woodlands Police Division HQ for Secondary 1 Cadets
+
+
+Visit to the Police Heritage Centre for Secondary 1 Cadets
+
+
+NPCC Cybercrime Prevention Programme
+
+
+ Visit to Home Team Gallery @ HTA for Secondary 3 Cadets
+
+
+Sec 2 Adventure Training Camp (ATC)
+
+
+#### Achievements and Highlights 2022
 
 Excellent Unit Award 2021 (Gold)
 
@@ -26,5 +44,10 @@ SPF NPCC Badge
 
 Best Unit Cadet Award 2022
 
-![](/images/CCAs/NPCC/NPCC1.png)![](/images/CCAs/NPCC/NPCC%203.png)
+
+
+![](/images/CCAs/NPCC/NPCC1.png)
+
+![](/images/CCAs/NPCC/NPCC%203.png)
+
 ![](/images/CCAs/NPCC/NPCC%202.png)
