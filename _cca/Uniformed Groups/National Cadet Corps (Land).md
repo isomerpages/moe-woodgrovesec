@@ -26,6 +26,8 @@ Master Sergeant Haidar and Master Sergeant Firas,&nbsp; 4N3
 
 Laser Run Competition: Participation
 
+Unit Recognition (Distinction)
+
 **Achievements and Highlights 2022**
 
 Freestyle Drill Competition&nbsp;
