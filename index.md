@@ -48,7 +48,7 @@ sections:
       id: infopic
       button: View or Ask Questions on Ask.Gov
       url: https://ask.gov.sg/wgs
-      image: /images/wgs-askgov.png
+      alt: AskGov
   - resources:
       title: Woodgrove Media
       subtitle: The Voice of Woodgrove
