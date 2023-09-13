@@ -38,6 +38,10 @@ Admiralty PAssion Arts Festival 2022&nbsp;
 
 World of Woodgrove (WoW) Primary School Outreach
 
+![](/images/CCAs/Band/capture.PNG)
+Music Exchange: Making Friends with our Music!
+
+
 <style>  
 img {  
   display: block;  
