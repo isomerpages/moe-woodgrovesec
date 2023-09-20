@@ -45,6 +45,8 @@ Unit Recognition (Distinction)
 
 **Find out more about us [here](https://www.instagram.com/woodgrove_warriors/?hl=en)**
 
+![](/images/CCAs/NCC/symbol%20new1.jpg)
+
 ![](/images/CCAs/NCC/img-20230913-wa0004.jpg)
 Urban Operations Cluster Training with Partner Schools
 
