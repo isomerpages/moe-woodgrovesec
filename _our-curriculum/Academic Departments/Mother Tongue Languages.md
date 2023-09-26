@@ -93,6 +93,3 @@ We also learned how to make Malay pastries to better appreciate the connection b
 We learned how to appreciate our traditional games.
 
 ![](/images/IP%20Departments/Mother%20Tongue/capture%209.PNG) Learning comes alive through role play.
-
-
-
