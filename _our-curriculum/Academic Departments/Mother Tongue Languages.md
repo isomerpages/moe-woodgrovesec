@@ -15,7 +15,7 @@ Subjects Offered at Upper and Lower Secondary:
 
 \*Students taking other Mother Tongue languages will have lessons at our partner schools and language centres. 
 
-Key Programmes (Chinese Unit):
+#### Key Programmes (Chinese Unit):
 
 *   Young Reporters News Challenge 
     
@@ -26,6 +26,21 @@ Key Programmes (Chinese Unit):
 *   The Primary and Secondary School Text Reading Competition 
     
 *   Mother Tongue Fortnight 
+
+
+**我校同学在《我来报新闻》大赛中，荣获“创意新闻60秒”组的鼓励奖
+
+岳欣慈同学（3E2）与和芮杞同学（3E4）创作的《保护环境从你我身边做起》在2023年《我来报新闻》中，荣获“创意新闻60秒”组的鼓励奖。
+
+《我来报新闻》挑战赛由推广华文学习委员会、《8视界》和新加坡华文教研中心携手合作主办的中学生新闻短视频制作比赛。
+
+恭喜我校同学在2023年《与声剧来》
+
+
+**中文广播剧创作比赛中再创佳绩
+
+
+
     
 
 Key Programmes (Malay Unit):
