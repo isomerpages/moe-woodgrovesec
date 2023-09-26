@@ -4,6 +4,10 @@ permalink: /our-curriculum/instructional-programmes-ip/MotherTongueLanguages/
 description: ""
 third_nav_title: Academic Departments
 ---
+![](/images/IP%20Departments/Mother%20Tongue/Capture.png)
+Our Mother Tongue department has 2 branches. One for the study and appreciation of Chinese Language, and the other, Malay Language.
+
+
 The Mother Tongue Languages Department seeks to equip students with the ability to acquire cultural knowledge and appreciation, expose and engage students with a range of literary texts, and connect students to contemporary issues and current affairs by contextualising learning and integrating technology for engaged learning.
 
 Subjects Offered at Upper and Lower Secondary:
@@ -57,7 +61,11 @@ Highlights from 2023
 
 ![](/images/IP%20Departments/Mother%20Tongue/capture%204.PNG)
 
+![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_xin%20yao%20Concert%205.jpeg)
+We were given the opportunity to better appreciate the Chinese Language through local contemporary Mandopop.
 
+![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_Chinese%20Chess%205.jpeg)
+We learned more about Chinese Chess to better appreciate the connection between the Chinese Language and culture.
     
 
 #### Key Programmes (Malay Unit):
@@ -73,8 +81,7 @@ Highlights from 2023
 
 \*Programmes are subject to availability and might differ for each year.
 
-![](/images/IP%20Departments/Mother%20Tongue/Capture.png)
-Our Mother Tongue department has 2 branches. One for the study and appreciation of Chinese Language, and the other, Malay Language.
+
 
 ![](/images/IP%20Departments/Mother%20Tongue/S1_all.jpeg)
 We learned more about what goes on in a Malay Wedding to better appreciate the connection between the Malay Language and culture.
@@ -82,8 +89,10 @@ We learned more about what goes on in a Malay Wedding to better appreciate the c
 ![](/images/IP%20Departments/Mother%20Tongue/S3_Dadar2.jpg)
 We also learned how to make Malay pastries to better appreciate the connection between the Malay Language and culture.
 
-![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_xin%20yao%20Concert%205.jpeg)
-We were given the opportunity to better appreciate the Chinese Language through local contemporary Mandopop.
+![](/images/IP%20Departments/Mother%20Tongue/capture%208.PNG)
+We learned how to appreciate our traditional games.
 
-![](/images/IP%20Departments/Mother%20Tongue/SEC%203%20Cultural%20activitives_Chinese%20Chess%205.jpeg)
-We learned more about Chinese Chess to better appreciate the connection between the Chinese Language and culture.
+![](/images/IP%20Departments/Mother%20Tongue/capture%209.PNG) Learning comes alive through role play.
+
+
+
