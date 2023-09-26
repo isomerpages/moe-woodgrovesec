@@ -37,7 +37,7 @@ Highlights from 2023
 
 恭喜我校同学在2023年《与声剧来》
 
-
+![](/images/capture%206.PNG)
 
 **中文广播剧创作比赛中再创佳绩**
 
