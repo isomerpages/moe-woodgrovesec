@@ -29,7 +29,6 @@ Subjects Offered at Upper and Lower Secondary:
 
 Highlights from 2023
 
-
 **我校同学在《我来报新闻》大赛中，荣获“创意新闻60秒”组的鼓励奖**
 
 岳欣慈同学（3E2）与和芮杞同学（3E4）创作的《保护环境从你我身边做起》在2023年《我来报新闻》中，荣获“创意新闻60秒”组的鼓励奖。
@@ -43,15 +42,14 @@ Highlights from 2023
 
 “与声剧来” 中文广播剧创作比赛及工作坊由推广华文学习委员会和新报业媒体有限公司华文广播电台UFM100.3联合主办，致力于以有趣、互动的形式推广华文华语学习，激发学生对华文华语学习的兴趣。
 
-**恭喜我校同学在第六届全国课文朗诵比赛中获得佳绩
-
+**恭喜我校同学在第六届全国课文朗诵比赛中获得佳绩**
 
 第六届全国课文朗诵比赛由推广华文学习委员会、安德逊小学、培华长老会小学及新加坡华文教师朗诵艺术学会联合举办。比赛旨在让学生通过课文朗诵，深化他们对课文的理解，加强华文阅读和朗诵的能力，同时激励学生学习华文华语的热情和兴趣。
 
 
     
 
-Key Programmes (Malay Unit):
+#### Key Programmes (Malay Unit):
 
 *   Project Nitra - Sharing session about classical Malay Literature and the relevance of its values with respect to today’s context. 
     
