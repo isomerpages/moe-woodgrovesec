@@ -18,7 +18,6 @@ Thursday: 3.30 to 5.30pm
 
 #### Achievements and Highlights 2023
 
-**
 
 1.  National Robotics Competition (NRC)
     
