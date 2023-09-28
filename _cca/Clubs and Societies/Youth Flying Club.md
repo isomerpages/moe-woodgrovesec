@@ -18,7 +18,16 @@ Thursday: 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events.
 
-**Achievements and Highlights 2022**
+
+#### Achievements and Highlights 2023
+
+SAFMC Competition: Singapore Amazing Flying Machine Competition
+    
+Flight Experience Programme (FEP)
+   
+SYFC Inter School Aero Modelling Competition
+    
+#### Achievements and Highlights 2022
 
 Singapore Amazing Flying Machine Competition (SAFMC) 2022
 
