@@ -16,7 +16,23 @@ Monday: 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events.Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+
+ Our Schools Our Stories Competition
+
+International Science Center Drama Competition
+
+*   3rd Position (Film Category)
+    
+Photography Trek Along Railway Corridor 
+
+Media Club Film Showcase
+
+Technical training to support school programs.
+
+
+#### Achievements and Highlights 2022
 
 ‘Our Schools, Our Stories’ Photo and Video Contest
 
