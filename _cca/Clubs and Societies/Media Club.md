@@ -54,3 +54,21 @@ At the media club, we explore how video productions work.
 
 ![](/images/CCAs/Media/WGS_271%20(2).jpg)
 We are happy to share our Woodgrove Story through photography and film.
+
+![](/images/CCAs/Media/pxl_20230112_084919148.jpg)
+We work collaboratively and share our knowledge with others.
+
+![](/images/CCAs/Media/pxl_20230808_012917386%20(1).jpg)
+We are proud to support school events like National Day.
+
+![](/images/CCAs/Media/pxl_20230831_005822205.jpg)
+We are proud to support school events like Teachers' Day.
+
+![](/images/CCAs/Media/pxl_20230112_074929986.jpg)
+We create immersive experiences for our audience.
+
+![](/images/CCAs/Media/img-20230603-wa0015.jpg)
+We learnt how to apply our skills in an outdoor setting.
+
+![](/images/CCAs/Media/pxl_20230831_005234720%20(1).jpg)
+We discover how to activate an audience through film.
