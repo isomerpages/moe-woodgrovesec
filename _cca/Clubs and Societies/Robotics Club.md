@@ -16,7 +16,16 @@ Thursday: 3.30 to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+**
+
+1.  National Robotics Competition (NRC)
+    
+2. First Lego League Competition (2023)
+    
+
+#### Achievements and Highlights 2022
 
 League (FLL) 2022 Competition
 
@@ -35,4 +44,3 @@ At the robotics club, we explore how to make robots work through coding.
 
 ![](/images/CCAs/Robotics/WGS_258%20(2).jpg)
 It is great to share a common passion with our friends - we believe that robots can make our lives better,
-
