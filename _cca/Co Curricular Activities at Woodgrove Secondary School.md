@@ -14,5 +14,4 @@ We believe that CCAs are a platform to cultivate leadership skills.
 
 ![](/images/CCAs/Inter%20CCA%20Activities/pxl_20230314_053626807.jpg)
 ![](/images/CCAs/Inter%20CCA%20Activities/pxl_20230904_032730363.jpg)
-We believe in learning beyond our CCAs and there are platforms to discover what other CCAs are doing.
-
+We believe in learning beyond our CCAs and there are platforms to discover, learn and appreciate what other CCAs are doing.
