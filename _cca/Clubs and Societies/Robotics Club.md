@@ -27,7 +27,7 @@ Thursday: 3.30 to 5.30pm
 
 #### Achievements and Highlights 2022
 
-League (FLL) 2022 Competition
+1. First Lego League Competition (2022)
 
 ![Robotics Club](/images/Robotics%20Club_1.jpg)
 
