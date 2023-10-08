@@ -10,15 +10,29 @@ Established in 2002 with 15 students, the Environmental Science Club has played 
 
 In addition, the club has supportive and strong green partners who have provided its members and other Woodgrovers various learning opportunities. This includes the Ministry of the Environment & Water Resources (MEWR), National Environment Agency (NEA), PUB (The National Water Agency), National Parks Board (NParks), Singapore Environment Council (SEC), Waterways Watch Society (WWS), SembWaste, Building and Construction Authority (BCA), Public Hygiene Council and North West CDC.
 
-**Training Days**
+**Training Days for 2023**
 
 Monday : 3.30pm to 5.30pm
 
 Thursday: 3.30-5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+**
 
-**Achievements and Highlights 2022**
+#### Achievements and Highlights 2023
+
+Learning journey to the Green Lab
+    
+ Sembwave Marine Greenwave Competition 
+    
+Collaborative sharing between Woodlands NPC and Environmental Science Club 
+    
+Urban farming 
+    
+National Youth Upcycling Movement
+    
+
+#### Achievements and Highlights 2022
 
 Farmer’s Market @ Sembawang GRC
 
