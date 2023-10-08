@@ -60,5 +60,5 @@ sections:
       id: infobar
       description: Discover Our Works
       button: By Woodgrovers, to The World
-      url: tesr
+      url: /prospective-students-showcase/permalink/
 ---
