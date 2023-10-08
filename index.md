@@ -54,4 +54,11 @@ sections:
       url: https://ask.gov.sg/wgs
       alt: AskGov
       image: /images/wgs-askgov.png
+  - infobar:
+      title: The Woodgrove Showcase
+      subtitle: Woodgrove Showcase
+      id: infobar
+      description: Discover Our Works
+      button: By Woodgrovers, to The World
+      url: tesr
 ---
