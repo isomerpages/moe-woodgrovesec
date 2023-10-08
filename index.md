@@ -59,6 +59,6 @@ sections:
       subtitle: Woodgrove Showcase
       id: infobar
       description: Discover Our Works
-      button: By Woodgrovers, to The World
+      button: Click Here
       url: /prospective-students-showcase/permalink/
 ---
