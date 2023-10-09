@@ -21,6 +21,10 @@ sections:
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
       subtitle: Welcome to Woodgrove Secondary School's Website
+  - resources:
+      title: Woodgrove Media
+      subtitle: The Voice of Woodgrove
+      button: Click Here for More News
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
@@ -42,10 +46,13 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
       button: Button Text
-  - resources:
-      title: Woodgrove Media
-      subtitle: The Voice of Woodgrove
-      button: Click Here for More News
+  - infobar:
+      title: The Woodgrove Showcase
+      subtitle: Woodgrove Showcase
+      id: infobar
+      description: Discover Our Works
+      button: Click Here
+      url: /prospective-students-showcase/permalink/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
@@ -54,11 +61,4 @@ sections:
       url: https://ask.gov.sg/wgs
       alt: AskGov
       image: /images/wgs-askgov.png
-  - infobar:
-      title: The Woodgrove Showcase
-      subtitle: Woodgrove Showcase
-      id: infobar
-      description: Discover Our Works
-      button: Click Here
-      url: /prospective-students-showcase/permalink/
 ---
