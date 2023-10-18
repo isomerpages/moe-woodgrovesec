@@ -11,7 +11,7 @@ School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| **Yong Tau Foo**| 15 September 2023     | Nil     |
+| **Snacks and Hot Drinks**| 18 November 2023     | Nil     |
 
 
 
