@@ -4,7 +4,7 @@ permalink: /our-partners/vendors-and-services/school-bookshop-and-uniform/
 description: ""
 third_nav_title: Vendors and Services
 ---
-
+### **[Please Click Here for Details on Purchasing  Books and Uniform for 2024](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation?authuser=0)**
 
 #### **School Bookshop:**
 
