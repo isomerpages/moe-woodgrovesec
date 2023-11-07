@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vendors and Services
 variant: markdown
 ---
-### **[Books and Uniform for 2024 Link is not ready at the moment. Parents will be notified on PG when it is ready](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation?authuser=0)** 
+### **[Books and Uniform for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation?authuser=0)** 
    
 #### **School Bookshop:**
 
