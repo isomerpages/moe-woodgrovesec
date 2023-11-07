@@ -1,11 +1,11 @@
 ---
-title: School Bookshop and Uniform
+title: School Bookshop and Attire
 permalink: /our-partners/vendors-and-services/school-bookshop-and-uniform/
 description: ""
 third_nav_title: Vendors and Services
 variant: markdown
 ---
-### **[Books and Uniform for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation?authuser=0)** 
+### **[Books and  School Attire for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation?authuser=0)** 
    
 #### **School Bookshop:**
 
@@ -46,7 +46,7 @@ variant: markdown
   mso-border-alt:solid #D6D6D6 .25pt;background:white;mso-background-themecolor:
   background1;padding:1.5pt 7.5pt 1.5pt 7.5pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext"><a href="mailto:bookshop@asencio.com.sg"><span style="font-weight:normal">bookshop@asencio.com.sg</span></a></span></b><span style="background:#D9D9D9;mso-shading:white;mso-pattern:gray-15 auto"></span></p></td></tr></tbody></table>
 
-#### **School Uniform/PE Attire:**
+#### **School Attire:**
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="700" style="width:525.0pt;background:white;border-collapse:collapse;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="241" valign="top" style="width:180.65pt;border:solid #D6D6D6 1.0pt;
