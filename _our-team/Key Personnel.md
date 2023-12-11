@@ -69,14 +69,32 @@ Ms Chan Yen Ling, Jacqueline| Level Head, English |chan_yen_ling_jacqueline@moe.
 | Name | Position | Contact |
 | -------- | -------- | -------- |
 | Ms Teo Ann Lay, Shirley | HOD ICT & Applied Science |teo_ann_lay_shirley@moe.edu.sg |
+| Mr Thng Guan Heng | Subject Head, ICT & Applied Science |thng_guan_heng@moe.edu.sg |
+| Mdm Paramjit Kaur | Senior Teacher, Food Science|paramjit_kaurg@moe.edu.sg |
 
+**Mathematics Department**
+| Name | Position | Contact |
+| -------- | -------- | -------- |
+| Mr Tan Thiam Hock, Phillip| HOD Mathematics|tan_thiam_hock@moe.edu.sg |
+| Mdm Siti Zuraidah Bte Ramli| Level Head, Mathematics|siti_zuraidah_ramli@moe.edu.sg |
+|Ms Ng Lay Keow, Nicole|Lead Teacher, Mathematics|ng_lay_keow@moe.edu.sg |
 
-![](/images/Leadership%20and%20Form%20Teachers/Key%20Personnel/Slide%201.png)
+**Curriculum & Innovation**
+| Name | Position | Contact |
+| -------- | -------- | -------- |
+| Mr Flavian Brian Fernandez| HOD Curriculum & Innovation|flavian_brian_fernandez@moe.edu.sg |
+| Mr Tan Siong Leong| School Staff Developer|tan_siong_leong@moe.edu.sg |
 
-![](/images/Leadership%20and%20Form%20Teachers/Key%20Personnel/Slide%202.png)
+**Corporate Communications & Partnerships**
+| Name | Position | Contact |
+| -------- | -------- | -------- |
+| Mr Cher Dingxiong, Christon| Subject Head, Communications & Partnerships |cher_dingxiong@moe.edu.sg |
 
-![](/images/Leadership%20and%20Form%20Teachers/Key%20Personnel/Slide%203.png)
+**Operations, ICT & Administration**
+| Name | Position | Contact |
+| -------- | -------- | -------- |
+| Mr Ismail Iswan| Operations Manager|ismail_iswan@schools.gov.sg |
+| Mr Chia Gim Hua| Operations Manager|chia_gim_hua@schools.gov.sg |
+| Mr Kalathran Narayanan| ICT Manager|kalathran_narayanan@schools.gov.sg |
+| Ms Lin Meijing, Helen| Administration Manager|lin_meijing_a@schools.gov.sg|
 
-![](/images/Leadership%20and%20Form%20Teachers/Key%20Personnel/Slide%204.png)
-
- ![](/images/Leadership%20and%20Form%20Teachers/Key%20Personnel/Slide%205.png)
