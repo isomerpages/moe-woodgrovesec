@@ -6,7 +6,7 @@ variant: markdown
 ---
 Our leadership are a dedicated team of individuals who plan, oversee implementation of student experiences and provide guidance to both teachers and students.
 
-  **Student Development Team**
+  **Student Development Team - Year Heads**
 
 | Level | Name | Contact |
 | -------- | -------- | -------- |
