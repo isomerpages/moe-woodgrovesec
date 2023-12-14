@@ -4,7 +4,8 @@ title: Woodgrove Secondary School
 description: Woodgrove Secondary School
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Students posted to Woodgrove Secondary School should refer to the
+  Secondary One Infoboard for details.
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
@@ -24,6 +25,7 @@ sections:
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
       subtitle: Welcome to Woodgrove Secondary School's Website
+      variant: center
   - resources:
       title: Woodgrove Media
       subtitle: The Voice of Woodgrove
