@@ -11,9 +11,9 @@ sections:
       url: youtu.be/lZKe_rkEGgU/
       title: Online@Woodgrove
       key_highlights:
-        - title: "Secondary One Infoboard "
-          description: (Updates Coming Soon))
-          url: Test
+        - title: Secondary One Infoboard
+          description: Onboarding Journey
+          url: /prospective-students/permalink/
         - title: Parent-Child Tool Kit
           description: Key Termly Information
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation
