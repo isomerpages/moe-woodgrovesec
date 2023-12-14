@@ -2,7 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
-      - Secondary One Students (2024).md
       - The Woodgrove Showcase.md
       - Our Campus.md
       - Direct School Admission.md
