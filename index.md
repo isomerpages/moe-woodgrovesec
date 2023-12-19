@@ -4,13 +4,17 @@ title: Woodgrove Secondary School
 description: Woodgrove Secondary School
 image: /images/logo.png
 permalink: /
-notification: ""
+notification: Students posted to Woodgrove Secondary School should refer to the
+  Secondary One Infoboard for details.
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
       url: youtu.be/lZKe_rkEGgU/
       title: Online@Woodgrove
       key_highlights:
+        - title: Secondary One Infoboard
+          description: Onboarding Journey
+          url: /prospective-students/permalink/
         - title: Parent-Child Tool Kit
           description: Key Termly Information
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation
@@ -21,6 +25,7 @@ sections:
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
       subtitle: Welcome to Woodgrove Secondary School's Website
+      variant: center
   - resources:
       title: Woodgrove Media
       subtitle: The Voice of Woodgrove
