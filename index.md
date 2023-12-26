@@ -17,7 +17,7 @@ sections:
           url: /prospective-students/permalink/
         - title: Parent-Child Tool Kit
           description: Key Termly Information
-          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation
+          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/family-support
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
