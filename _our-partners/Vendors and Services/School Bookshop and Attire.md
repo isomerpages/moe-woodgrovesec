@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vendors and Services
 variant: markdown
 ---
-### **[Books and  School Attire for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2024-preparation?authuser=0)** 
+### **[Books and  School Attire for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/books-uniform)** 
    
 #### **School Bookshop:**
 
