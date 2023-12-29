@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vendors and Services
 variant: markdown
 ---
-### **[Books and  Stationery for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/books-uniform)** 
+### **[Books and  Stationery for 2024 - Click Here.](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/books-stationery)** 
    
 #### **School Bookshop:**
 
