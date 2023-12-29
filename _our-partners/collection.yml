@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Vendors and Services/School Bookshop and Attire.md
-      - Vendors and Services/School Canteen Vacancies.md
       - Vendors and Services/.keep
       - "Partners: Alumni.md"
       - School Advisory Committee.md
