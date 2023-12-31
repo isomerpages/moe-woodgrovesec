@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
-          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/books-stationery
+          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
