@@ -1,0 +1,8 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - Secondary One Infoboard (2024).md
+      - The Woodgrove Showcase.md
+      - Our Campus.md
+      - Direct School Admission.md

@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activities at Woodgrove Secondary School.md
+      - Sports and Games/Badminton.md
+      - Sports and Games/Basketball.md
+      - Sports and Games/Football.md
+      - Sports and Games/Netball.md
+      - Sports and Games/.keep
+      - Uniformed Groups/National Cadet Corps (Land).md
+      - Uniformed Groups/National Police Cadet (NPCC).md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/.keep
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Symphonic Band.md
+      - Performing Arts/.keep
+      - Clubs and Societies/Environmental Science Club.md
+      - Clubs and Societies/Robotics Club.md
+      - Clubs and Societies/Media Club.md
+      - Clubs and Societies/Youth Flying Club.md
+      - Clubs and Societies/.keep

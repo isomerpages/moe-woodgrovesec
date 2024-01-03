@@ -1,0 +1,11 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - Vendors and Services/School Bookshop and Attire.md
+      - Vendors and Services/.keep
+      - "Partners: Alumni.md"
+      - School Advisory Committee.md
+      - Parents/Parent & Child Toolkit.md
+      - Parents/Parent Support Group.md
+      - Parents/.keep
