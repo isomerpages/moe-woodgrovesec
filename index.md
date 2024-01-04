@@ -20,7 +20,7 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
-      subtitle: Welcome to Woodgrove Secondary School's Website
+      subtitle: We are a BCA Green Mark (Gold Plus) school since 2017
       variant: center
   - resources:
       title: Woodgrove Media
