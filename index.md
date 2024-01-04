@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/woodgrove sec sch.gif
       url: youtu.be/lZKe_rkEGgU/
-      title: Online@Woodgrove
+      title: Online @ Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
