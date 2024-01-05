@@ -17,8 +17,9 @@ locations:
 contacts:
   - content:
       - phone: +65 6893 2564
-      - email: ""
+      - email: woodgrove_ss@moe.edu.sg
       - other: <br><p><strong>Have a question?</strong><br> Ask and get answered on
           our&nbsp;<a href="https://ask.gov.sg/wgs">Q&A Page</a><br> </p>
     title: General Enquiries & Feedback
+feedback: ""
 ---
