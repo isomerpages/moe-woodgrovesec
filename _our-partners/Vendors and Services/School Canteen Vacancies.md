@@ -2,6 +2,8 @@
 title: School Canteen Vacancies
 permalink: /our-partners/vendors-and-services/school-canteen-vacancies/
 description: ""
+variant: markdown
+third_nav_title: Vendors and Services
 ---
 School Canteen Advertisement
 
@@ -10,11 +12,11 @@ School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| **Snacks and Hot Drinks**| 18 November 2023     | Nil     |
+| **Yong Tau Foo Stall**| 6 March 2024     | Nil     |
 
 
 
-We are looking for a stallholder to operate a food stall in our school canteen with effect from **Jan 2024**.
+We are looking for a stallholder to operate a food stall in our school canteen with effect from **26 March 2024**.
 
 Application Procedure
 
