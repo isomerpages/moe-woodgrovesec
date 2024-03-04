@@ -2,7 +2,7 @@
 layout: homepage
 title: Woodgrove Secondary School
 description: Woodgrove Secondary School
-image: /images/logo.png
+image: /images/WGS_logo_updated_V3.png
 permalink: /
 notification: ""
 sections:
