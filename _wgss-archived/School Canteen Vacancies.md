@@ -3,7 +3,6 @@ title: School Canteen Vacancies
 permalink: /our-partners/vendors-and-services/school-canteen-vacancies/
 description: ""
 variant: markdown
-third_nav_title: Vendors and Services
 ---
 School Canteen Advertisement
 
