@@ -44,16 +44,7 @@ chosen school for the duration of the programme.</p>
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
-<h3></h3>
-<p>
-<br>
-</p>
-<h3></h3>
-<p>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 <p><strong>Sub Page: Selection Criteria&nbsp;</strong>
 </p>
 <p><strong>Criteria for DSA in Talent Area 1: Community and Youth Leadership</strong>
@@ -72,9 +63,7 @@ Class or equivalent student organisation.</p>
 </li>
 </ul>
 <p>
-<br>
-</p>
-<p><strong>Criteria for DSA in Talent Area 2: Science for Sustainable Development</strong>
+<br><strong>Criteria for DSA in Talent Area 2: Science for Sustainable Development</strong>
 </p>
 <p>Applicants should:</p>
 <ul>
@@ -93,23 +82,7 @@ or outside school.</p>
 <p>Have good conduct</p>
 </li>
 </ul>
-<h3></h3>
 <p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <h3><strong>Sub Page: Application Process</strong></h3>
@@ -187,11 +160,7 @@ and achievements.</p>
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<h4></h4>
-<h4></h4>
 <p>
-<br>
 <br>
 </p>
 <h4><strong>Sub Page: Selection Process&nbsp;</strong></h4>
