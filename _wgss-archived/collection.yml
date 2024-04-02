@@ -2,6 +2,7 @@ collections:
   wgss-archived:
     output: true
     order:
+      - Secondary One Infoboard (2024).md
       - School Canteen Vacancies.md
       - Search Results.md
       - Announcements.md
