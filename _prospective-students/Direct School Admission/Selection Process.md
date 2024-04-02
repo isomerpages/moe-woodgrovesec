@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Sub Page: Selection Process&nbsp;</strong></h4>
-<h4><strong>June to July 2024</strong></h4>
+<h4><strong>Selection process takes place from June to July 2024</strong></h4>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 group interview. The details of the Selection Trial will be communicated
 via email.&nbsp;</p>
