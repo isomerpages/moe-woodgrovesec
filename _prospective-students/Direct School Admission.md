@@ -85,5 +85,3 @@ or outside school.</p>
 <p>
 <br>
 </p>
-<h3></h3>
-<p></p>
