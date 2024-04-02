@@ -2,5 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
+      - DSA/Selection Criteria.md
       - DSA/.keep
       - Direct School Admission.md
