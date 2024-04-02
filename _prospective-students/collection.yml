@@ -2,6 +2,5 @@ collections:
   prospective-students:
     output: true
     order:
-      - The Woodgrove Showcase.md
       - Our Campus.md
       - Direct School Admission.md
