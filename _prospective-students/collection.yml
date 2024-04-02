@@ -2,5 +2,4 @@ collections:
   prospective-students:
     output: true
     order:
-      - Our Campus.md
       - Direct School Admission.md
