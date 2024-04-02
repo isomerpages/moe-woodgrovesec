@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<p><strong>Sub Page: Selection Criteria&nbsp;</strong>
+<p><strong>Selection Criteria&nbsp;</strong>
 </p>
 <p><strong>Criteria for DSA in Talent Area 1: Community and Youth Leadership</strong>
 </p>
