@@ -15,7 +15,7 @@ a talent in the following areas:</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRd-TCFDBGxvaG2Iau-gj0ijGy3pvqHvGRSjLCNMyEfAnBabbBTiGYi9usWsJI36Q/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="590" width="793" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRd-TCFDBGxvaG2Iau-gj0ijGy3pvqHvGRSjLCNMyEfAnBabbBTiGYi9usWsJI36Q/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <ol start="2">
 <li>
@@ -24,7 +24,7 @@ a talent in the following areas:</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ2tNsTOQ0Dr40yuVTpSvUI9iYYDu8dajOkd1Qu8qXVjpKGs3ws6PXhuHU77YsoA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="590" width="793" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSQ2tNsTOQ0Dr40yuVTpSvUI9iYYDu8dajOkd1Qu8qXVjpKGs3ws6PXhuHU77YsoA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>
 <br>
