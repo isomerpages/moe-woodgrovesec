@@ -2,7 +2,8 @@ collections:
   prospective-students:
     output: true
     order:
-      - Secondary One Infoboard (2024).md
-      - The Woodgrove Showcase.md
-      - Our Campus.md
-      - Direct School Admission.md
+      - Direct School Admission/.keep
+      - Direct School Admission/Direct School Admission.md
+      - Direct School Admission/Selection Criteria.md
+      - Direct School Admission/Application Process.md
+      - Direct School Admission/Selection Process.md
