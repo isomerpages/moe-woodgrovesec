@@ -14,15 +14,17 @@ via email.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Community Youth Leadership</p>
+<p><strong>Community Youth Leadership</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applied Learning Program</p>
+<p><strong>Science for Sustainable Living</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Group Interview</strong>
+<p><strong><em>Group Interview</em></strong>
 </p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
@@ -31,7 +33,7 @@ activity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Interview with Panel</strong>
+<p><strong><em>Interview with Panel</em></strong>
 </p>
 <p>Candidates to share about their experiences in Science for Sustainable
 Living.</p>
