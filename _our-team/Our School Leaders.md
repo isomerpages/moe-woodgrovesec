@@ -2,11 +2,8 @@
 title: Our School Leaders
 permalink: /our-school-leaders/permalink/
 description: ""
+variant: markdown
 ---
-![](/images/School%20leaders/sl%20v3%20(2).jpg)
-Our School Leaders (from left): Mr Tan Boon Cheng (Vice Principal-Curriculum), Mr Chua Chor Huat (Principal), Mdm Priscilla Tan (Vice Principal-Administration) , Mrs Chithra Venkatraman (Vice Principal-Curriculum)
-
-
 Dear Readers,
 
 On behalf of everyone at Woodgrove Secondary School (WGS), let me extend a very warm welcome to our school and wonderful community.&nbsp; We hope our website will provide a good glimpse into the holistic and engaging experience we provide for all our Woodgrovers
