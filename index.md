@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/woodgrove sec sch.gif
+      background: /images/Website_background_gif_v3.gif
       url: youtu.be/lZKe_rkEGgU/
       title: Online@Woodgrove
       key_highlights:
