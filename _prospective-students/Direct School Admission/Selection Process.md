@@ -83,6 +83,4 @@ the School Preference Submission period.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent area they are selected for from year 1 to 4.</p>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
-an offer<strong>.</strong>
-</p>
+<p></p>
