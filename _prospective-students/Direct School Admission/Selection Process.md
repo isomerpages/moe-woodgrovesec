@@ -89,8 +89,8 @@ will receive a letter on the outcome of their applications by the end of
 August 2024.</p>
 <h4><strong>School Preference Submission: October 2024&nbsp;</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
-and SMS notification via <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on the School Preference
-Submission Portal.&nbsp;</p>
+and SMS notification via Postman.gov.sg on the School Preference Submission
+Portal.&nbsp;</p>
 <p>Both parents are required to login to the DSA-Sec Portal using their Singpass
 to submit up to three school preferences. If parent(s) are unable to submit
 online, they can approach their child’s primary school for assistance to
