@@ -38,7 +38,7 @@ school for assistance.</p>
 need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
 Portal.</p>
 <p></p>
-<p>Instructions on Application: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nmsdsa-sec-application</u></a>
+<p>Instructions on Application: <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nmsdsa-sec-application</u></a>
 </p>
 <p></p>
 </td>
