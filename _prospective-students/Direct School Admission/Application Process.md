@@ -26,6 +26,7 @@ third_nav_title: Direct School Admission
 Portal.&nbsp;</p>
 <p>For more details and deadlines, please refer to MOE website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/dsa-sec</u></a>
 </p>
+<p></p>
 <p>2. Applicants from MOE mainstream primary schools: Parents may log in
 directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/
 guardians who are unable to apply online can approach their child’s primary
@@ -38,7 +39,7 @@ school for assistance.</p>
 need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
 Portal.</p>
 <p></p>
-<p>Instructions on Application: <a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+<p>Instructions on Application: <a href="https://go.gov.sg/moedsanms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moedsanms</a>
 </p>
 <p></p>
 </td>
