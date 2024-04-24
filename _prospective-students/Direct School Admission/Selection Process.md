@@ -10,56 +10,28 @@ third_nav_title: Direct School Admission
 group interview. The details of the Selection Trial will be communicated
 via email.&nbsp;</p>
 <p>The Selection Trial includes:</p>
+<p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Community Youth Leadership</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Science for Sustainable Living</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4>Community Youth Leadership</h4>
+<p></p>
 <p><strong><em>Group Interview</em></strong>
 </p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<h4>Science for Sustainable Living</h4>
+<p></p>
 <p><strong><em>Interview with Panel</em></strong>
 </p>
 <p>Candidates to share about their experiences in Science for Sustainable
 Living.</p>
-<p>
-<br>
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Things to Bring/Prepare:</p>
-<p>
-<br>
-</p>
-<p>NA</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Things to Bring/Prepare:</p>
-<p>
-<br>
+<p><strong>Optional to bring: Portfolio</strong>
 </p>
-<p><strong>Optional: Portfolio</strong>
-</p>
+<p></p>
 <p>Teachers would like to understand more about the child’s involvement in
 the area of Science for Sustainable Living. This can include:</p>
 <p></p>
@@ -79,6 +51,13 @@ the area of Science for Sustainable Living. This can include:</p>
 <p></p>
 <p>The portfolio should include pictures of work done such as artefacts whenever
 possible.</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -89,8 +68,8 @@ will receive a letter on the outcome of their applications by the end of
 August 2024.</p>
 <h4><strong>School Preference Submission: October 2024&nbsp;</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
-and SMS notification via <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> on the School Preference
-Submission Portal.&nbsp;</p>
+and SMS notification via Postman.gov.sg on the School Preference Submission
+Portal.&nbsp;</p>
 <p>Both parents are required to login to the DSA-Sec Portal using their Singpass
 to submit up to three school preferences. If parent(s) are unable to submit
 online, they can approach their child’s primary school for assistance to
@@ -102,6 +81,4 @@ the School Preference Submission period.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent area they are selected for from year 1 to 4.</p>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
-an offer<strong>.</strong>
-</p>
+<p></p>
