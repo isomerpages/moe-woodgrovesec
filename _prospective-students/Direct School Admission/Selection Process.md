@@ -15,14 +15,14 @@ via email.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Community Youth Leadership</strong></h4>
+<h4>Community Youth Leadership</h4>
 <p></p>
 <p><strong><em>Group Interview</em></strong>
 </p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
 <p></p>
-<h4><strong>Science for Sustainable Living</strong></h4>
+<h4>Science for Sustainable Living</h4>
 <p></p>
 <p><strong><em>Interview with Panel</em></strong>
 </p>
@@ -54,6 +54,11 @@ the area of Science for Sustainable Living. This can include:</p>
 <p>The portfolio should include pictures of work done such as artefacts whenever
 possible.</p>
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
