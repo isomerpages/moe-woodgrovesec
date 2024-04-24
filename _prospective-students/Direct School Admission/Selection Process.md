@@ -29,9 +29,7 @@ activity.</p>
 <p>Candidates to share about their experiences in Science for Sustainable
 Living.</p>
 <p></p>
-<p>Things to Bring/Prepare:</p>
-<p></p>
-<p><strong>Optional: Portfolio</strong>
+<p><strong>Optional to bring: Portfolio</strong>
 </p>
 <p></p>
 <p>Teachers would like to understand more about the child’s involvement in
