@@ -10,56 +10,30 @@ third_nav_title: Direct School Admission
 group interview. The details of the Selection Trial will be communicated
 via email.&nbsp;</p>
 <p>The Selection Trial includes:</p>
+<p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Community Youth Leadership</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Science for Sustainable Living</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>Community Youth Leadership</strong></h4>
+<p></p>
 <p><strong><em>Group Interview</em></strong>
 </p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<h4><strong>Science for Sustainable Living</strong></h4>
+<p></p>
 <p><strong><em>Interview with Panel</em></strong>
 </p>
 <p>Candidates to share about their experiences in Science for Sustainable
 Living.</p>
-<p>
-<br>
-<br>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Things to Bring/Prepare:</p>
-<p>
-<br>
-</p>
-<p>NA</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Things to Bring/Prepare:</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Optional: Portfolio</strong>
 </p>
+<p></p>
 <p>Teachers would like to understand more about the child’s involvement in
 the area of Science for Sustainable Living. This can include:</p>
 <p></p>
@@ -79,6 +53,8 @@ the area of Science for Sustainable Living. This can include:</p>
 <p></p>
 <p>The portfolio should include pictures of work done such as artefacts whenever
 possible.</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
