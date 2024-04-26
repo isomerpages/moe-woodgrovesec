@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/woodgrove sec sch.gif
+      background: /images/Welcome_to_Our_Website_Woodgrove_Secondary_School.gif
       title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
