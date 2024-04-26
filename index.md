@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/TEST01_editedV3.jpg
-      url: youtu.be/lZKe_rkEGgU/
       title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
