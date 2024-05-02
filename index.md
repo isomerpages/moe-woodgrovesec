@@ -8,12 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/woodgrove sec sch.gif
-      url: youtu.be/lZKe_rkEGgU/
       title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
-          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home
+          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/landing-page
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
