@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_Mainpage_V2.gif
+      background: /images/Webpage_banner_1200X630.gif
       title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
