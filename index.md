@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Webpage_banner_test_gif_v7.gif
+      background: /images/795X380_banner.gif
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
@@ -18,7 +18,7 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
-      variant: center
+      variant: image
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
