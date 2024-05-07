@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Webpage_banner_test_gif_v5.gif
-      title: Online@Woodgrove
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
@@ -19,8 +18,7 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
-      subtitle: BCA Green Mark (Gold Plus) school since 2017
-      variant: image
+      variant: center
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
