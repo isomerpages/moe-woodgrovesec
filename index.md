@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Webpage_banner_test_gif_v6.gif
+      background: /images/Webpage_banner_test_gif_v7.gif
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
