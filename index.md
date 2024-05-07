@@ -18,7 +18,7 @@ sections:
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
-      variant: image
+      variant: center
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
