@@ -32,7 +32,23 @@ and discover their aspirations.</p>
 <p>Ms Phyllis (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>phyllis_teo_min_ki@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ambiga (Counselling)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ambiga_krishnasamy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kang Cai Ling (Special Education Needs Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kang_cai_ling@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
