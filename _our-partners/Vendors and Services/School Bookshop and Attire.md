@@ -6,7 +6,11 @@ third_nav_title: Vendors and Services
 variant: tiptap
 ---
 <h4><strong>School Bookshop:</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,7 +40,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong><u>Please refer to the website</u></strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg</a></strong>
+<p><strong><a href="https://asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -63,7 +67,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>School Attire:</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,7 +91,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Please refer to the website</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com</a></strong>
+<p><strong><a href="https://jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com</a></strong>
 </p>
 </td>
 </tr>
@@ -95,7 +103,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Please refer to the website</strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com</a></strong>
+<p><strong><a href="https://jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com</a></strong>
 </p>
 </td>
 </tr>
