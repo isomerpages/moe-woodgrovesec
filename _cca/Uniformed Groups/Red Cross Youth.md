@@ -12,4 +12,3 @@ Established in 2024, NCDCC believes in developing and empowering our youths to b
 **Training Days (2023)**
 
 Mondays - 3:30-5:30pm
-
