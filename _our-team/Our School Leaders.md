@@ -14,18 +14,14 @@ Our school core values – “Be Your Best Self, Embrace Challenges, Practise Gr
          
 We are very proud of WGS and especially proud of our amazing Woodgrovers. Please feel free to visit us and see our wonderful school for yourself. We would be delighted to meet you and welcome you into WGS!
 
+Mr Chua Chor Huat, 
+Principal
 
-<style>
-  .no-spacing {
-    line-height:1.5 ;
-    font-size: 20px; 
-  }
-</style>
+Mr Tan Boon Cheng,
+Vice Principal (Curriculum)
 
-<div class="no-spacing">
-  Chua Chor Huat
-  <br>
-  Principal
-  <br>
-  Woodgrove Secondary School
-</div>
+Mrs Venkatraman Chithra
+Vice Principal (Curriculum)
+
+Ms Priscilla Tan Phaik Hoon
+Vice Principal (Admin)
