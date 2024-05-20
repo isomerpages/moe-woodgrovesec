@@ -16,3 +16,15 @@ capabilities that our young civil defence ambassadors can have.</p>
 <p><strong>Training Days (2023)</strong>
 </p>
 <p>Mondays - 3:30-5:30pm</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCDCC/DSC00731__1_.jpg">
+</div>
+<p>During Our Training Sessions, we learn about recue operations such as
+lifting victims to the first aid area.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/Red Cross/DSC00713__2_.jpg">
+</div>
+<p>At NCDCC, our cadets help one another attain discipline and excellence.</p>
