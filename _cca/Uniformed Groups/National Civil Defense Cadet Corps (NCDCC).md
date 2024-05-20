@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h4>National Civil Defense Cadet Corps</h4>
+<h4>National Civil Defence Cadet Corps</h4>
 <p>Established in 2024, NCDCC believes in developing and empowering our youths
 to be active &amp; concerned citizens with life-saving skills. NCDCC focuses
 on developing greater awareness of civil defence in our cadets and prepare
