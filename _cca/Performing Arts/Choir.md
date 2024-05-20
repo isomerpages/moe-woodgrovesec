@@ -3,6 +3,7 @@ title: Choir
 permalink: /our-curriculum/cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 #### The Woodgrove Choir
 
@@ -32,11 +33,14 @@ Admiralty PAssionArts Festival 2022 
 
 World of Woodgrove (WoW) Primary School Outreach
 
+
+
+![Our Choristers Working Towards Their Next Performance](/images/CCAs/Choir/DSC01009.jpg)
+Our Choristers Working Towards Their Next Performance
+
+
+![Training Sessions](/images/CCAs/Choir/DSC01051.jpg)
+Featuring our Choir Shirts
+
 ![](/images/CCAs/Choir/Capture.png)
 We are proud to support events in the community to strengthen the social fabric of our nation.
-
-![](/images/CCAs/Choir/WGS_099.jpg)
-We value the effort of our coach who has been with us for years.
-
-![](/images/CCAs/Choir/WGS_105.jpg)
-At the Woodgrove Choir, every voice has the potential to make music.
