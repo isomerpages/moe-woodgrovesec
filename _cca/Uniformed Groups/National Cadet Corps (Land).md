@@ -3,6 +3,7 @@ title: National Cadet Corps (Land)
 permalink: /our-curriculum/cca/uniformed-groups/national-cadet-corps-land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 #### National Cadet Corps (Land)
 
@@ -47,8 +48,8 @@ Unit Recognition (Distinction)
 
 ![](/images/CCAs/NCC/symbol%20new1.jpg)
 
-![](/images/CCAs/NCC/img-20230913-wa0004.jpg)
-Urban Operations Cluster Training with Partner Schools
+![Our Drills, Our Pride](/images/CCAs/NCC/DSC00854__4_.jpg)
+Our Drills, Our Pride
 
 ![](/images/CCAs/NCC/img-20230913-wa0007.jpg)
 NCC District Sports and Games Competition
