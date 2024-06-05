@@ -27,5 +27,5 @@ together with our students - this gave them the opportunity to work on
 an authentic project, cultivating values such as teamwork and being meticulous
 with language used.</p>
 <p></p>
-<p>Click to view <a href="https://www.canva.com/design/DAFikLVSJFM/lQ4qUR5BAZC4I0zHw-L-1A/view?utm_content=DAFikLVSJFM&amp;utm_campaign=share_your_design&amp;utm_medium=link&amp;utm_source=shareyourdesignpanel" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click to view <a href="https://www.canva.com/design/DAFikLVSJFM/foL2MiRBhklMX7p0X6dtBw/edit?utm_content=DAFikLVSJFM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
