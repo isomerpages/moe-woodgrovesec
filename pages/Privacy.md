@@ -8,8 +8,7 @@ description: ""
 <p><strong>WOODGROVE SECONDARY SCHOOL PRIVACY STATEMENT&nbsp;</strong>
 </p>
 <p>1.&nbsp; This is a Woodgrove Secondary School website. Thank you for examining
-our privacy statement.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+our privacy statement.&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
 data that allows us to identify you individually.&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;</p>
