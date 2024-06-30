@@ -11,4 +11,5 @@ variant: markdown
 |Member  |Mr Tan Hua Koon Stuart     | 
 | Member    |Mr Khoo Lian Wai Jimmy     | 
 | Member   |Mr Teoh Shi Hao Sean     | 
+| Member   |Mr Tan Boxin     | 
 | Principal / Honorary Secretary     | Mr Chua Chor Huat |
