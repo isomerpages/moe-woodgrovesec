@@ -7,7 +7,12 @@ variant: tiptap
 <p>Our leadership are a dedicated team of individuals who plan, oversee implementation
 of student experiences and provide guidance to both teachers and students.</p>
 <h3><strong>Year Heads</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -67,7 +72,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Student Management (Discipline)</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -94,7 +104,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Aesthetics, PE &amp; CCA</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -132,7 +147,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Citizenship &amp; Character Education</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -170,7 +190,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Student Leadership</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -197,7 +222,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>English Department</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -235,7 +265,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Mother Tongue Languages Department</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -284,7 +319,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Humanities Department</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -310,17 +350,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Tze Gek Justina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_tze_gek_justina@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Chuen Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,7 +362,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Science Department</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -371,7 +405,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>ICT &amp; Applied Sciences Department</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -420,7 +459,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Mathematics Department</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -469,7 +513,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Curriculum &amp; Innovation</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -507,7 +556,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Corporate Communications &amp; Partnerships</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -534,7 +588,12 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tbody>
 </table>
 <h3><strong>Operations, ICT &amp; Administration</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
