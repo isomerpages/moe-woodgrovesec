@@ -4,7 +4,6 @@ permalink: /success-stories/permalink/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Success%20Stories%20(Alumni)/A3_NYP_Graduation_posters_Woodgrove_Siti_Asuhada_compressed.jpg)
 
 
