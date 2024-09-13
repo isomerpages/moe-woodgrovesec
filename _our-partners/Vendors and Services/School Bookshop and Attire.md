@@ -132,7 +132,7 @@ variant: tiptap
 </p>
 <p>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enquiry_form.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Enquiry_form.png">
 </div>
 </td>
 </tr>
@@ -159,7 +159,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Video_Direction.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Video_Direction.png">
 </div>
 </td>
 </tr>
