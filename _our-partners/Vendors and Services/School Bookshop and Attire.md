@@ -90,12 +90,11 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jeep_Sing.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Jeep_Sing.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>24 hours a day, seven days a week</p>
+<p>&nbsp;24 hours a day, seven days a week</p>
 </td>
 </tr>
 <tr>
