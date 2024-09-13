@@ -199,11 +199,10 @@ the stipulated gate opening/closing hours:&nbsp;&nbsp;</p>
 <p>&nbsp;All vehicles must comply with the speed limit of 15km/h within the
 school compound. Vehicular movement within the school will be carefully
 controlled during assembly and dismissal periods.</p>
-<p>&nbsp;&nbsp;&nbsp; The schools will deploy traffic marshals to direct
-cars coming into schools to drop off/ pick up students during peak periods.&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Parents can drive into the school to drop off/ pick-up their children at
-the porch's immediate front. <strong>No vehicle can park at the school porch or the immediate front.&nbsp;</strong>&nbsp;</p>
+<p>&nbsp;The schools will deploy traffic marshals to direct cars coming into
+schools to drop off/ pick up students during peak periods.&nbsp;</p>
+<p>&nbsp;&nbsp;Parents can drive into the school to drop off/ pick-up their
+children at the porch's immediate front. <strong>No vehicle can park at the school porch or the immediate front.&nbsp;</strong>&nbsp;</p>
 <p>Vehicles entering the school shall follow the instructions given by the
 Security Officers and school authorised personnel.&nbsp;</p>
 <p>&nbsp;Under the Environmental Protection and Management (Vehicular Emissions)
