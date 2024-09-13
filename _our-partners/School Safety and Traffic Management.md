@@ -78,16 +78,16 @@ description: "School Safety and Traffic Management:  Safety Vision     A Safe
 </p>
 <p>A Safe School for a Community of Future-Ready Learners and Thoughtful
 Leaders.&nbsp;</p>
-<p>&nbsp;<strong>Safety Mission&nbsp;</strong>
+<p><strong>Safety Mission&nbsp;</strong>
 </p>
-<p>&nbsp;To provide a Safe teaching, learning and working environment for
-the students and staff.&nbsp;</p>
-<p>&nbsp;<strong>School Layout Plan&nbsp;&nbsp;</strong>
+<p>To provide a Safe teaching, learning and working environment for the students
+and staff.&nbsp;</p>
+<p><strong>School Layout Plan&nbsp;&nbsp;</strong>
 </p>
-<p>&nbsp;&nbsp;The school layout plan is as illustrated. Student classrooms
-are located in Blocks C and D. Special rooms such as laboratories, Design
-and Technology Workshops and The Nook are located at Blocks B, E and G
-respectively. The school canteen is at level 1 of Block F.&nbsp;&nbsp;</p>
+<p>The school layout plan is as illustrated. Student classrooms are located
+in Blocks C and D. Special rooms such as laboratories, Design and Technology
+Workshops and The Nook are located at Blocks B, E and G respectively. The
+school canteen is at level 1 of Block F.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ungrouped photos/school_layout.png">
@@ -211,16 +211,16 @@ off idling engines.&nbsp;</p>
 <p>At the start of school on non-rainy days, students are to use Gate C and
 Gate E (Turnstile) to enter the school within the stipulated hours mentioned
 above.&nbsp;</p>
-<p>&nbsp; Students enter Gate C to walk under the covered walkway towards
+<p>&nbsp;Students enter Gate C to walk under the covered walkway towards
 the school foyer enroute to the classrooms.&nbsp;&nbsp;</p>
-<p>&nbsp; Students enter Gate E (Turnstile)&nbsp;to walk under the covered
-walkway towards the canteen enroute to the classrooms.&nbsp;</p>
-<p>&nbsp;During rainy days, students can also use Gate B to enter the school
-between 6.30am - 7.45am. Students enter Gate E to walk under&nbsp;the covered
-walkway that links to the school canteen enroute to the classrooms.&nbsp;</p>
-<p>&nbsp;For after school dismissal, students are to use Gate B and Gate
-E to leave the school.&nbsp;</p>
-<p>&nbsp;Students are not allowed to walk across the parking area and driveway
+<p>Students enter Gate E (Turnstile)&nbsp;to walk under the covered walkway
+towards the canteen enroute to the classrooms.&nbsp;</p>
+<p>During rainy days, students can also use Gate B to enter the school between
+6.30am - 7.45am. Students enter Gate E to walk under&nbsp;the covered walkway
+that links to the school canteen enroute to the classrooms.&nbsp;</p>
+<p>For after school dismissal, students are to use Gate B and Gate E to leave
+the school.&nbsp;</p>
+<p>Students are not allowed to walk across the parking area and driveway
 when exiting the school.&nbsp;&nbsp;</p>
 <p>&nbsp;<strong>Safe Route for Cyclists&nbsp;</strong>
 </p>
@@ -237,12 +237,12 @@ shoes to protect against injuries.&nbsp;</p>
 or listen to music through earphones while cycling.&nbsp;</p>
 <p>No pillion passengers shall be carried on a bicycle.&nbsp;</p>
 <p>Cycling abreast is prohibited.&nbsp;</p>
-<p>&nbsp;No cycling is allowed in the school compound. The cyclist must dismount
+<p>No cycling is allowed in the school compound. The cyclist must dismount
 from the bicycle (@ Gates B or C) and push the bicycle to park and lock
 it at the designated bicycle parking bay (near entrance of Gate B).&nbsp;&nbsp;</p>
 <p>&nbsp;<strong>School Lightning Warning System &nbsp;</strong>
 </p>
-<p>&nbsp;The school is equipped with a Lightning Warning system and the locations
+<p>The school is equipped with a Lightning Warning system and the locations
 of the light sirens are at the school field, parade square, school canteen
 and the Indoor Sports Hall area.&nbsp;</p>
 <p>Upon receiving a lightning alert, the light sirens will automatically
@@ -251,19 +251,19 @@ illuminate. Staff and students should cease all outdoor activities.&nbsp;</p>
 for lightning alert is being lifted:&nbsp;&nbsp;</p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp; Do not stay in open areas (e.g. school
 field, outdoor fitness area).&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Take shelter under safe structures such as
-any large building blocks in the school.&nbsp;&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Do not take shelter in partially sheltered
-structures such as wooden huts/ sheds and tents in the open areas.&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;Take shelter under safe structures such as any
+large building blocks in the school.&nbsp;&nbsp;</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;Do not take shelter in partially sheltered structures
+such as wooden huts/ sheds and tents in the open areas.&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Do not stand under tall trees or lamp/telephone
 poles.&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Stay off bicycles.&nbsp;</p>
 <p>&nbsp;As lightning activities are possible during a bright and sunny day,
 students are to look out for the lightning warning light siren before stepping
 outdoors, especially the parade square.&nbsp;&nbsp;</p>
-<p>&nbsp;As a safety measure, the school has put up signages at locations
-around the parade square to warn students of lightning warning.&nbsp;</p>
-<p>&nbsp;While in school, students should use covered walkways and/or walk
-under any large building blocks in the school.&nbsp;</p>
+<p>As a safety measure, the school has put up signages at locations around
+the parade square to warn students of lightning warning.&nbsp;</p>
+<p>While in school, students should use covered walkways and/or walk under
+any large building blocks in the school.&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
