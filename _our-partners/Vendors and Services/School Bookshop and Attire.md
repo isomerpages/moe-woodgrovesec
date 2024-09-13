@@ -130,7 +130,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/JSFSUPPORT</a>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Enquiry_form.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Enquiry_form.png">
 </div>
 </td>
 </tr>
@@ -156,7 +156,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Video_Direction.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Video_Direction.png">
 </div>
 </td>
 </tr>
