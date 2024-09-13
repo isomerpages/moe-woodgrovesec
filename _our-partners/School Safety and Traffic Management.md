@@ -92,11 +92,10 @@ respectively. The school canteen is at level 1 of Block F.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ungrouped photos/school_layout.png">
 </div>
-<p>&nbsp;</p>
-<p><strong>Traffic Management Plan&nbsp;&nbsp;</strong>
+<p>&nbsp;<strong>Traffic Management Plan&nbsp;&nbsp;</strong>
 </p>
-<p>&nbsp;&nbsp;The Woodgrove Secondary School (WGS) Traffic Management Plan
-(TMP) is an integral part of the School Safety Management.&nbsp;&nbsp;</p>
+<p>&nbsp;The Woodgrove Secondary School (WGS) Traffic Management Plan (TMP)
+is an integral part of the School Safety Management.&nbsp;&nbsp;</p>
 <p>&nbsp;<strong>Operation Hours of School Gates&nbsp;</strong>
 </p>
 <p>&nbsp;Students can enter and exit the school via Gates A, B, C and E during
@@ -193,16 +192,15 @@ the stipulated gate opening/closing hours:&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Safe Route for Vehicles&nbsp;</strong>
 </p>
 <p>&nbsp;All vehicles must comply with the speed limit of 15km/h within the
 school compound. Vehicular movement within the school will be carefully
 controlled during assembly and dismissal periods.</p>
-<p>&nbsp;The schools will deploy traffic marshals to direct cars coming into
-schools to drop off/ pick up students during peak periods.&nbsp;</p>
-<p>&nbsp;&nbsp;Parents can drive into the school to drop off/ pick-up their
-children at the porch's immediate front. <strong>No vehicle can park at the school porch or the immediate front.&nbsp;</strong>&nbsp;</p>
+<p>The schools will deploy traffic marshals to direct cars coming into schools
+to drop off/ pick up students during peak periods.&nbsp;</p>
+<p>Parents can drive into the school to drop off/ pick-up their children
+at the porch's immediate front. <strong>No vehicle can park at the school porch or the immediate front.&nbsp;</strong>&nbsp;</p>
 <p>Vehicles entering the school shall follow the instructions given by the
 Security Officers and school authorised personnel.&nbsp;</p>
 <p>&nbsp;Under the Environmental Protection and Management (Vehicular Emissions)
@@ -268,3 +266,4 @@ around the parade square to warn students of lightning warning.&nbsp;</p>
 <p>&nbsp;While in school, students should use covered walkways and/or walk
 under any large building blocks in the school.&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
