@@ -89,6 +89,9 @@ variant: tiptap
 <p>Online Purchase <a rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com.sg</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jeep_Sing.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
