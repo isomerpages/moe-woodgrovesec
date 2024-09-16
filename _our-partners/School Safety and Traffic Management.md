@@ -216,10 +216,8 @@ the school foyer enroute to the classrooms.&nbsp;&nbsp;</p>
 <p>Students enter Gate E (Turnstile)&nbsp;to walk under the covered walkway
 towards the canteen enroute to the classrooms.&nbsp;</p>
 <p>During rainy days, students can also use Gate B to enter the school between
-6.30am - 7.45am. Students enter Gate E to walk under&nbsp;the covered walkway
-that links to the school canteen enroute to the classrooms.&nbsp;</p>
-<p>For after school dismissal, students are to use Gate B and Gate E to leave
-the school.&nbsp;</p>
+6.30am - 7.45am. For after school dismissal, students are to use Gate B,
+C and Gate E to leave the school.&nbsp;</p>
 <p>Students are not allowed to walk across the parking area and driveway
 when exiting the school.&nbsp;&nbsp;</p>
 <p>&nbsp;<strong>Safe Route for Cyclists&nbsp;</strong>
