@@ -3,12 +3,20 @@ title: Youth Flying Club
 permalink: /our-curriculum/cca/clubs-and-societies/youth-flying-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 #### Youth Flying Club
 
 The Youth Flying Club (YFC) hopes to promote aviation among youths and inculcate a strong passion for flying. To achieve this, students embark on aeromodelling and flight simulation courses.
 
-Members of the YFC experience hands-on activities such as first-person view (FPV) drone flying, designing and building unpowered gliders and flight simulation with the guidance of experienced instructors. Members of the YFC participate in inter-school competitions such as the Singapore Amazing Flying machine Competition (SAFMC) organised by Science Centre and Defence Science Organisation (DSO). YFC committee members are given the opportunity to lead and serve, they are also given the opportunity to take ownership to plan and execute bonding sessions among the YFC members
+Members of the YFC experience hands-on activities such as first-person view (FPV) drone flying, designing and building unpowered gliders and flight simulation with the guidance of experienced instructors. Members of the YFC participate in inter-school competitions such as the Singapore Amazing Flying machine Competition (SAFMC) organised by Science Centre and Defence Science Organisation (DSO). YFC committee members are given the opportunity to lead and serve, they are also given the opportunity to take ownership to plan and execute bonding sessions among the YFC members.
+
+         
+On August 19, 2024, twenty-five students from our school had the exciting opportunity to participate in the Flight Experience Programme (FEP) at Changi Airbase, organised by the Singapore Youth Flying Club (SYFC) HQ. This enrichment programme included rides on selected aircraft and exclusive visits to the airbase.
+
+Participants enjoyed an exhilarating flight aboard the RSAF A330 MRTT, a sophisticated aerial refuelling and military transport aircraft derived from the civilian Airbus A330. Before boarding, RSAF personnel provided a comprehensive introduction to the aircraft, enhancing the students' understanding and appreciation of military aviation.
+
+During the flight, students were treated to breathtaking aerial views of various parts of Singapore, creating a memorable experience that combined education with adventure. The FEP not only ignited their passion for aviation but also allowed them to engage with real-world applications of technology and teamwork in the aviation industry.
 
 **Training Days**
 
