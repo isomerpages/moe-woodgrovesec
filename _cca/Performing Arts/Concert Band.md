@@ -1,14 +1,15 @@
 ---
-title: Symphonic Band
-permalink: /our-curriculum/cca/performing-arts/symphonic-band/
+title: Concert Band
+permalink: /our-curriculum/cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-#### Symphonic Band
+#### Concert Band
 
-Since the school started in 2000, the Woodgrove Symphonic Band has grown from a 40-member unit to one that is 80 members strong. The Band’s motto of ‘One Band, One Heart, One Sound’ captures the goals of developing a lifelong life-long passion for and appreciation of music and working together as one to provide music to encourage or inspire others.
+Since the school started in 2000, the Woodgrove Concert Band has grown from a 40-member unit to one that is 80 members strong. The Band’s motto of ‘One Band, One Heart, One Sound’ captures the goals of developing a lifelong life-long passion for and appreciation of music and working together as one to provide music to encourage or inspire others.
 
-The Symphonic Band also has a proud record of achieving numerous accolades at the national level in events such as the Singapore Youth Festival Arts Presentation, Singapore International Band Festival and Istana Open House.
+The Concert Band also has a proud record of achieving numerous accolades at the national level in events such as the Singapore Youth Festival Arts Presentation, Singapore International Band Festival and Istana Open House.
 
 **Training Days**
 
@@ -63,7 +64,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/Botanic%20Garden%201.jpeg" alt="Symphonic Band" style="width:80%;">  
+<img src="/images/Botanic%20Garden%201.jpeg" alt="Concert Band" style="width:80%;">  
 	     We are proud to perform and bring music to the community 
 	
   ![](/images/CCAs/Band/WGS_224.jpg)
