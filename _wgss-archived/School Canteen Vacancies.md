@@ -11,11 +11,11 @@ School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| **Chinese Noodles Stall**| 19 March 2024     | Nil     |
+| **Yong Tau Foo & Chinese Noodles Stall**| 15 November 2024     | Nil     |
 
 
 
-We are looking for a stallholder to operate a food stall in our school canteen with effect from **01 April 2024**.
+We are looking for a stallholder to operate a food stall in our school canteen with effect from **01 January 2025**.
 
 Application Procedure
 
