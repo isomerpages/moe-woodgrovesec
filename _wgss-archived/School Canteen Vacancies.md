@@ -20,7 +20,7 @@ We are looking for a stallholder to operate a food stall in our school canteen w
 Application Procedure
 
 1.    Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-[Canteen Application Form](/files/application%20for%20canteen%20stall.pdf)
+[Canteen Application Form](/files/APPLICATION_FOR_CANTEEN_STALL.pdf)
 
 2.    Attached the following documents together with the application form:
 
