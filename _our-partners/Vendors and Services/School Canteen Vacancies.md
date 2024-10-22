@@ -70,6 +70,11 @@ South MRT – Exit 2</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore citizen or
 Singapore Permanent Resident (SPR) for stallholder and stall assistant.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
+and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
+is required to apply for a food stall license from Singapore Food Agency
+(SFA).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Able to provide good
 service and quality food with prices determined in consultation with the
 school.</p>
@@ -81,14 +86,7 @@ Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
 standard of food safety and personal hygiene.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Healthy and fit to operate
 the stall.</p>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
-and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possess catering experience
 or experience operating in a school environment.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Successful applicant
-is required to apply for a food stall license from Singapore Food Agency
-(SFA).</p>
 <p><strong>Shortlisted applicants will be notified for an interview and will be required to provide food sampling at the applicant’s own expense.</strong>
 </p>
