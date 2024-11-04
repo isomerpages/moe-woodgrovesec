@@ -6,7 +6,7 @@ third_nav_title: Vendors and Services
 variant: tiptap
 ---
 <p></p>
-<h4><strong><em><a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2025-prep" rel="noopener nofollow" target="_blank">Please click here for 2025 school attire, textbooks, stationery list and sales dates</a></em></strong></h4>
+<h4><strong><em><a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2025-prep" rel="noopener nofollow" target="_blank">Please click here for information on 2025 school attire, textbooks and stationery</a></em></strong></h4>
 <h4><strong>School Bookshop:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
