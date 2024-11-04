@@ -3,8 +3,10 @@ title: School Bookshop and Attire
 permalink: /our-partners/vendors-and-services/school-bookshop-and-uniform/
 description: ""
 third_nav_title: Vendors and Services
-variant: markdown
+variant: tiptap
 ---
+<p></p>
+<h4><strong><em><a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2025-prep" rel="noopener nofollow" target="_blank">Please click here for 2025 book and stationery list</a></em></strong></h4>
 <h4><strong>School Bookshop:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
