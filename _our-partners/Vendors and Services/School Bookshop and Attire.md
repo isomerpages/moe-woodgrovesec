@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Purchase <a rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com.sg</a>
+<p>Online Purchase <a href="https://jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank">Jeepsinguniform.com</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
