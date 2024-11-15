@@ -27,5 +27,20 @@ together with our students - this gave them the opportunity to work on
 an authentic project, cultivating values such as teamwork and being meticulous
 with language used.</p>
 <p></p>
-<p>Click to view <a href="https://www.canva.com/design/DAFikLVSJFM/foL2MiRBhklMX7p0X6dtBw/edit?utm_content=DAFikLVSJFM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click to view <a href="https://www.canva.com/design/DAFikLVSJFM/up5Ntj-JW1rlKDLEPjOYxg/view?utm_content=DAFikLVSJFM&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p><strong>2024</strong>
+</p>
+<p>The school continued the practice of making the yearbook a collaborative
+effort between teachers and students, fostering a spirit of teamwork and
+creativity within the school community. This approach not only gives students
+the opportunity to take ownership of the publication process but also allows
+them to work closely with their teachers, learning valuable skills such
+as design, content creation, and project management. This year's edition
+holds special significance as it commemorates the school's 25th Anniversary,
+making it a milestone publication. The yearbook serves as a reflection
+of the school's rich history and achievements, capturing the vibrant memories,
+stories, and milestones that have shaped the school over the years.</p>
+<p></p>
+<p>Click to view <a href="https://www.canva.com/design/DAF6WLmLAnc/u49Zf-yqkX7F2gtkFpsSRg/view?utm_content=DAF6WLmLAnc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
