@@ -15,8 +15,8 @@ sections:
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
-        - title: Secondary 1 Students
-          description: Click Here for Announcements
+        - title: 2025 Secondary 1 Students
+          description: Stay Tuned for Announcements
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2025-prep?authuser=0
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
