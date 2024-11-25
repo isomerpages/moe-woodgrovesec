@@ -15,12 +15,12 @@ sections:
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
-        - title: 2025 Secondary 1 Students
-          description: Stay Tuned for Announcements
-          url: /prospective-students/permalink/
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
+        - title: 2025 Secondary 1 Students
+          description: Click Here for Information
+          url: /prospective-students/permalink/
       variant: center
       size: sm
       backgroundColor: white
