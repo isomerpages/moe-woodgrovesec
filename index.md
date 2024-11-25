@@ -17,7 +17,7 @@ sections:
           url: /success-stories/permalink/
         - title: 2025 Secondary 1 Students
           description: Stay Tuned for Announcements
-          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2025-prep?authuser=0
+          url: /prospective-students/permalink/
         - title: Woodgrove Story
           description: Woodgrovers on Social Media
           url: https://www.instagram.com/woodgrovestory/?hl=en
