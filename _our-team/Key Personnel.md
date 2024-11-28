@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>Our leadership are a dedicated team of individuals who plan, oversee implementation
 of student experiences and provide guidance to both teachers and students.</p>
-<h3><strong>Year Heads</strong></h3>
+<h3><strong>Year Heads &amp; Assistant Year heads</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -30,7 +30,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devakumar s/o Santhirasegaran</p>
+<p>Mr Devakumar s/o Santhirasegaran (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>devakumar_santhirasegaran@moe.edu.sg</p>
@@ -41,7 +41,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norazleen Bte Ayob</p>
+<p>Ms Norazleen Bte Ayob (Assistant Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norazleen_ayob@moe.edu.sg</p>
@@ -52,7 +52,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Go Jun Hong</p>
+<p>Mr Go Jun Hong (Year Head)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>go_jun_hong@moe.edu.sg</p>
@@ -63,10 +63,10 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norazleen Bte Ayob</p>
+<p>Herlina Fazelyana Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norazleen_ayob@moe.edu.sg</p>
+<p>herlina_fazelyana_hanzah@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
