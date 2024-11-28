@@ -30,6 +30,17 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Devakumar s/o Santhirasegaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>devakumar_santhirasegaran@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Norazleen Bte Ayob</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,7 +49,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2</p>
+<p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Go Jun Hong</p>
@@ -49,24 +60,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Herlina Fazelyana Hamzah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>herlina_fazelyana_hamzah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devakumar s/o Santhirasegaran</p>
+<p>Ms Norazleen Bte Ayob</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>devakumar_santhirasegaran@moe.edu.sg</p>
+<p>norazleen_ayob@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
