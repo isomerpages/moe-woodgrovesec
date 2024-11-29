@@ -4,6 +4,8 @@ permalink: /prospective-students/permalink/
 variant: tiptap
 description: ""
 ---
+<p><strong><u>*Please note that this page is only applicable during Secondary One registration period.</u></strong>
+</p>
 <p><strong>Secondary One Infoboard (2025)</strong>
 </p>
 <p>Dear Parents/Guardians and Secondary 1 Woodgrovers,</p>
