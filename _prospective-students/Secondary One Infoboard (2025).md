@@ -13,7 +13,7 @@ description: ""
 your secondary school education. This marks the beginning of a new chapter
 in your educational journey, and we are thrilled to have you join our Woodgrove
 family!</p>
-<p><strong>The e-Registration Package can be accessed via this&nbsp;<a href="https://drive.google.com/file/d/1PqB777KGwjfHj0dNW_nJJRFVA77W_b22/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">link</a>.</strong>
+<p><strong>The e-Registration Package can be accessed via this&nbsp;<a href="https://drive.google.com/file/d/1brKnWJwPrXiDIG6jVT0pn8kF4ujiGATr/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">link</a>.</strong>
 </p>
 <p>If you would like to appeal for your child to be transferred into Woodgrove
 Secondary, please provide details in&nbsp;<strong><a href="https://go.gov.sg/sec1appealintowgs2025" rel="noopener noreferrer nofollow" target="_blank">this form</a></strong>&nbsp;by
