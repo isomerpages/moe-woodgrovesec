@@ -488,7 +488,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>ICT &amp; Applied Sciences Department</strong></h3>
+<h3><strong>ICT &amp; Applied Science Department</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -512,7 +512,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Teo Ann Lay, Shirley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT &amp; Applied Sciences</p>
+<p>HOD ICT &amp; Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_ann_lay_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ann_lay_shirley@moe.edu.sg</a>
