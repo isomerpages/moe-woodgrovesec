@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /our-curriculum/cca/clubs-and-societies/robotics-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 #### Robotics Club
 
@@ -10,9 +11,7 @@ Started in 2016, the Robotics Club aims to promote the use of ICT in students’
 
 **Training Days**
 
-Monday : 3.30pm to 5.30pm
-
-Thursday: 3.30 to 5.30pm
+Tuesdays: 3.30 to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
 
