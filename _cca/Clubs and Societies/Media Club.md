@@ -3,6 +3,7 @@ title: Media Club
 permalink: /our-curriculum/cca/clubs-and-societies/media-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 #### Media Club
 
@@ -14,7 +15,7 @@ Through the various activities, students cultivate teamwork and creativity. Thro
 
 Monday: 3:30-5:30pm
 
-\*Additional sessions will be organised for selected students for the preparation of various events.Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events.Sessions are subject to change.
 
 #### Achievements and Highlights 2023
 
