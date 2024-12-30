@@ -17,6 +17,10 @@ capabilities that our young civil defence ambassadors can have.</p>
 </p>
 <p>Mondays - 3:30-5:30pm</p>
 <p></p>
+<p>\*Additional sessions will be organised for selected students for the
+preparation of various events.</p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCDCC/DSC00731__1_.jpg">
