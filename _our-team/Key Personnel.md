@@ -218,7 +218,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Chong Woon Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head CCE (Internal)</p>
+<p>Subject Head, CCE (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_woon_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_woon_chin@moe.edu.sg</a>
@@ -467,7 +467,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mr Zhuo Bing Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Internal)</p>
+<p>Subject Head, Science (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhuo_bingru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_bingru@moe.edu.sg</a>
@@ -524,7 +524,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mr Thng Guan Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, ICT &amp; Applied Science</p>
+<p>Subject Head, Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thng_guan_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_guan_heng@moe.edu.sg</a>
@@ -536,7 +536,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Nuradilah Adam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head Applied Science (Internal)</p>
+<p>Subject Head, Applied Science (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuradila_adam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuradila_adam@moe.edu.sg</a>
