@@ -407,6 +407,18 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ayesha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Social Studies (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:d_h_ayesha_thasneem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">d_h_ayesha_thasneem@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Koh Chuen Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -593,7 +605,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Ng Lay Keow, Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher, Mathematics</p>
+<p>Master Teacher, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_lay_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_keow@moe.edu.sg</a>
