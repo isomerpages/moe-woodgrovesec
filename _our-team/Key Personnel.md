@@ -95,7 +95,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Wing Yu Ellie</p>
 <p></p>
-<p>Assistant Year Head - Internal</p>
+<p>Assistant Year Head (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
