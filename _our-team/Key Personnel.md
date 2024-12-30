@@ -4,6 +4,13 @@ permalink: /leadership/permalink/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_30_092912.png">
+</div>
+<p></p>
+<p></p>
 <p>Our leadership are a dedicated team of individuals who plan, oversee implementation
 of student experiences and provide guidance to both teachers and students.</p>
 <h3><strong>Year Heads &amp; Assistant Year heads</strong></h3>
