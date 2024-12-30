@@ -9,13 +9,13 @@ variant: markdown
 
 Established in 2000, our Choristers have gained recognition in the bi-annual Singapore Youth Festival Arts Presentation and numerous community events. Some of these community events includes the Chinese New Year Performance at Vista Point and Mid-Autumn Festival Performance at Vista Park. The Woodgrove Choir strives to develop in students a passion for singing and instil an interest in the fine arts.
 
-**Training Days (2023)**
+**Training Days (2025)**
 
 Tuesday : 3.30pm to 5.30pm
 
 Thursday : 3.30pm to 5.30pm
 
-\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
 #### Achievements and Highlights 2023
 

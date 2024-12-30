@@ -3,6 +3,7 @@ title: National Police Cadet (NPCC)
 permalink: /our-curriculum/cca/uniformed-groups/national-police-cadet-npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 #### National Police Cadet Corps
 
@@ -12,11 +13,11 @@ In order to do so, the unit encourages students to challenge themselves to set h
 
 **Find out more about us [here.](https://www.instagram.com/wgs_npcc/?hl=en)
 
-**Training Days 2023**
+**Training Days 2025**
 
 Mondays - 3:30-5:30pm
 
-\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events.
 
 #### Achievements and Highlights 2023
 

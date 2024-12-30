@@ -13,9 +13,13 @@ them with the skills to respond effectively to emergencies at home and
 abroad. The attitude of readiness against adversity and practical skills
 which are critical in the face of danger and emergencies are life-long
 capabilities that our young civil defence ambassadors can have.</p>
-<p><strong>Training Days (2023)</strong>
+<p><strong>Training Days (2025)</strong>
 </p>
 <p>Mondays - 3:30-5:30pm</p>
+<p></p>
+<p>\*Additional sessions will be organised for selected students for the
+preparation of various events.</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
