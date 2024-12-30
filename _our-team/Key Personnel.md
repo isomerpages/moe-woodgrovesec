@@ -410,7 +410,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Ayesha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head - Social Studies (Internal)</p>
+<p>Subject Head, Social Studies (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:d_h_ayesha_thasneem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">d_h_ayesha_thasneem@moe.edu.sg</a>
