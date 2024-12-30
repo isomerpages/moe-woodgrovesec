@@ -9,7 +9,7 @@ variant: markdown
 
 The Woodgrove Netball Team was established in 2015 by teacher Ms Santarina Luo to provide girls with a wider selection of sport CCAs. Despite being a young team, our netballers participate in the Zonal Championships yearly. Through experience and hard work, the Netball team has put up commendable performances against stronger competitors. Apart from the rigour of participating in competitions, the Netball team also conducts workshops for Primary School children as part of their Service Learning project. We are proud to share that the Netball team has produced students who have represented the national team.
 
-**Training Days (2023) **
+**Training Days **
 
 Tuesday : 3.30pm to 5.30pm
 
