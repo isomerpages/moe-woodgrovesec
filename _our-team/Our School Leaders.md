@@ -17,10 +17,10 @@ We are very proud of WGS and especially proud of our amazing Woodgrovers. Please
 Mr Chua Chor Huat, 
 Principal
 
-Mr Tan Boon Cheng,
+Mrs Venkatraman Chithra
 Vice Principal (Curriculum)
 
-Mrs Venkatraman Chithra
+Mr Loke Kok Leong,
 Vice Principal (Curriculum)
 
 Ms Priscilla Tan Phaik Hoon
