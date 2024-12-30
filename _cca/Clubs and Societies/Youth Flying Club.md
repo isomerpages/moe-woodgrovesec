@@ -24,7 +24,7 @@ Tuesday: 3:30-5:30pm
 
 Thursday: 3:30-5:30pm
 
-\*Additional sessions will be organised for selected students for the preparation of various events.
+\*Additional sessions will be organised for selected students for the preparation of various events. Training days are subjected to change,
 
 
 #### Achievements and Highlights 2023
