@@ -30,10 +30,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devakumar s/o Santhirasegaran (Year Head)</p>
+<p>Mr Devakumar s/o Santhirasegaran</p>
+<p></p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>devakumar_santhirasegaran@moe.edu.sg</p>
+<p><a href="mailto:devakumar_santhirasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">devakumar_santhirasegaran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,10 +44,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Norazleen Bte Ayob (Assistant Year Head)</p>
+<p>Ms Norazleen Bte Ayob</p>
+<p></p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norazleen_ayob@moe.edu.sg</p>
+<p><a href="mailto:norazleen_ayob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norazleen_ayob@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -52,10 +58,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Go Jun Hong (Year Head)</p>
+<p>Mr Go Jun Hong</p>
+<p></p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>go_jun_hong@moe.edu.sg</p>
+<p><a href="mailto:go_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">go_jun_hong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -64,9 +73,26 @@ of student experiences and provide guidance to both teachers and students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Herlina Fazelyana Hamzah</p>
+<p></p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>herlina_fazelyana_hanzah@moe.edu.sg</p>
+<p><a href="mailto:herlina_fazelyana_hanzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hanzah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Wing Yu Ellie</p>
+<p></p>
+<p>Assistant Year Head - Internal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -98,7 +124,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>justin_glen_claver@moe.edu.sg</p>
+<p><a href="mailto:justin_glen_claver@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">justin_glen_claver@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -130,7 +157,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Aesthetics, PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_thiam_heng@moe.edu.sg</p>
+<p><a href="mailto:ong_thiam_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_thiam_heng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +169,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tang_tai_wai_david@moe.edu.sg</p>
+<p><a href="mailto:tang_tai_wai_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai_wai_david@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -173,7 +202,20 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_wai_kong_ernest@moe.edu.sg</p>
+<p><a href="mailto:ng_wai_kong_ernest@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wai_kong_ernest@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Woon Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head CCE (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_woon_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_woon_chin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +226,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lui_lai_yeng@moe.edu.sg</p>
+<p><a href="mailto:lui_lai_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lui_lai_yeng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -216,7 +259,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Subject Head, Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_yang_sheng@moe.edu.sg</p>
+<p><a href="mailto:lee_yang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yang_sheng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -248,7 +292,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>indirani_palaraju@moe.edu.sg</p>
+<p><a href="mailto:indirani_palaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indirani_palaraju@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -259,7 +304,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Level Head, English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_yen_ling_jacqueline@moe.edu.sg</p>
+<p><a href="mailto:chan_yen_ling_jacqueline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yen_ling_jacqueline@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -291,7 +337,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_sze_khuin@moe.edu.sg</p>
+<p><a href="mailto:chong_sze_khuin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_sze_khuin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -302,7 +349,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_hui_kee@moe.edu.sg</p>
+<p><a href="mailto:sim_hui_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_kee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -313,7 +361,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_azah_ismail@moe.edu.sg</p>
+<p><a href="mailto:nur_azah_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azah_ismail@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -345,7 +394,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_hui_peng@moe.edu.sg</p>
+<p><a href="mailto:tay_hui_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_peng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -356,7 +406,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_chuen_kiang@moe.edu.sg</p>
+<p><a href="mailto:koh_chuen_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chuen_kiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -388,7 +439,20 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_shuwen@moe.edu.sg</p>
+<p><a href="mailto:ng_shuwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shuwen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zhuo Bing Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhuo_bingru@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_bingru@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -399,7 +463,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Lead Teacher, Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shuryati_mohd_shariff@moe.edu.sg</p>
+<p><a href="mailto:shuryati_mohd_shariff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shuryati_mohd_shariff@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -431,7 +496,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD ICT &amp; Applied Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_ann_lay_shirley@moe.edu.sg</p>
+<p><a href="mailto:teo_ann_lay_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ann_lay_shirley@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +508,20 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Subject Head, ICT &amp; Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>thng_guan_heng@moe.edu.sg</p>
+<p><a href="mailto:thng_guan_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_guan_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nuradilah Adam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head Applied Science (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuradila_adam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuradila_adam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -453,7 +532,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>paramjit_kaurg@moe.edu.sg</p>
+<p><a href="mailto:paramjit_kaurg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paramjit_kaurg@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -485,7 +565,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_thiam_hock@moe.edu.sg</p>
+<p><a href="mailto:tan_thiam_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_hock@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -496,7 +577,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Level Head, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_zuraidah_ramli@moe.edu.sg</p>
+<p><a href="mailto:siti_zuraidah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zuraidah_ramli@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -507,7 +589,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Lead Teacher, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_lay_keow@moe.edu.sg</p>
+<p><a href="mailto:ng_lay_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_keow@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -539,7 +622,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>HOD Curriculum &amp; Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>flavian_brian_fernandez@moe.edu.sg</p>
+<p><a href="mailto:flavian_brian_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">flavian_brian_fernandez@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -550,7 +634,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_siong_leong@moe.edu.sg</p>
+<p><a href="mailto:tan_siong_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siong_leong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -582,7 +667,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Subject Head, Communications &amp; Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cher_dingxiong@moe.edu.sg</p>
+<p><a href="mailto:cher_dingxiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cher_dingxiong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -614,7 +700,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ismail_iswan@schools.gov.sg</p>
+<p><a href="mailto:ismail_iswan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ismail_iswan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -625,7 +712,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chia_gim_hua@schools.gov.sg</p>
+<p><a href="mailto:chia_gim_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_gim_hua@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -636,7 +724,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kalathran_narayanan@schools.gov.sg</p>
+<p><a href="mailto:kalathran_narayanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalathran_narayanan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -647,7 +736,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_meijing_a@schools.gov.sg</p>
+<p><a href="mailto:lin_meijing_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_meijing_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
