@@ -3,6 +3,7 @@ title: Badminton
 permalink: /our-curriculum/cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 #### Badminton
 
@@ -14,7 +15,7 @@ In 2015, the school engaged its first badminton coach and WGS Badminton CCA beca
 
 Boys : Mon and Thurs 3:30 -5:30
 
-Girls: Mon and Thurs 3:30 -5:30 pm 
+Girls: Tues and Thurs 3:30 -5:30 pm 
 
 \*Additional sessions will be organised for selected students in preparation for various events. Sessions are subject to change in 2023.
 
