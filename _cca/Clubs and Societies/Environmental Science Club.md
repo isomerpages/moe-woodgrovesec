@@ -15,7 +15,7 @@ In addition, the club has supportive and strong green partners who have provided
 
 Monday : 3.30pm to 5.30pm
 
-\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 **
 
 #### Achievements and Highlights 2023
