@@ -11,7 +11,7 @@ Established in 2002 with 15 students, the Environmental Science Club has played 
 
 In addition, the club has supportive and strong green partners who have provided its members and other Woodgrovers various learning opportunities. This includes the Ministry of the Environment & Water Resources (MEWR), National Environment Agency (NEA), PUB (The National Water Agency), National Parks Board (NParks), Singapore Environment Council (SEC), Waterways Watch Society (WWS), SembWaste, Building and Construction Authority (BCA), Public Hygiene Council and North West CDC.
 
-**Training Days for 2023**
+**Training Days**
 
 Monday : 3.30pm to 5.30pm
 
