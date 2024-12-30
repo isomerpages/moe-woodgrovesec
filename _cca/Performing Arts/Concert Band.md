@@ -17,7 +17,7 @@ Tuesday : 3.30pm to 5.30pm
 
 Thursday : 3.30pm to 5.30pm
 
-\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
 #### Achievements and Highlights 2023
 
