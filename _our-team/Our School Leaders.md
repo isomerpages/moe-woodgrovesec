@@ -23,5 +23,5 @@ Vice Principal (Curriculum)
 Mr Loke Kok Leong,
 Vice Principal (Curriculum)
 
-Ms Priscilla Tan Phaik Hoon
+Ms Priscilla Tan Phaik Hoon,
 Vice Principal (Admin)
