@@ -19,12 +19,12 @@ fosters discipline, dedication, teamwork and sportsmanship.</p>
 <p>**Training Days **</p>
 <p><strong>Boys</strong>
 </p>
-<p>Monday : 3.30pm to 5.30pm</p>
-<p>Thursday: 3.30pm to 5.30pm</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monday : 3.30pm to 5.30pm</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday: 3.30pm to 5.30pm</p>
 <p><strong>Girls</strong>
 </p>
-<p>Tuesday : 3.30pm to 5.30pm</p>
-<p>Thursday: 3.30pm to 5.30pm</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesday : 3.30pm to 5.30pm</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday: 3.30pm to 5.30pm</p>
 <p>*Additional sessions will be organised for selected students for the preparation
 of various events. Sessions are subject to change.</p>
 <h4>Achievements and Highlights 2023</h4>
