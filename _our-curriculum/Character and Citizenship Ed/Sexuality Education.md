@@ -74,10 +74,8 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p></p>
-<p><strong>Please refer to this link for the following Sexuality Education lessons that will be taught in <u>2025</u>:</strong>
+<p><strong>Please refer to this </strong><a href="/files/Sexuality_Ed_Lessons_.pdf" rel="noopener nofollow" target="_blank">link</a><strong> for the following Sexuality Education lessons that will be taught in <u>2025</u>:</strong>
 </p>
-<p>[Insert Link]</p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
@@ -94,11 +92,6 @@ decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
 <p><strong>At Woodgrove Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
