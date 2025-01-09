@@ -74,7 +74,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>Please refer to this </strong><a href="/files/Sexuality_Ed_Lessons_.pdf" rel="noopener nofollow" target="_blank">link</a><strong> for the following Sexuality Education lessons that will be taught in <u>2025</u>:</strong>
+<p><strong>Please refer to this </strong><a href="/files/Sexuality_Ed_Lessons_.pdf" rel="noopener nofollow" target="_blank">link</a><strong> for the following Sexuality Education lessons that will be taught in 2025.</strong>
 </p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
