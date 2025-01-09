@@ -18,12 +18,12 @@ In the Basketball team, it is believed that every member can develop self-confid
 **Boys**
 
 Monday : 3.30pm to 5.30pm
-Thursday: 3.45pm to 5.45pm
+Thursday: 3.30pm to 5.30pm
 
 **Girls**
 
 Tuesday : 3.30pm to 5.30pm
-Thursday: 3.45pm to 5.45pm
+Thursday: 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
