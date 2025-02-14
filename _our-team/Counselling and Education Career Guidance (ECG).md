@@ -21,10 +21,10 @@ and discover their aspirations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Tze Kun (Education &amp; Career Guidance)</p>
+<p>Ms Yan Ruobi Esther (Education &amp; Career Guidance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sng_tze_kun@schools.gov.sg</p>
+<p>yan_ruobi_esther@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
