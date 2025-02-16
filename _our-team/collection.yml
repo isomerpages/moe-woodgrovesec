@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Helplines/.keep
       - Our School Leaders.md
       - Key Personnel.md
       - Form Teachers.md
