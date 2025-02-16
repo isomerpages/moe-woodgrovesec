@@ -2,7 +2,6 @@ collections:
   wgss-archived:
     output: true
     order:
-      - Helplines.md
       - Secondary One Infoboard (2025).md
       - Our Campus.md
       - The Woodgrove Showcase.md
