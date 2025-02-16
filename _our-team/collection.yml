@@ -2,9 +2,9 @@ collections:
   our-team:
     output: true
     order:
-      - ECG/.keep
-      - ECG/Counselling and Education Career Guidance (ECG).md
-      - ECG/Helplines.md
+      - Counselling and ECG/.keep
+      - Counselling and ECG/Counselling and Education Career Guidance (ECG).md
+      - Counselling and ECG/Helplines.md
       - Our School Leaders.md
       - Key Personnel.md
       - Form Teachers.md
