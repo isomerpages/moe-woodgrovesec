@@ -4,7 +4,7 @@ permalink: /helplines/
 variant: tiptap
 description: ""
 ---
-<p>Helplines:</p>
+<h1><strong>Helplines:</strong></h1>
 <p>Samaritans of Singapore (SOS): 1767 (24hr Call-Helpline), 91511767 (24hr
 CareText via WhatsApp), <a rel="noopener noreferrer nofollow" target="_blank">pat@sos.org.sg</a> (CareMail)</p>
 <p>TOUCHLine: 1800-377-2252 (Monday to Friday 9am to 6pm)</p>
