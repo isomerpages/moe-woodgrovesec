@@ -2,6 +2,7 @@ collections:
   our-team:
     output: true
     order:
+      - Counselling and Education Career Guidance (ECG).md
       - Helplines/.keep
       - Our School Leaders.md
       - Key Personnel.md
