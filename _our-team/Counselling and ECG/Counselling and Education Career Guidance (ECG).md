@@ -3,6 +3,7 @@ title: Counselling and Education Career Guidance (ECG)
 permalink: /our-team/permalink/Counselling/
 description: ""
 variant: tiptap
+third_nav_title: Counselling and ECG
 ---
 <p>Concerned about post secondary options? Facing difficult moments in life?
 Our counsellors at Woodgrove Secondary School support our student's emotional
