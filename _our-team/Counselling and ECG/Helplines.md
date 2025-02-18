@@ -1,12 +1,11 @@
 ---
 title: Helplines
 permalink: /helplines/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Counselling and ECG
 ---
 <h3><strong>Helplines:</strong></h3>
-<p>&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,8 +47,8 @@ Chat, Monday to Friday, 10am to 12pm, 2pm to 5pm)</p>
 </tr>
 </tbody>
 </table>
+<h4>&nbsp;&nbsp;&nbsp;Free Counselling Services:</h4>
 <p>&nbsp;</p>
-<h4>&nbsp;Free Counselling Services:</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -67,6 +66,14 @@ Chat, Monday to Friday, 10am to 12pm, 2pm to 5pm)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SAMH Insight Centre:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +83,6 @@ Chat, Monday to Friday, 10am to 12pm, 2pm to 5pm)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <h4>&nbsp;Emergency:</h4>
 <table style="minWidth: 25px">
 <colgroup>
