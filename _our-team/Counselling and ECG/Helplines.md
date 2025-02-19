@@ -17,7 +17,8 @@ third_nav_title: Counselling and ECG
 <p>Samaritans of Singapore (SOS):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1767 (24hr Call-Helpline), 91511767 (24hr CareText via WhatsApp), <a href="mailto:pat@sos.org.sg" rel="noopener noreferrer nofollow" target="_blank">pat@sos.org.sg</a> (CareMail)</p>
+<p>1767 (24hr Call-Helpline)</p>
+<p>91511767 (24hr CareText via WhatsApp), <a rel="noopener noreferrer nofollow" target="_blank">pat@sos.org.sg</a> (CareMail)</p>
 </td>
 </tr>
 <tr>
@@ -41,8 +42,9 @@ third_nav_title: Counselling and ECG
 <p>eCounselling Center:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ec2.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.ec2.sg</a> (Online
-Chat, Monday to Friday, 10am to 12pm, 2pm to 5pm)</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.ec2.sg</a>
+</p>
+<p>(Online Chat, Monday to Friday, 10am to 12pm, 2pm to 5pm)</p>
 </td>
 </tr>
 </tbody>
