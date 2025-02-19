@@ -18,7 +18,8 @@ third_nav_title: Counselling and ECG
 </td>
 <td rowspan="1" colspan="1">
 <p>1767 (24hr Call-Helpline)</p>
-<p>91511767 (24hr CareText via WhatsApp), <a rel="noopener noreferrer nofollow" target="_blank">pat@sos.org.sg</a> (CareMail)</p>
+<p>91511767 (24hr CareText via WhatsApp),</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">pat@sos.org.sg</a> (CareMail)</p>
 </td>
 </tr>
 <tr>
