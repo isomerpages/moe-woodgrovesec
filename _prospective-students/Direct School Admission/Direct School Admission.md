@@ -12,7 +12,7 @@ the Primary School Leaving Examination (PSLE).</p>
 a talent in the following areas:</p>
 <ol>
 <li>
-<p>Community Youth Leadership (Girls and Boys)&nbsp;</p>
+<p>Community Youth Leadership</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
@@ -20,8 +20,7 @@ a talent in the following areas:</p>
 </div>
 <ol start="2">
 <li>
-<p>Science for Sustainable Development <em>(</em>Girls<em> and Boys)</em>
-</p>
+<p>Science for Sustainable Development</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
