@@ -33,11 +33,11 @@ a talent in the following areas:</p>
 are <strong>not</strong> allowed to:</p>
 <ul>
 <li>
-<p>- Submit school choices during the Secondary 1 (S1) posting process.</p>
+<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
 </li>
 <li>
-<p>- Transfer to another school. They <strong>must</strong> commit to their
-chosen school for the duration of the programme.</p>
+<p>Transfer to another school. They <strong>must</strong> commit to their chosen
+school for the duration of the programme.</p>
 </li>
 </ul>
 <p>Parents and students are encouraged to choose schools wisely based on
