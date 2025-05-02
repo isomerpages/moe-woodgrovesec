@@ -5,8 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<p>Applications will commence in <strong>May 2025.</strong>
-</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents and students may submit their applications from 7 May – 3 Jun&nbsp;
+2025.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
