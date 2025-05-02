@@ -5,13 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Selection process takes place from June to July 2024</strong></h4>
+<h4><strong>Selection process takes place from June to July 2025</strong></h4>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 group interview. The details of the Selection Trial will be communicated
 via email.&nbsp;</p>
 <p>The Selection Trial includes:</p>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,7 +69,7 @@ possible.</p>
 Selection Trial process. Applicants who have completed the selection trial
 will receive a letter on the outcome of their applications by the end of
 August 2024.</p>
-<h4><strong>School Preference Submission: October 2024&nbsp;</strong></h4>
+<h4><strong>School Preference Submission: October 2025&nbsp;</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission
 Portal.&nbsp;</p>
@@ -76,8 +79,8 @@ online, they can approach their child’s primary school for assistance to
 submit the school preferences on their behalf.</p>
 <p>DSA-Sec offers not taken up will be considered as lapsed at the end of
 the School Preference Submission period.</p>
-<h4><strong>Allocation Results Release: November 2024</strong></h4>
-<h4>Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2024. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results via email.</h4>
+<h4><strong>Allocation Results Release: November 2025</strong></h4>
+<h4>Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2025. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results via email.</h4>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent area they are selected for from year 1 to 4.</p>
