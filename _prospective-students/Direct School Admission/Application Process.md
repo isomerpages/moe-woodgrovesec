@@ -5,9 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<p>Applications will commence in <strong>May 2024.</strong>
+<p>Applications will commence in <strong>May 2025.</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
