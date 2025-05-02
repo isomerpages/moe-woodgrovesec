@@ -74,8 +74,8 @@ the same school under two different talent areas).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5. Valid email address and local mobile number.&nbsp;</p>
-<p>6. Students are encouraged to provide&nbsp; non-school-based activities
-and achievements.</p>
+<p>6. Students are encouraged to provide&nbsp;details of non-school-based
+activities and achievements.</p>
 </td>
 </tr>
 </tbody>
