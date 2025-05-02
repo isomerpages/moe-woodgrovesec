@@ -5,12 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Selection process takes place from June to July 2025</strong></h4>
+<h4><strong>Selection process takes place from 30 June to 31 July 2025</strong></h4>
+<p>Applicants will receive notification from the school by 31 July if they
+are shortlisted for the DSA selection process.</p>
 <p>The school will invite all shortlisted applicants to attend a compulsory
-group interview. The details of the selection trial will be communicated
-via email.&nbsp;</p>
-<p>The Selection Trial includes:</p>
-<p></p>
+selection interview. The details of the Selection interview will be communicated
+via email.</p>
+<p>The Selection interview includes:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -22,38 +23,29 @@ via email.&nbsp;</p>
 <p></p>
 <p><strong><em>Group Interview</em></strong>
 </p>
+<p></p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
+<p>Candidates will be assessed based on the following criteria:</p>
+<p>1)&nbsp;&nbsp;&nbsp; Leadership</p>
+<p>2)&nbsp;&nbsp;&nbsp; Communication skills,</p>
+<p>3)&nbsp;&nbsp;&nbsp; Collaboration skills</p>
+<p>4)&nbsp;&nbsp;&nbsp; Critical Thinking Skills</p>
+<p>5)&nbsp;&nbsp;&nbsp; Commitment to Community Service.</p>
 <p></p>
 <h4>Science for Sustainable Development</h4>
 <p></p>
-<p><strong><em>Interview with Panel</em></strong>
-</p>
-<p>Candidates to share about their experiences in Science for Sustainable
-Development.</p>
+<p>Candidates will share their experiences related to Science for Sustainable
+Living such as:</p>
+<p>1)&nbsp; The various activities they have been involved in.</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; their role in the activities.</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What they have learnt.</p>
 <p></p>
-<p><strong>Optional to bring: Portfolio</strong>
-</p>
+<p>Optional to bring: Portfolio</p>
+<p>The portfolio should include pictures of work done, including artefacts
+(if any).</p>
 <p></p>
-<p>Teachers would like to understand more about the child’s involvement in
-the area of Science for Sustainable Development. This can include:</p>
 <p></p>
-<ul>
-<li>
-<p>The various activities the child was involved in.</p>
-</li>
-<li>
-<p>The child’s role in the activities.</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>What the child has learnt.</p>
-</li>
-</ul>
-<p></p>
-<p>The portfolio should include pictures of work done such as artefacts whenever
-possible.</p>
 <p></p>
 <p></p>
 </td>
@@ -66,10 +58,11 @@ possible.</p>
 </tbody>
 </table>
 <p>Applicants should demonstrate relevant aptitude and potential during the
-Selection Trial process. Applicants who have completed the selection trial
-will receive a letter on the outcome of their applications by the end of
-August 2024.</p>
-<h4><strong>School Preference Submission: October 2025&nbsp;</strong></h4>
+Selection interview process.</p>
+<p>Applicants who have completed the selection interview will receive a letter
+on the outcome of their applications between 25 August and 4 September
+2025.</p>
+<h4><strong>School Preference Submission: 27-31 October 2025</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission
 Portal.&nbsp;</p>

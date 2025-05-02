@@ -5,8 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<p>Applications will commence in <strong>May 2025.</strong>
-</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents and students may submit their applications from 7 May – 3 Jun&nbsp;
+2025.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -63,8 +74,8 @@ the same school under two different talent areas).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5. Valid email address and local mobile number.&nbsp;</p>
-<p>6. Students are encouraged to provide&nbsp; non-school-based activities
-and achievements.</p>
+<p>6. Students are encouraged to provide&nbsp;details of non-school-based
+activities and achievements.</p>
 </td>
 </tr>
 </tbody>
