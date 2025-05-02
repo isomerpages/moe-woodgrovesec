@@ -12,7 +12,7 @@ the Primary School Leaving Examination (PSLE).</p>
 a talent in the following areas:</p>
 <ol>
 <li>
-<p>Community Youth Leadership (Girls and Boys)&nbsp;</p>
+<p>Community Youth Leadership</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
@@ -20,8 +20,7 @@ a talent in the following areas:</p>
 </div>
 <ol start="2">
 <li>
-<p>Science for Sustainable Development <em>(</em>Girls<em> and Boys)</em>
-</p>
+<p>Science for Sustainable Development</p>
 </li>
 </ol>
 <div class="iframe-wrapper">
@@ -34,11 +33,11 @@ a talent in the following areas:</p>
 are <strong>not</strong> allowed to:</p>
 <ul>
 <li>
-<p>- Submit school choices during the Secondary 1 (S1) posting process.</p>
+<p>Submit school choices during the Secondary 1 (S1) posting process.</p>
 </li>
 <li>
-<p>- Transfer to another school. They <strong>must</strong> commit to their
-chosen school for the duration of the programme.</p>
+<p>Transfer to another school. They <strong>must</strong> commit to their chosen
+school for the duration of the programme.</p>
 </li>
 </ul>
 <p>Parents and students are encouraged to choose schools wisely based on
