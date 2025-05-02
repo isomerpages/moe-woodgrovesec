@@ -45,3 +45,23 @@ within or outside school.</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p></p>
