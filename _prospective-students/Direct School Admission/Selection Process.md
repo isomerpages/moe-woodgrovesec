@@ -7,7 +7,7 @@ third_nav_title: Direct School Admission
 ---
 <h4><strong>Selection process takes place from June to July 2025</strong></h4>
 <p>The school will invite all shortlisted applicants to attend a compulsory
-group interview. The details of the Selection Trial will be communicated
+group interview. The details of the selection trial will be communicated
 via email.&nbsp;</p>
 <p>The Selection Trial includes:</p>
 <p></p>
@@ -25,18 +25,18 @@ via email.&nbsp;</p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
 <p></p>
-<h4>Science for Sustainable Living</h4>
+<h4>Science for Sustainable Development</h4>
 <p></p>
 <p><strong><em>Interview with Panel</em></strong>
 </p>
 <p>Candidates to share about their experiences in Science for Sustainable
-Living.</p>
+Development.</p>
 <p></p>
 <p><strong>Optional to bring: Portfolio</strong>
 </p>
 <p></p>
 <p>Teachers would like to understand more about the child’s involvement in
-the area of Science for Sustainable Living. This can include:</p>
+the area of Science for Sustainable Development. This can include:</p>
 <p></p>
 <ul>
 <li>
