@@ -16,7 +16,8 @@ third_nav_title: Direct School Admission
 Class or equivalent student organisation.</p>
 </li>
 <li>
-<p>Have organised or participated in a service learning project.</p>
+<p>Have organised or participated in a service learning or community service
+related project within or outside the school.</p>
 </li>
 <li>
 <p>Have good conduct</p>
@@ -32,14 +33,15 @@ Class or equivalent student organisation.</p>
 Engineering, Mathematics).</p>
 </li>
 <li>
-<p>Passionate about sustainable living and conserving the environment.</p>
+<p>Have passion for sustainable living and conservation of the environment.</p>
 </li>
 <li>
-<p>Participated in relevant opportunities in CCA or interest groups within
-or outside school.</p>
+<p>Participated in relevant opportunities&nbsp; (e.g. sustainability-themed
+competitions, recycling/upcycling campaigns) in CCA or interest groups
+within or outside school.</p>
 </li>
 <li>
-<p>Have good conduct</p>
+<p>Have good conduct.</p>
 </li>
 </ul>
 <p></p>
