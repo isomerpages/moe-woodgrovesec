@@ -9,10 +9,9 @@ third_nav_title: Direct School Admission
 <p>Applicants will receive notification from the school by 31 July if they
 are shortlisted for the DSA selection process.</p>
 <p>The school will invite all shortlisted applicants to attend a compulsory
-group interview. The details of the selection trial will be communicated
-via email.&nbsp;</p>
-<p>The Selection Trial includes:</p>
-<p></p>
+selection interview. The details of the Selection interview will be communicated
+via email.</p>
+<p>The Selection interview includes:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -38,10 +37,9 @@ activity.</p>
 <p></p>
 <p>Candidates will share their experiences related to Science for Sustainable
 Living such as:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The various activities they have been
-involved in.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; their role in the activities.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What they have learnt.</p>
+<p>1)&nbsp; The various activities they have been involved in.</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; their role in the activities.</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What they have learnt.</p>
 <p></p>
 <p>Optional to bring: Portfolio</p>
 <p>The portfolio should include pictures of work done, including artefacts
