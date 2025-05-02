@@ -25,7 +25,7 @@ via email.&nbsp;</p>
 <p>Candidates will be engaged in a discussion and participate in a group
 activity.</p>
 <p></p>
-<h4>Science for Sustainable Living</h4>
+<h4>Science for Sustainable Development</h4>
 <p></p>
 <p><strong><em>Interview with Panel</em></strong>
 </p>
