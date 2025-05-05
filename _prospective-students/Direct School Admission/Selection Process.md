@@ -59,9 +59,8 @@ Living such as:</p>
 </table>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
-<p>Applicants who have completed the selection interview will receive a letter
-on the outcome of their applications between 25 August and 4 September
-2025.</p>
+<p>The school will nform <strong>all </strong>applicants on the outcomes between
+25 Aug and 4 Sep 2025, including all unsuccessful applicants.</p>
 <h4><strong>School Preference Submission: 27-31 October 2025</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission
