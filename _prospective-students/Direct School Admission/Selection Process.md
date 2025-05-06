@@ -59,13 +59,11 @@ Living such as:</p>
 </table>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
-<p>Applicants who have completed the selection interview will receive a letter
-on the outcome of their applications between 25 August and 4 September
-2025.</p>
+<p>The school will nform <strong>all </strong>applicants on the outcomes between
+25 Aug and 4 Sep 2025, including all unsuccessful applicants.</p>
 <h4><strong>School Preference Submission: 27-31 October 2025</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
-and SMS notification via Postman.gov.sg on the School Preference Submission
-Portal.&nbsp;</p>
+and SMS notification via Postman.gov.sg on the School Preference Submission.&nbsp;</p>
 <p>Both parents are required to login to the DSA-Sec Portal using their Singpass
 to submit up to three school preferences. If parent(s) are unable to submit
 online, they can approach their child’s primary school for assistance to
@@ -74,7 +72,7 @@ submit the school preferences on their behalf.</p>
 the School Preference Submission period.</p>
 <h4><strong>Allocation Results Release: November 2025</strong></h4>
 <h4>Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2025. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results via email.</h4>
-<p>Students who are successfully admitted to the school via DSA are expected
+<p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school, and participate in the activities
 related to the talent area they are selected for from year 1 to 4.</p>
 <p></p>

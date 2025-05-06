@@ -13,7 +13,7 @@ third_nav_title: Direct School Admission
 <tr>
 <td rowspan="1" colspan="1">
 <p>Parents and students may submit their applications from 7 May – 3 Jun&nbsp;
-2025.</p>
+2025 (application closes at 3pm).</p>
 </td>
 </tr>
 </tbody>
@@ -54,7 +54,7 @@ school for assistance.</p>
 need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
 Portal.</p>
 <p></p>
-<p>Instructions on Application: <a href="https://go.gov.sg/moedsanms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moedsanms</a>
+<p>Instructions on Application: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moedsanms</a>
 </p>
 <p></p>
 </td>
