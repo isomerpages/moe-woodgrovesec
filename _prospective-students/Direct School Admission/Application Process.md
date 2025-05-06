@@ -47,14 +47,14 @@ directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/
 guardians who are unable to apply online can approach their child’s primary
 school for assistance.</p>
 <p></p>
-<p>Instructions on Application: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-sec-application</u></a>
+<p>Instructions on Application: <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-sec-application</u></a>
 </p>
 <p></p>
 <p>3. Other applicants not studying in MOE mainstream primary schools: Parents
 need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
 Portal.</p>
 <p></p>
-<p>Instructions on Application: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moedsanms</a>
+<p>Instructions on Application: <a href="https://go.gov.sg/moedsanms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moedsanms</a>
 </p>
 <p></p>
 </td>
