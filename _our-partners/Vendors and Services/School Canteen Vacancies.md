@@ -26,11 +26,11 @@ third_nav_title: Vendors and Services
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHICKEN RICE</strong>
+<p><strong>JAPANESE FOOD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 March 2025</p>
+<p>15 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>
@@ -39,7 +39,7 @@ third_nav_title: Vendors and Services
 </tbody>
 </table>
 <p>We are looking for a stallholder to operate a food stall in our school
-canteen with effect from&nbsp;<strong>24 March 2025</strong>.</p>
+canteen with effect from&nbsp;<strong>30 June 2025</strong>.</p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office. <a href="/files/APPLICATION_FOR_CANTEEN_STALL.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
