@@ -92,14 +92,14 @@ are the key messages.</p>
 <p><strong>At Woodgrove Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
 and protection from a health perspective. <em>eTeens</em> is conducted in
 two segments – a mass talk segment and a classroom-based programme. The
 desired outcome of the <em>eTeens</em> programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
@@ -163,6 +163,25 @@ decision-making</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p><strong>Information for Parents</strong>
+</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <u>here</u>&nbsp;&nbsp;and opt out
+form is in this<a href="https://drive.google.com/drive/folders/1oLU03_rGZWjbnzznqNrdRwRix0LJg90n?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"> link.</a> The
+completed form is to be submitted by 31/01/2025.&nbsp;</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also downloadable <u>here</u> and opt-out form ris in this
+<a href="https://form.gov.sg/677f8c7e7951970965c30ecc" rel="noopener noreferrer nofollow" target="_blank">link</a>.&nbsp; The completed form is to be submitted by 31/01/2025.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (please
+provide school contact details, either generic email address or telephone
+number) for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
 <p><strong>&nbsp;</strong>
 </p>
