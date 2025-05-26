@@ -171,13 +171,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <u>here</u>&nbsp;&nbsp;and opt out
-form is in this<a href="https://drive.google.com/drive/folders/1oLU03_rGZWjbnzznqNrdRwRix0LJg90n?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"> link.</a> The
+of the year and is also downloadable <a href="/files/Sexuality_Education_letter_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> </a>and opt
+out form is in this<a href="https://drive.google.com/drive/folders/1oLU03_rGZWjbnzznqNrdRwRix0LJg90n?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"> link.</a> The
 completed form is to be submitted by 31/01/2025.&nbsp;</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable <u>here</u> and opt-out form ris in this
+the year and is also downloadable <a href="/files/e_teens_letter.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and opt-out form in this
 <a href="https://form.gov.sg/677f8c7e7951970965c30ecc" rel="noopener noreferrer nofollow" target="_blank">link</a>.&nbsp; The completed form is to be submitted by 31/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (please
 provide school contact details, either generic email address or telephone
