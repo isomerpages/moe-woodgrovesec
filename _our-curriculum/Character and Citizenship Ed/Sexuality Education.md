@@ -183,5 +183,13 @@ the year and is also downloadable <a href="/files/e_teens_letter.pdf" rel="noope
 provide school contact details, either generic email address or telephone
 number) for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
+<p></p>
+<p>Parents can contact the school at (<a href="tel:+6568932564" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6893 2564</u></a><u>&nbsp;or email us at&nbsp;</u>
+<a href="tel:+6568932564" rel="noopener noreferrer nofollow" target="_blank"><u>woodgrove_ss@moe.edu.sg</u>
+</a>) for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
+<p>
+<br>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
