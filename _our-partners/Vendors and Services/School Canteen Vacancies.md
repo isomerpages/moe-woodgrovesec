@@ -30,7 +30,7 @@ third_nav_title: Vendors and Services
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 June 2025</p>
+<p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>
