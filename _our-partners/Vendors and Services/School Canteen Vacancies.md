@@ -18,11 +18,23 @@ third_nav_title: Vendors and Services
 <p>Type of Stall</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Closing Date</p>
+<p>Application Closing Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Requirements</p>
+<p>Operating Date</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WESTERN STALL (HALAL)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 July 2025 - 31 Dec 2025</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,13 +45,15 @@ third_nav_title: Vendors and Services
 <p>30 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nil</p>
+<p>1 July 2025 - 31 Dec 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>We are looking for a stallholder to operate a food stall in our school
-canteen with effect from&nbsp;<strong>30 June 2025</strong>.</p>
+canteen with effect from the dates above.</p>
+<p>Option to extend from <strong>1 Jan 2026 to 31 December 2026</strong>
+</p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office. <a href="/files/APPLICATION_FOR_CANTEEN_STALL.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
