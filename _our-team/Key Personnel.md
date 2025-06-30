@@ -452,18 +452,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Shuwen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_shuwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shuwen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Zhuo Bing Ru</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -506,30 +494,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Teo Ann Lay, Shirley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT &amp; Applied Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_ann_lay_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ann_lay_shirley@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Thng Guan Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Applied Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thng_guan_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_guan_heng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
