@@ -417,18 +417,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Chuen Kiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Geography</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_chuen_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_chuen_kiang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Science Department</strong></h3>
