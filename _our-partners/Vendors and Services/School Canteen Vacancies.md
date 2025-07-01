@@ -36,7 +36,7 @@ third_nav_title: Vendors and Services
 <p>15 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 July 2025 - 31 Dec 2025</p>
+<p>15 Aug 2025 - 31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Japanese, Korean, Thai, Vietnamese etc. Applicants may propose menu for
