@@ -47,8 +47,6 @@ school's review.</p>
 </table>
 <p>We are looking for a stallholder to operate a food stall in our school
 canteen with effect from the dates above.</p>
-<p>Option to extend from <strong>1 Jan 2026 to 31 December 2026</strong>
-</p>
 <p>Application Procedure</p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office. <a href="/files/APPLICATION_FOR_CANTEEN_STALL.pdf" rel="noopener nofollow" target="_blank">Canteen Application Form</a>
