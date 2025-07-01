@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Vendors and Services
 ---
 <p>School Canteen Advertisement</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -23,29 +24,23 @@ third_nav_title: Vendors and Services
 <th rowspan="1" colspan="1">
 <p>Operating Date</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WESTERN STALL (HALAL)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 July 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 July 2025 - 31 Dec 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JAPANESE FOOD</strong>
-</p>
+<p><strong>Others</strong> (Non-Halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16 July 2025 - 31 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Japanese, Korean, Thai, Vietnamese etc. Applicants may propose menu for
+school's review.</p>
 </td>
 </tr>
 </tbody>
