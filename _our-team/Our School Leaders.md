@@ -14,6 +14,8 @@ Our school core values – “Be Your Best Self, Embrace Challenges, Practise Gr
          
 We are very proud of WGS and especially proud of our amazing Woodgrovers. Please feel free to visit us and see our wonderful school for yourself. We would be delighted to meet you and welcome you into WGS!
 ![School Leaders](/images/SL_01.png)
+
+
 Mr Chua Chor Huat, 
 Principal
 
