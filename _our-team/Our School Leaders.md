@@ -32,7 +32,7 @@ Please feel free to visit us and see our wonderful school for yourself.
 We would be delighted to meet you and welcome you into WGS!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SL_02.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SL_02.png">
 </div>
 <p>Mr Chua Chor Huat, Principal</p>
 <p>Mrs Venkatraman Chithra, Vice Principal (Curriculum)</p>
