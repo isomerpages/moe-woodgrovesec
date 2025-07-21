@@ -30,17 +30,16 @@ third_nav_title: Vendors and Services
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Others</strong> (Halal/Non-Halal, Open to Proposal)</p>
+<p><strong>Others</strong> (Non-Halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 July 2025</p>
+<p>30 July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 Aug 2025 - 31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese, Korean, Thai, Vietnamese etc. Applicants may propose menu for
-school's review.</p>
+<p>Applicants may propose menu for school's review.</p>
 </td>
 </tr>
 </tbody>
