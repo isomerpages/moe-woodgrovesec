@@ -34,6 +34,10 @@ We would be delighted to meet you and welcome you into WGS!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="School Leaders" src="/images/SL_02.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="School Leaders" src="/images/SL_01.jpg">
+</div>
 <p>Mr Chua Chor Huat, Principal</p>
 <p>Mrs Venkatraman Chithra, Vice Principal (Curriculum)</p>
 <p>Mr Loke Kok Leong, Vice Principal (Curriculum)</p>
