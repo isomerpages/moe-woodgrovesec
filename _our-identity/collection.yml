@@ -2,7 +2,7 @@ collections:
   our-identity:
     output: true
     order:
-      - School Crest & Uniform.md
+      - School Crest & Attire.md
       - Vision Mission Values.md
       - School Safety and Traffic Management.md
       - Our School Song.md
