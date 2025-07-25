@@ -362,7 +362,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Azah Bte Ismail</p>
+<p>Mdm Nur Azah Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher, Malay Language</p>
@@ -407,7 +407,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ayesha</p>
+<p>Ms Ayesha Thasneem</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Social Studies (Internal)</p>
@@ -452,7 +452,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shuryati Bte Mohd Sharriff</p>
+<p>Mdm Shuryati Bte Mohd Shariff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher, Chemistry</p>
@@ -485,7 +485,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nuradilah Adam</p>
+<p>Ms Nuradila Adam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Applied Science (Internal)</p>
