@@ -13,7 +13,7 @@ In 2015, the school engaged its first badminton coach and WGS Badminton CCA beca
 
 **Training Days **
 
-Boys : Mon and Thurs 3:30 -5:30
+Boys : Mon and Thurs 3:30 -5:30pm
 
 Girls: Tues and Thurs 3:30 -5:30 pm 
 
