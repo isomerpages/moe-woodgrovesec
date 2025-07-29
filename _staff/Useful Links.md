@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /staff/links/
 description: ""
+variant: markdown
 ---
 Dear Staff,
 
@@ -23,5 +24,5 @@ We have consolidated a list of links that you frequent. We hope this is useful.
 *   [iExams2](https://iexams.seab.gov.sg/)
 *   [All Ears Form Builder](https://forms.moe.edu.sg/)
 *   [FormSG](https://form.gov.sg/#!/)
-*   [ACE Learning Program](https://sites.google.com/moe.edu.sg/ace-wgs)
-*   [Class Timetables / Assessments (WA1)](https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/home)
+
+* [Outstanding Contribution Award](https://sites.google.com/moe.edu.sg/wgsoutstandingcontribution/home)
