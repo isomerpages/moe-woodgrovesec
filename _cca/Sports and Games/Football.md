@@ -35,5 +35,3 @@ National School Games C Division League 3: Group Stage
 ![](/images/B_Division_Boys.jpg)
 ![](/images/C_Division_Boys.jpg)
 ![](/images/Match__2_.jpg)
-
-
