@@ -19,51 +19,19 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
+#### Achievements and Highlights 2025
+National School Games B Division Boys: League 3  
+National School Games C Division Boys: League 2
+
+#### Achievements and Highlights 2024
+National School Games B Division Boys: League 4  
+National School Games C Division Boys: League 3 - Finalist
+
+
 #### Achievements and Highlights 2023
-
-National School Games North Zone B Division Championships
-
-National School Games North Zone C Division Championships
-
 National School Games B Division League 5: Quarterfinalists
-
 National School Games C Division League 3: Group Stage
 
-
-#### Achievements and Highlights 2022
-
-National School Games North Zone B Division Championships
-
-National School Games North Zone C Division Championships
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/CCAs/football_4.jpeg" alt="SSSC North Zone C Division Football Championships 2016" style="width:80%;">  
-  
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/CCAs/football_10.jpeg" alt="First 11 at one of the home ground match." style="width:80%;">  
-  
-
-
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-<img src="/images/CCAs/football_league%202%20final.jpeg" alt="League 2 final versus Guangyang Secondary School" style="width:80%;">
+![](/images/B_Division_Boys.jpg)
+![](/images/C_Division_Boys.jpg)
+![](/images/Match__2_.jpg)
