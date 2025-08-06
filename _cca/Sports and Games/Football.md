@@ -29,8 +29,8 @@ National School Games C Division Boys: League 3 - Finalist
 
 
 #### Achievements and Highlights 2023
-National School Games B Division League 5: Quarterfinalists
-National School Games C Division League 3: Group Stage
+* National School Games B Division League 5: Quarterfinalists
+* National School Games C Division League 3: Group Stage
 
 ![](/images/B_Division_Boys.jpg)
 ![](/images/C_Division_Boys.jpg)
