@@ -25,6 +25,8 @@ Singapore Youth Festival Arts Presentation (Certificate of Accomplishment)
 
 Admiralty SG60 National Day Dinner 2025.
 
+World of Woodgrove - School's Open House
+
 #### Achievements and Highlights 2024
 
 Chinese New Year Celebrations Performance  
