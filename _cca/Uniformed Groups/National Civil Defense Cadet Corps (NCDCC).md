@@ -21,6 +21,18 @@ capabilities that our young civil defence ambassadors can have.</p>
 preparation of various events.</p>
 <p></p>
 <p></p>
+<p>Sec 1- Affirmation Day in NCDCC HQ</p>
+<p>Sec 2- Learning Journey to Central Fire Station</p>
+<p>Sec 3- Learning Journey to Fire Station</p>
+<p>2 of our cadets managed to complete the Unit Drill Instructor Course</p>
+<p>
+<br>
+</p>
+<p>2 of the cadets manage to achieve Pinnacle Award 2025.</p>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCAs/NCDCC/DSC00731__1_.jpg">
