@@ -19,22 +19,22 @@ Monday: 3:30-5:30pm
 
 #### Achievements and Highlights 2025
 
-*   Singapore Amazing Flying Machine Competition (SAFMC)
+ International Science Center Drama Competition (ISDC): Merit Award
     
-*   SYFC Interschool Aeromodelling Competition (SIAC)
+Our Schools Our Stories Competition (OSOS)
     
-*   Experiential Learning conducted by SYFC HQ personnel
+Photography Workshop for Media Representatives for all CCAs
+
 
 #### Achievements and Highlights 2024
 
-*   Singapore Amazing Flying Machine Competition (SAFMC)
+International Science Center Drama Competition (ISDC): 2nd Place (Short Film School Category)
     
-*   Flight Experience Programme (FEP)
+Best Videography & Cinematography Award
     
-*   SYFC Interschool Aeromodelling Competition (SIAC)
+Schools Digital Media Awards 2024
     
 #### Achievements and Highlights 2023
-
 
  Our Schools Our Stories Competition
 
