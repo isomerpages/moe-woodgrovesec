@@ -15,17 +15,35 @@ Tuesdays: 3.30 to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
+#### Achievements and Highlights 2025
+
+First Lego League Challenge 2024/2025
+    
+National Robotics Competition 2025
+    
+#### Achievements and Highlights 2024
+
+First Lego League Challenge 2023/2024
+    
+2nd Runner-up for Values Award (Presentation segment)
+    
+National Robotics Competition 2024
+ 
+Shortlisted for Finals (Presentation segment)
+    
+Learning Journey to NEWater Visitor Centre
+
+
 #### Achievements and Highlights 2023
 
-
-1.  National Robotics Competition (NRC)
+National Robotics Competition (NRC)
     
-2. First Lego League Competition (2023)
+First Lego League Competition (2023)
     
 
 #### Achievements and Highlights 2022
 
-1. First Lego League Competition (2022)
+First Lego League Competition (2022)
 
 ![Robotics Club](/images/Robotics%20Club_1.jpg)
 
