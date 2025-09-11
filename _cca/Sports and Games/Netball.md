@@ -17,6 +17,30 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. 
 
+#### Achievements and Highlights 2025
+
+National School Games North Zone B Division Championships
+
+National School Games North Zone C Division Championships: League 5 2nd Position
+
+Junior Technical Officiating Programme (Umpiring Course)
+
+U17 Zone Trials & Training (Selected Students)
+
+Netops 2025 Netball Carnival 
+
+#### Achievements and Highlights 2024
+
+National School Games North Zone B Division Championships
+
+National School Games North Zone C Division Championships: Round 3 
+
+Junior Technical Officiating Programme (Umpiring Course)
+
+U17 Zone Trials & Training (Selected Students)
+
+Netops 2024 Netball Carnival
+
 #### Achievements and Highlights 2023
 
 National School Games North Zone B Division Championships 
