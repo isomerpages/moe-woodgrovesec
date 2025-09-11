@@ -11,7 +11,7 @@ Established in 2000, the Drama Club is a CCA initiated by students who were pass
 
 The Drama Club has a tradition of excellence and takes pride in being a club of distinction. Members of the CCA strive to do their best by being inclusive, positive, supportive and encouraging as they gather to discuss contemporary issues and transform them into performative art.
 
-\*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change in 2023.
+\*Additional sessions will be organised for selected students for the preparation of various events.
 
 **Training Days (2025)**
 
@@ -20,6 +20,24 @@ Monday : 3.30pm to 5.30pm
 Thursday: 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
+
+#### Achievements and Highlights 2025
+
+Singapore Youth Festival Arts Presentation: Certificate of Accomplishment
+
+International Science Center Drama Competition
+
+National Day Celebration
+
+#### Achievements and Highlights 2024
+
+International Science Center Drama Competition
+
+Admiralty National Day Dinner 2024
+
+Learning Journey to “Hard Mode”
+  
+World of Woodgrove - School's Open House
 
 #### Achievements and Highlights 2023
 
