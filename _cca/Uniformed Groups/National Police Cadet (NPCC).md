@@ -19,6 +19,19 @@ Mondays - 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events.
 
+#### Achievements and Highlights 2025
+
+National Police Cadet Corps (NPCC) Outstanding Cadet Awards (OCA): Station Inspector Maisarah and Station Inspector Izz
+
+Unit Distinction 
+
+Sec 2 CSI Competition
+
+Sec 2 Adventure Training Camp
+
+Sec 3 National Police Annual Parade (NPAP)
+
+
 #### Achievements and Highlights 2023
 
 
