@@ -18,6 +18,20 @@ Monday : 3.30pm to 5.30pm
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 **
 
+#### Achievements and Highlights 2025
+
+Food Composting Workshops - Rebuilding of Compost Bin
+    
+Computational Thinking workshop - Soil Moisture Sensor
+    
+Greenville Okra project - collaboration with NFS unit and Science department 
+    
+Participated in Sustainability Advocacy challenge
+    
+Upcycling project - Bookmark making
+    
+Collaboration with ASPN Tanglin School on Food Composting
+
 #### Achievements and Highlights 2023
 
 Learning journey to the Green Lab
