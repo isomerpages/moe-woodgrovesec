@@ -17,6 +17,22 @@ Monday: 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events.Sessions are subject to change.
 
+#### Achievements and Highlights 2025
+
+*   Singapore Amazing Flying Machine Competition (SAFMC)
+    
+*   SYFC Interschool Aeromodelling Competition (SIAC)
+    
+*   Experiential Learning conducted by SYFC HQ personnel
+
+#### Achievements and Highlights 2024
+
+*   Singapore Amazing Flying Machine Competition (SAFMC)
+    
+*   Flight Experience Programme (FEP)
+    
+*   SYFC Interschool Aeromodelling Competition (SIAC)
+    
 #### Achievements and Highlights 2023
 
 
