@@ -19,6 +19,21 @@ Girls: Tues and Thurs 3:30 -5:30 pm 
 
 \*Additional sessions will be organised for selected students in preparation for various events. Sessions are subject to change.
 
+
+
+
+#### Achievements and Highlights 2024
+
+Boys:
+*   (Term 1) (Term 1) National School Games North Zone B Division Championships
+*   (Term 3) C Divison National School Games League 4 - Top 2 Promoted to League 3 
+    
+Girls:
+*   National School Games North Zone B Division Championships
+*  C Divison National School Games League 4
+    
+
+
 #### Achievements and Highlights 2023
 
 National School Games North Zone B Division Championships
