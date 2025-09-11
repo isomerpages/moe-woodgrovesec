@@ -19,6 +19,28 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
+#### Achievements and Highlights 2025
+
+Singapore Youth Festival Arts Presentation (Achievement)
+
+P-Arts Performance during school assembly  
+  
+Speech Day Performance
+
+Performance&nbsp;
+
+National Day Performance
+
+World of Woodgrove - School's Open House
+
+#### Achievements and Highlights 2024
+
+Speech Day Performance
+
+National Day Performance  
+
+World of Woodgrove - School's Open House
+
 #### Achievements and Highlights 2023
 
 Singapore Youth Festival Arts Presentation: Certificate of Commendation
