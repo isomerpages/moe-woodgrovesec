@@ -17,8 +17,24 @@ Monday: 3:30-5:30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events.Sessions are subject to change.
 
-#### Achievements and Highlights 2023
+#### Achievements and Highlights 2025
 
+ International Science Center Drama Competition (ISDC): Merit Award
+    
+Our Schools Our Stories Competition (OSOS)
+    
+Photography Workshop for Media Representatives for all CCAs
+
+
+#### Achievements and Highlights 2024
+
+International Science Center Drama Competition (ISDC): 2nd Place (Short Film School Category)
+    
+Best Videography & Cinematography Award
+    
+Schools Digital Media Awards 2024
+    
+#### Achievements and Highlights 2023
 
  Our Schools Our Stories Competition
 

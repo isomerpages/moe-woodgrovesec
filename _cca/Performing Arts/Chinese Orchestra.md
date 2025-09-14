@@ -17,6 +17,28 @@ Thursday : 3.30pm to 5.30pm
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
+#### Achievements and Highlights 2025
+
+Chinese New Year Celebrations Performance
+
+Singapore Youth Festival Arts Presentation (Achievement)  
+  
+Speech Day Performance
+
+Performance at St Luke Active Ageing Center (VIA)  
+  
+World of Woodgrove - School's Open House
+
+#### Achievements and Highlights 2024
+
+Chinese New Year Celebrations Performance  
+  
+Speech Day Performance
+  
+National Day School Performance  
+  
+World of Woodgrove - School's Open House
+
 #### Achievements and Highlights 2023
 
 Chinese New Year Celebrations Performance

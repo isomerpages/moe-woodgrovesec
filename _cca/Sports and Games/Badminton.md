@@ -19,6 +19,33 @@ Girls: Tues and Thurs 3:30 -5:30 pm 
 
 \*Additional sessions will be organised for selected students in preparation for various events. Sessions are subject to change.
 
+#### Achievements and Highlights 2025
+
+Boys:
+*   National School Games North Zone B Division Championships
+*   C Divison National School Games League 4
+*   Friendly matches with St Andrew's Secondary School and Clementi Town Secondary School.  
+
+
+Girls:
+*   National School Games North Zone B Division Championships
+*  C-Divison National School Games League 5 
+*   Friendly matches with Northbrooks Secondary School, Westwood Secondary School, Clementi Town Secondary School
+    
+
+
+#### Achievements and Highlights 2024
+
+Boys:
+*   National School Games North Zone B Division Championships
+*   C Divison National School Games League 4 - Top 2 Promoted to League 3 
+    
+Girls:
+*   National School Games North Zone B Division Championships
+*  C Divison National School Games League 4
+    
+
+
 #### Achievements and Highlights 2023
 
 National School Games North Zone B Division Championships

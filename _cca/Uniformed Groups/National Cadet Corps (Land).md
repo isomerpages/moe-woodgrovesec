@@ -18,6 +18,26 @@ Aside from participating in activities, competitions and camps, our cadets immer
 
 Mondays - 3:30-5:30pm
 
+#### Achievements and Highlights 2025
+
+National Cadet Corps (NCC) Outstanding Cadet Awards (OCA) 2025: Master Sergeant Garrick and Master Sergeant Dani
+
+Ex. Puncak - Mt Ophir Expedition participant: 1SG Akif
+
+Teacher Officer Promotion 2025: Mr Fariz promoted to Captain
+
+Unit Recognition (Distinction)
+
+#### Achievements and Highlights 2024
+
+National Cadet Corps (NCC) Outstanding Cadet Awards (OCA): Master Sergeant Umar and Master Sergeant Afiq
+
+Sport Championship 2024:
+Football District Champions, 
+Captain’s Ball District Champions
+
+Unit Recognition (Distinction)
+
 
 #### Achievements and Highlights 2023
 

@@ -27,6 +27,25 @@ fosters discipline, dedication, teamwork and sportsmanship.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursday: 3.30pm to 5.30pm</p>
 <p>*Additional sessions will be organised for selected students for the preparation
 of various events. Sessions are subject to change.</p>
+<h4>Achievements and Highlights 2025</h4>
+<p><strong>Girls</strong>
+</p>
+<p>National School Games North Zone B Division Championships: 1st Round</p>
+<p>National School Games C Division Championships League 3</p>
+<p><strong>Boys</strong>
+<br>National School Games North Zone B Division Championships: 1st Round</p>
+<p>National School Games C Division Boys: League 2
+<br>
+</p>
+<h4>Achievements and Highlights 2024</h4>
+<p><strong>Girls</strong>
+</p>
+<p>National School Games B Division Championships: 2nd Round</p>
+<p>National School Games C Division Girls: League 3</p>
+<p><strong>Boys</strong>
+</p>
+<p>National School Games Division Championships: 2nd Round</p>
+<p>National School Games C Division Championships: League 3</p>
 <h4>Achievements and Highlights 2023</h4>
 <p><strong>Girls</strong>
 </p>
