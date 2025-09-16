@@ -440,6 +440,18 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sarah Lah Xin Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarah_lah_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_lah_xin_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Zhuo Bing Ru</p>
 </td>
 <td rowspan="1" colspan="1">
