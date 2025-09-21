@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### Chinese Orchestra
 
-Founded in the year 2002, the Chinese Orchestra seeks to develop a strong sense of musicality and appreciation for the tenets of Chinese musical culture amongst our students. As a CCA of choice, we strongly believe in the values of perseverance, teamwork, innovation, commitment, excellence and practice in order to excel and overcome. As the Chinese saying goes, ‘熟能生巧，勤能补拙’，or ‘Practice makes perfect’; we aspire to be a world-class Chinese Orchestra with students who are confident and concerned citizens of the future.
+Established in 2002, the Chinese Orchestra is a vibrant and inclusive CCA dedicated to nurturing a lifelong passion for Chinese musical traditions. Under the dedicated guidance of professional musicians, our students receive exceptional training to master their instruments, develop musical excellence, and build a strong foundation in teamwork and discipline. We are proud to provide a dynamic platform for our young musicians to shine, from exhilarating school performances to prestigious national competitions and meaningful community outreach events. More than just a CCA, we are a close-knit family where students forge deep and lasting friendships, support one another's growth, and build immense confidence together. True to our motto, "Attaining Musicality, Bridging Destinies," we strive to create harmonious melodies that resonate not only on stage but also in the hearts of our members and the community we serve.
 
 **Training Days**
 
