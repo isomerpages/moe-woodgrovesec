@@ -84,7 +84,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:herlina_fazelyana_hanzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hamzah@moe.edu.sg</a>
+<p><a href="mailto:herlina_fazelyana_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hamzah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
