@@ -36,4 +36,4 @@ We would be delighted to meet you and welcome you into WGS!</p>
 <p>Mr Chua Chor Huat, Principal</p>
 <p>Mrs Venkatraman Chithra, Vice Principal (Curriculum)</p>
 <p>Mr Loke Kok Leong, Vice Principal (Curriculum)</p>
-<p>Ms Priscilla Tan Phaik Hoon, Vice Principal (Admin)</p>
+<p>Ms Priscilla Tan, Vice Principal (Admin)</p>
