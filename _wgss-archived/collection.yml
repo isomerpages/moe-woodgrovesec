@@ -2,6 +2,7 @@ collections:
   wgss-archived:
     output: true
     order:
+      - School Canteen Vacancies.md
       - Secondary One Infoboard (2025).md
       - Our Campus.md
       - The Woodgrove Showcase.md
