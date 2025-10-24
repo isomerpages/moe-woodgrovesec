@@ -11,7 +11,8 @@ Started in 2016, the Robotics Club aims to promote the use of ICT in students’
 
 **Training Days**
 
-Tuesdays: 3.30 to 5.30pm
+	Tuesdays: 3.30 to 5.30pm 
+	Thursdays: 3.30 to 5.30pm (Seasonal)
 
 \*Additional sessions will be organised for selected students for the preparation of various events. Sessions are subject to change.
 
