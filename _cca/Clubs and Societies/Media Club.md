@@ -13,7 +13,8 @@ Through the various activities, students cultivate teamwork and creativity. Thro
 
 **Training Days**
 
-Monday: 3:30-5:30pm
+	Mondays: 3:30 - 5:30pm
+	Thursday: 3:30 - 5:30pm (Seasonal)
 
 \*Additional sessions will be organised for selected students for the preparation of various events.Sessions are subject to change.
 
