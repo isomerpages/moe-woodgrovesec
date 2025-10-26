@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parent-Child Tool Kit
           description: Key Termly Information
-          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/landing-page
+          url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2026-prep?authuser=0
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
@@ -22,12 +22,21 @@ sections:
       size: sm
       backgroundColor: white
   - infobar:
+      title: Journeying Together
+      id: infobar
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/watch?v=w5XWnnmAk6U" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe>
+      button: Button Text
+  - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
-      title: The Woodgrove Experience
+      title: Vibrant Learning @ WGS
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
@@ -35,6 +44,7 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
       button: Button Text
+      title: Student Voices
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
@@ -44,7 +54,6 @@ sections:
       button: Button Text
   - infobar:
       title: The Woodgrove Showcase
-      subtitle: Woodgrove Showcase
       id: infobar
       description: Discover Our Works
       button: Click Here

@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon – Fri: 7am – 3pm</strong>
+<p><strong>Mon – Fri: 8am – 3pm</strong>
 </p>
 </td>
 </tr>
@@ -39,9 +39,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Please refer to the website</u></strong>
-</p>
-<p><strong><a href="https://asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg</a></strong>
+<p><a href="http://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">asenciobookshop.sg</a>
 </p>
 </td>
 </tr>
@@ -61,7 +59,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">bookshop@asencio.com.sg</a></strong>
+<p><a href="mailto:woodgrove@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">woodgrove@asencio.com.sg</a>
 </p>
 </td>
 </tr>
