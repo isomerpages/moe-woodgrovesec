@@ -54,7 +54,6 @@ sections:
       button: Button Text
   - infobar:
       title: The Woodgrove Showcase
-      subtitle: Woodgrove Showcase
       id: infobar
       description: Discover Our Works
       button: Click Here
