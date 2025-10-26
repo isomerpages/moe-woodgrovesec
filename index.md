@@ -27,7 +27,17 @@ sections:
         video player" frameborder="0" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
-      title: The Woodgrove Experience
+      title: Vibrant Learning @ WGS
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <iframe width="560" height="315"
+        src="https://www.youtube.com/watch?v=w5XWnnmAk6U" title="YouTube video
+        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe>
+      button: Button Text
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
@@ -35,6 +45,7 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
       button: Button Text
+      title: Student Voices
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/11uubTMJoww" title="YouTube video
