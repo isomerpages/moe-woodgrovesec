@@ -22,15 +22,7 @@ sections:
       size: sm
       backgroundColor: white
   - infobar:
-      description: <iframe width="560" height="315"
-        src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
-        video player" frameborder="0" allow="accelerometer; autoplay;
-        clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe>
-      title: Vibrant Learning @ WGS
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Journeying Together
       id: infobar
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/watch?v=w5XWnnmAk6U" title="YouTube video
@@ -38,6 +30,13 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
       button: Button Text
+  - infobar:
+      description: <iframe width="560" height="315"
+        src="https://www.youtube-nocookie.com/embed/jch15GegDdk" title="YouTube
+        video player" frameborder="0" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen=""></iframe>
+      title: Vibrant Learning @ WGS
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/vk_40mCqWUc" title="YouTube video
