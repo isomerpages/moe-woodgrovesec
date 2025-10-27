@@ -9,7 +9,7 @@ variant: markdown
 
 Established in 2002 with 15 students, the Environmental Science Club has played a key role in shaping environmental education in the school. The key programmes and projects of the club focus on various environmental themes such as climate action, water and energy conservation, nature and biodiversity appreciation, as well as green buildings and features. These are some of the ways through which the club creates greater awareness on environmental issues and events in the students and community.
 
-In addition, the club has supportive and strong green partners who have provided its members and other Woodgrovers various learning opportunities. This includes the Ministry of the Environment & Water Resources (MEWR), National Environment Agency (NEA), PUB (The National Water Agency), National Parks Board (NParks), Singapore Environment Council (SEC), Waterways Watch Society (WWS), SembWaste, Building and Construction Authority (BCA), Public Hygiene Council and North West CDC.
+In addition, the club has supportive and strong green partners who have provided its members and other Woodgrovers various learning opportunities. 
 
 **Training Days**
 
