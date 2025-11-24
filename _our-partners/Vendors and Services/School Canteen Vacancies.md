@@ -3,6 +3,7 @@ title: School Canteen Vacancies
 permalink: /our-partners/vendors-and-services/school-canteen-vacancies/
 description: ""
 variant: tiptap
+third_nav_title: Vendors and Services
 ---
 <p>School Canteen Advertisement</p>
 <table style="minWidth: 100px">
@@ -29,11 +30,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Cold Drink Stall</strong>
+<p><strong>JAPANESE FOOD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 October 2025</p>
+<p>10 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jan 2026 - 31 Dec 2026</p>
