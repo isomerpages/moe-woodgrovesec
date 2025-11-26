@@ -232,7 +232,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Chong Woon Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, CCE (Internal)</p>
+<p>Subject Head, CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_woon_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_woon_chin@moe.edu.sg</a>
@@ -424,7 +424,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Ayesha Thasneem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Social Studies (Internal)</p>
+<p>Subject Head, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:d_h_ayesha_thasneem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">d_h_ayesha_thasneem@moe.edu.sg</a>
@@ -514,7 +514,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Nuradila Adam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Applied Science (Internal)</p>
+<p>Subject Head, Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuradila_adam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuradila_adam@moe.edu.sg</a>
@@ -556,14 +556,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Thiam Hock, Phillip</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_thiam_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_hock@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -580,14 +579,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Lay Keow, Nicole</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher, Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_keow@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
