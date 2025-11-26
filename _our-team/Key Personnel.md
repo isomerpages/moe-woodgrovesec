@@ -14,8 +14,9 @@ variant: tiptap
 <p>Our leadership are a dedicated team of individuals who plan, oversee implementation
 of student experiences and provide guidance to both teachers and students.</p>
 <h3><strong>Year Heads &amp; Assistant Year heads</strong></h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -31,10 +32,30 @@ of student experiences and provide guidance to both teachers and students.</p>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Wing Yu Ellie</p>
+<p></p>
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Devakumar s/o Santhirasegaran</p>
@@ -45,10 +66,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p><a href="mailto:devakumar_santhirasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">devakumar_santhirasegaran@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2</p>
+<p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norazleen Bte Ayob</p>
@@ -59,10 +83,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p><a href="mailto:norazleen_ayob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norazleen_ayob@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p>Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Go Jun Hong</p>
@@ -73,33 +100,8 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p><a href="mailto:go_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">go_jun_hong@moe.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Herlina Fazelyana Hamzah</p>
 <p></p>
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:herlina_fazelyana_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hamzah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Wing Yu Ellie</p>
-<p></p>
-<p>Assistant Year Head (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 </tbody>
@@ -177,6 +179,18 @@ of student experiences and provide guidance to both teachers and students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_tai_wai_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai_wai_david@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Herlina Fazelyana Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:herlina_fazelyana_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hamzah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -618,39 +632,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_siong_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siong_leong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>Corporate Communications &amp; Partnerships</strong></h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Contact</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cher Dingxiong, Christon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Communications &amp; Partnerships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cher_dingxiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cher_dingxiong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
