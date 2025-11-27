@@ -92,7 +92,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Go Jun Hong</p>
+<p>Flavian</p>
 <p></p>
 <p>Year Head</p>
 </td>
@@ -526,7 +526,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD</p>
+<p>HOD, Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
