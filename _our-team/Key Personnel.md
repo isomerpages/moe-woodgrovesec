@@ -175,10 +175,10 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Teng Tse Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Master Teacher</p>
+<p>Master Teacher, PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pesta</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>ICT &amp; Applied Science Department</strong></h3>
+<h3><strong>ICT &amp; Applied Sciences Department</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -519,6 +519,18 @@ of student experiences and provide guidance to both teachers and students.</p>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Go Jun Hong</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
