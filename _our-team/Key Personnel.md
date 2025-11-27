@@ -399,7 +399,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Humanities Department</strong></h3>
+<h3><strong>Humanities </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -444,7 +444,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Science Department</strong></h3>
+<h3><strong>Science </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -501,7 +501,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>ICT &amp; Applied Sciences Department</strong></h3>
+<h3><strong>ICT &amp; Applied Sciences </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
