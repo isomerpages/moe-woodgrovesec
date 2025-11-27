@@ -14,9 +14,8 @@ variant: tiptap
 <p>Our leadership are a dedicated team of individuals who plan, oversee implementation
 of student experiences and provide guidance to both teachers and students.</p>
 <h3><strong>Year Heads &amp; Assistant Year heads</strong></h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -32,9 +31,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,9 +44,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -66,9 +59,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p><a href="mailto:devakumar_santhirasegaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">devakumar_santhirasegaran@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,25 +73,19 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p><a href="mailto:norazleen_ayob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norazleen_ayob@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flavian</p>
+<p>Mr Flavian Brian Fernandez</p>
 <p></p>
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:go_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">go_jun_hong@moe.edu.sg</a>
+<p><a href="mailto:flavian_brian_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">flavian_brian_fernandez@moe.edu.sg</a> 
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -399,7 +383,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Humanities </strong></h3>
+<h3><strong>Humanities Depart</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -444,7 +428,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Science </strong></h3>
+<h3><strong>Science</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -501,7 +485,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>ICT &amp; Applied Sciences </strong></h3>
+<h3><strong>ICT &amp; Applied Sciences</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -631,18 +615,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Flavian Brian Fernandez</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Curriculum &amp; Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:flavian_brian_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">flavian_brian_fernandez@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
