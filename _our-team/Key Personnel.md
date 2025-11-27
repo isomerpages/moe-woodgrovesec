@@ -13,7 +13,7 @@ variant: tiptap
 <p></p>
 <p>Our leadership are a dedicated team of individuals who plan, oversee implementation
 of student experiences and provide guidance to both teachers and students.</p>
-<h3><strong>Year Heads &amp; Assistant Year heads</strong></h3>
+<h3><strong>Year Heads &amp; Assistant Year Heads</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -37,6 +37,20 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Yeo Wing Yu Ellie</p>
+<p></p>
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Devakumar s/o Santhirasegaran</p>
 <p></p>
 <p>Year Head</p>
@@ -48,7 +62,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2</p>
+<p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norazleen Bte Ayob</p>
@@ -62,43 +76,15 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p>Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Go Jun Hong</p>
+<p>Mr Flavian Brian Fernandez</p>
 <p></p>
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:go_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">go_jun_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Herlina Fazelyana Hamzah</p>
-<p></p>
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:herlina_fazelyana_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hamzah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Wing Yu Ellie</p>
-<p></p>
-<p>Assistant Year Head (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_wing_yu_ellie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wing_yu_ellie@moe.edu.sg</a>
+<p><a href="mailto:flavian_brian_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">flavian_brian_fernandez@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -128,7 +114,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mr Justin Glen Claver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>HOD, Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:justin_glen_claver@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">justin_glen_claver@moe.edu.sg</a>
@@ -161,10 +147,34 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mr Ong Thiam Heng, Gary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Aesthetics, PE &amp; CCA</p>
+<p>HOD, Aesthetics, PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_thiam_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_thiam_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Herlina Fazelyana Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:herlina_fazelyana_hamzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">herlina_fazelyana_hamzah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teng Tse Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master Teacher, PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_tse_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_tse_sheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -206,7 +216,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mr Ng Wai Kong, Ernest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
+<p>HOD, CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_wai_kong_ernest@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wai_kong_ernest@moe.edu.sg</a>
@@ -218,7 +228,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Chong Woon Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, CCE (Internal)</p>
+<p>Subject Head, CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_woon_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_woon_chin@moe.edu.sg</a>
@@ -296,7 +306,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Indirani d/o Palaraju</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English</p>
+<p>HOD, English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:indirani_palaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indirani_palaraju@moe.edu.sg</a>
@@ -341,7 +351,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Chong Sze Khuin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue</p>
+<p>HOD, Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_sze_khuin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_sze_khuin@moe.edu.sg</a>
@@ -374,7 +384,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Humanities Department</strong></h3>
+<h3><strong>Humanities Depart</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -398,7 +408,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mrs Aw Yong Hui Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>HOD, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hui_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_peng@moe.edu.sg</a>
@@ -410,7 +420,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Ayesha Thasneem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Social Studies (Internal)</p>
+<p>Subject Head, Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:d_h_ayesha_thasneem@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">d_h_ayesha_thasneem@moe.edu.sg</a>
@@ -419,7 +429,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Science Department</strong></h3>
+<h3><strong>Science</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -443,7 +453,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Ms Sarah Lah Xin Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>HOD, Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sarah_lah_xin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_lah_xin_ying@moe.edu.sg</a>
@@ -476,7 +486,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>ICT &amp; Applied Science Department</strong></h3>
+<h3><strong>ICT &amp; Applied Sciences</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -497,10 +507,23 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Go Jun Hong</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD, Applied Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:go_jun_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">go_jun_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nuradila Adam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Applied Science (Internal)</p>
+<p>Subject Head, Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuradila_adam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuradila_adam@moe.edu.sg</a>
@@ -542,13 +565,13 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Thiam Hock, Phillip</p>
+<p>Mdm Tan Lay Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>HOD, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_thiam_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_thiam_hock@moe.edu.sg</a>
+<p><a href="mailto:tan_lay_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_koon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -561,18 +584,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_zuraidah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zuraidah_ramli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Lay Keow, Nicole</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master Teacher, Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_lay_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lay_keow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -599,18 +610,6 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Flavian Brian Fernandez</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Curriculum &amp; Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:flavian_brian_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">flavian_brian_fernandez@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Siong Leong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -623,7 +622,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Corporate Communications &amp; Partnerships</strong></h3>
+<h3><strong>Communication &amp; Partnerships</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -647,15 +646,16 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Mr Cher Dingxiong, Christon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Communications &amp; Partnerships</p>
+<p>Subject Head, Communication &amp; Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cher_dingxiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cher_dingxiong@moe.edu.sg</a>
+<p><a href="mailto:tan_siong_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cher_dingxiong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3><strong>Operations, ICT &amp; Administration</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
