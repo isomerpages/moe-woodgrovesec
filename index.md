@@ -13,7 +13,7 @@ sections:
           description: Key Termly Information
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2026-prep?authuser=0
         - title: 2026 Secondary 1 Students
-          description: ""
+          description: Welcome to Our School
           url: ""
         - title: Success Stories
           description: School of Future Ready Learners
