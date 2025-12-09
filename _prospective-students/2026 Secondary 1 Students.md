@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to Woodgrove Secondary School</strong></h3>
-<p>Compulsory: Please click this <a href="https://drive.google.com/file/d/1CJu0iVOEkg40lbUKExlouQvBev3LqOjI/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> or
+<p>Compulsory: Please click this <a href="https://drive.google.com/file/d/1ueEcWSBk7IjtcAwRiOe_akTTUzTmtEw-/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> or
 the onboarding process.</p>
-<p>*Students who wish to appeal out of the school should refer to this link.</p>
+<p>Students who wish to appeal into Woodgrove Secondary School should click
+this <a href="https://go.gov.sg/wgss1appeal2026" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p></p>
