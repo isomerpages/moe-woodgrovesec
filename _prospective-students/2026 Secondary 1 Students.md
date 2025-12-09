@@ -9,6 +9,7 @@ description: ""
 the onboarding process.</p>
 <p>Students who wish to appeal into Woodgrove Secondary School should click
 this <a href="https://go.gov.sg/wgss1appeal2026" rel="noopener nofollow" target="_blank">link</a>.</p>
-<p>For queries, please contact the school at</p>
+<p>For queries, please contact the school at 68932564 or <a href="mailto:woodgrove_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woodgrove_ss@moe.edu.sg</u></a>
+</p>
 <p></p>
 <p></p>
