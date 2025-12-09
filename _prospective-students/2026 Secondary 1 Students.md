@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Welcome to Woodgrove Secondary School</strong></h3>
-<p>Compulsory: Please click this <a href="https://drive.google.com/file/d/1ueEcWSBk7IjtcAwRiOe_akTTUzTmtEw-/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> or
+<p>Compulsory: Please click this <a href="https://drive.google.com/file/d/1ueEcWSBk7IjtcAwRiOe_akTTUzTmtEw-/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
 the onboarding process.</p>
 <p>Students who wish to appeal into Woodgrove Secondary School should register
-t their allocated secondary schools first and make an appeal via this
+to their allocated secondary schools first and make an appeal via this
 <a href="https://go.gov.sg/wgss1appeal2026" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p>For queries, please contact the school at 68932564 or <a href="mailto:woodgrove_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woodgrove_ss@moe.edu.sg</u></a>
 </p>
