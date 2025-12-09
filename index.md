@@ -14,7 +14,7 @@ sections:
           url: https://sites.google.com/moe.edu.sg/parentssupportwithwoodgrovesec/2026-prep?authuser=0
         - title: 2026 Secondary 1 Students
           description: Welcome to Our School
-          url: ""
+          url: /2026-secondary-1-students/
         - title: Success Stories
           description: School of Future Ready Learners
           url: /success-stories/permalink/
