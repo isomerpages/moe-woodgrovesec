@@ -97,8 +97,9 @@ useful.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/https___go_gov_sg_wgs_bus_booking.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
 </div>
 </td>
 </tr>
