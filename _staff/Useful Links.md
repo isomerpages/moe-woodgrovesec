@@ -68,41 +68,9 @@ useful.</p>
 <p><a href="https://sites.google.com/moe.edu.sg/wgsoutstandingcontribution/home" rel="noopener noreferrer nofollow" target="_blank">Outstanding Contribution Award</a>
 </p>
 </li>
-</ul>
-<h3>Forms</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Form Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Link</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>QR Code</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bus Booking Form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/wgs-bus-booking" rel="noopener noreferrer nofollow" target="_blank">Bus Booking Form</a>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1vdRzUQ8s-mv4sNxGc5vWuFrwT9UHNAkAlS_O3xzmmeM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Bus Booking Form </a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 <p></p>
