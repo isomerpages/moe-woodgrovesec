@@ -69,7 +69,7 @@ useful.</p>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1vdRzUQ8s-mv4sNxGc5vWuFrwT9UHNAkAlS_O3xzmmeM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Bus Booking Form </a>
+<p><a href="https://docs.google.com/spreadsheets/d/1vdRzUQ8s-mv4sNxGc5vWuFrwT9UHNAkAlS_O3xzmmeM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Bus Booking Form</a>
 </p>
 </li>
 </ul>
