@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Welcome to Woodgrove Secondary School</strong></h3>
 <p>Compulsory: Please click this <a href="https://drive.google.com/file/d/18_PB0PyMwxEjkBVqFkcDwDtli_YPUUHC/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
 the onboarding process.*</p>
-<p>*The link will be made available from <u>17th December</u>.</p>
+<p>*The link will be made available from <u>19th December</u>.</p>
 <p></p>
 <p>Students who wish to appeal to Woodgrove Secondary School should first
 register at their allocated secondary school, then submit an appeal using
