@@ -1,0 +1,4 @@
+collections:
+  seasonal:
+    output: true
+    order: []
