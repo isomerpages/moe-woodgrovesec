@@ -69,4 +69,13 @@ sections:
       url: https://ask.gov.sg/wgs
       alt: AskGov
       image: /images/wgs-askgov.png
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of GCE N Level Results
+          date: 19 December 2025
+          announcement: "Venue: School Hall d"
+          link_text: ""
+          link_url: ""
 ---
