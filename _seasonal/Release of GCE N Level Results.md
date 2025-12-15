@@ -11,5 +11,10 @@ will be released on 18 December 2025. Please take note of the following:</p>
 <p>Venue: School Hall</p>
 <p>Attire: Students must dress appropriately for school-based occasions -
 this includes turning up in school based attire with appropriate grooming.</p>
-<p>Parents may accompany their children.</p>
+<p>Parents and family members may accompany their children.</p>
+<p>Students unable to collect their results should contact the general office
+at <a href="tel:+6568932564" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6893 2564 </u></a>or
+<a href="mailto:woodgrove_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>woodgrove_ss@moe.edu.sg</u>
+</a>
+</p>
 <p></p>
