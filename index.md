@@ -24,6 +24,31 @@ sections:
       variant: center
       size: sm
       backgroundColor: white
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Release of 2025 GCE N Level Results
+          date: 18 December 2025
+          announcement: Do note that the release of the GCE N Level results will take
+            place on 18th December 2025. For more information, please refer to
+            the link below.
+          link_text: Click for Details
+          link_url: /release-of-gce-n-level-results/
+        - title: Secondary 1 Posting Results
+          date: 19 December 2025
+          announcement: Welcome to Woodgrove Secondary School!  For onboarding details and
+            appeals, refer to the link below.
+          link_text: Click for Details
+          link_url: /2026-secondary-1-students/
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION?
+      id: infopic
+      button: View or Ask Questions on Ask.Gov
+      url: https://ask.gov.sg/wgs
+      alt: AskGov
+      image: /images/wgs-askgov.png
   - infobar:
       title: Journeying Together
       id: infobar
@@ -61,29 +86,4 @@ sections:
       description: Discover Our Works
       button: Click Here
       url: /prospective-students-showcase/permalink/
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION?
-      id: infopic
-      button: View or Ask Questions on Ask.Gov
-      url: https://ask.gov.sg/wgs
-      alt: AskGov
-      image: /images/wgs-askgov.png
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Release of 2025 GCE N Level Results
-          date: 18 December 2025
-          announcement: Do note that the release of the GCE N Level results will take
-            place on 18th December 2025. For more information, please refer to
-            the link below.
-          link_text: Click for Details
-          link_url: /release-of-gce-n-level-results/
-        - title: Secondary 1 Posting Results
-          date: 19 December 2025
-          announcement: Welcome to Woodgrove Secondary School!  For onboarding details and
-            appeals, refer to the link below.
-          link_text: Click for Details
-          link_url: /2026-secondary-1-students/
 ---
