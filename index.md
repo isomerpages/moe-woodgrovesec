@@ -73,11 +73,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of GCE N Level Results
+        - title: Release of 2025 GCE N Level Results
           date: 19 December 2025
           announcement: Do note that the release of the GCE N Level results will take
             place on 19th December 2025. For more information, please refer to
             the link below.
-          link_text: ""
-          link_url: ""
+          link_text: Click for Details
+          link_url: /release-of-gce-n-level-results/
 ---
