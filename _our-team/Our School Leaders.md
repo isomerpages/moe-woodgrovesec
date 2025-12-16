@@ -18,7 +18,7 @@ national curriculum, and enriched by a wide range of programmes that encourage
 curiosity, creativity and service. We take pride in empowering our students
 through our <strong>Learning for Life Programme (LLP) in Community and Youth Leadership</strong>,
 where they are given opportunities to develop confidence, leadership and
-a strong sense of purpose. Our <strong>Applied Learning Programme (ALP) – Science for Sustainable Living</strong> further
+a strong sense of purpose. Our <strong>Applied Learning Programme (ALP) in Science for Sustainable Living</strong> further
 provides authentic platforms for students to apply STEM concepts to real-world
 issues, experiment with innovative solutions, and cultivate a sense of
 responsibility towards the environment.</p>
