@@ -35,6 +35,6 @@ can flourish.</p>
 would be our pleasure to welcome you to Woodgrove Secondary School and
 share our learning journey with you, as we partner families and the wider
 community to shape meaningful learning experiences for every Woodgrover.</p>
-<p>Ms Goh Peishi,</p>
-<p>Principal</p>
+<p>Best regards,</p>
+<p>Ms Goh Peishi, Principal</p>
 <p></p>
