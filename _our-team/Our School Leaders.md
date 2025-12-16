@@ -5,35 +5,36 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Readers,</p>
-<p>On behalf of everyone at Woodgrove Secondary School (WGS), let me extend
-a very warm welcome to our school and wonderful community.&nbsp; We hope
-our website will provide a good glimpse into the holistic and engaging
-experience we provide for all our Woodgrovers</p>
-<p>As our Woodgrovers experience the richness of the national curriculum
-and school programmes, our vision is for them to be “future-ready learners
-and thoughtful leaders”.&nbsp; We are committed to our mission of nurturing
-Woodgrovers of character with a passion for lifelong learning and active
-citizenship. &nbsp;We take pride in empowering Woodgrovers in the area
-of Student Leadership and Student Voice, where they are given various opportunities
-to improve the school learning environment and serve the wider community.
-Through our Applied Learning Programme (ALP)&nbsp; Science for Sustainable
-Living, students are given the&nbsp;platform to experiment and apply STEM
-concepts to solve problems in everyday living and address environmental
-concerns.</p>
-<p>Our school core values – “Be Your Best Self, Embrace Challenges, Practise
-Gratitude, Serve to Lead” are well-embodied by all staff and students in
-their daily activities and interactions.&nbsp; We are also very grateful
-to the strong support from our School Advisory Committee members, Alumni
-and Parents.&nbsp; With a clear focus on our school’s Vision, Mission and
-Values, it is our collective commitment in providing a safe and nurturing
-environment for all Woodgrovers to learn and grow together</p>
-<p>We are very proud of WGS and especially proud of our amazing Woodgrovers.
-Please feel free to visit us and see our wonderful school for yourself.
-We would be delighted to meet you and welcome you into WGS!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="School Leaders" src="/images/SL_02.jpg">
-</div>
-<p>Mr Chua Chor Huat, Principal</p>
-<p>Mrs Venkatraman Chithra, Vice Principal (Curriculum)</p>
-<p>Mr Loke Kok Leong, Vice Principal (Curriculum)</p>
-<p>Ms Priscilla Tan, Vice Principal (Admin)</p>
+<p>A warm welcome to Woodgrove Secondary School (WGS). Thank you for visiting
+our website — we hope it offers you a meaningful glimpse into the vibrant,
+caring and dynamic learning community that defines who we are.</p>
+<p>At WGS, our vision is to develop <strong>future-ready learners and thoughtful leaders</strong>.
+Guided by our mission to nurture Woodgrovers of character with a passion
+for lifelong learning and active citizenship, we are committed to helping
+every student discover their strengths, grow with confidence, and contribute
+positively to the world around them.</p>
+<p>Our students enjoy a rich and holistic school experience grounded in the
+national curriculum, and enriched by a wide range of programmes that encourage
+curiosity, creativity and service. We take pride in empowering our students
+through our <strong>Learning for Life Programme (LLP) in Community and Youth Leadership</strong>,
+where they are given opportunities to develop confidence, leadership and
+a strong sense of purpose. Our <strong>Applied Learning Programme (ALP) – Science for Sustainable Living</strong> further
+provides authentic platforms for students to apply STEM concepts to real-world
+issues, experiment with innovative solutions, and cultivate a sense of
+responsibility towards the environment.</p>
+<p>Our school values — <strong>Be Your Best Self, Embrace Challenges, Practise Gratitude, Serve to Lead</strong> —
+are lived out daily in our classrooms, activities and interactions. They
+guide the way we learn, work and grow together as a Woodgrove family. We
+are also deeply grateful for the strong partnership of our School Advisory
+Committee, Alumni and Parents, whose unwavering support strengthens our
+collective efforts.</p>
+<p>With a clear focus on our Vision, Mission and Values, WGS remains committed
+to providing a safe, nurturing and inspiring environment where every Woodgrover
+can flourish.</p>
+<p>We are immensely proud of our school and of our amazing Woodgrovers. It
+would be our pleasure to welcome you to Woodgrove Secondary School and
+share our learning journey with you, as we partner families and the wider
+community to shape meaningful learning experiences for every Woodgrover.</p>
+<p>Ms Goh Peishi,</p>
+<p>Principal</p>
+<p></p>
