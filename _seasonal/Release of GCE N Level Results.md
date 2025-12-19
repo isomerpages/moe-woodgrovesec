@@ -18,8 +18,7 @@ at <a href="tel:+6568932564" rel="noopener noreferrer nofollow" target="_blank">
 </a>
 </p>
 <p></p>
-<p><u>Common Queries</u>
-</p>
+<h3><strong>Common Queries</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_19_at_11_24_23_AM.jpg">
