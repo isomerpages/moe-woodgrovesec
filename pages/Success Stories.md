@@ -4,7 +4,6 @@ permalink: /success-stories/permalink/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4G_Garrick_Nah___LHWB.png">
 </div>
