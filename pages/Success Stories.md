@@ -4,8 +4,9 @@ permalink: /success-stories/permalink/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4G_Garrick_Nah___LHWB.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4G_Garrick_Nah___LHWB_updated.png">
 </div>
 <p>Garrick's story is a testament of resilience and strength, and we're proud
 to have a champion in life amongst us. In fact, many of us wouldn't have
