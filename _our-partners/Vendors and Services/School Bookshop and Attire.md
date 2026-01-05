@@ -95,17 +95,8 @@ click this <a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgr
 <p>&nbsp;24 hours a day, seven days a week</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Retail store</p>
 <p>4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,6 +109,14 @@ click this <a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgr
 <p>&nbsp;</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Enquiry form</p>
