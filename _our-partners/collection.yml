@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Vendors and Services/School Canteen Vacancies.md
       - Vendors and Services/.keep
       - Vendors and Services/School Bookshop and Attire.md
       - "Partners: Alumni.md"
