@@ -68,7 +68,7 @@ click this <a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgr
 </tbody>
 </table>
 <h3><strong><sup>2026 Textbook and Stationery List:</sup></strong></h3>
-<p>Sec 1 : <a href="https://drive.google.com/file/d/1LZ6T0UqD1HS6pUGk9y_He-3INImaIOju/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 1 Textbook and Stationery List </a>
+<p>Sec 1 : <a href="https://drive.google.com/file/d/1LZ6T0UqD1HS6pUGk9y_He-3INImaIOju/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 1 Textbook and Stationery List</a>
 </p>
 <p>Sec 2 : <a href="https://drive.google.com/file/d/1wxMmf8oN29uMli1g0jVP8EcT4FOglBTT/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 2 Textbook and Stationery List</a>
 </p>
