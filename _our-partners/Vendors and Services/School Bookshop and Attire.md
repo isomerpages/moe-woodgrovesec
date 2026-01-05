@@ -79,7 +79,6 @@ click this <a href="https://sites.google.com/moe.edu.sg/parentssupportwithwoodgr
 <p>Sec 5 : <a href="https://drive.google.com/file/d/1ZprGZOCoMhi6KotQmrt1uDpuDZ30Ijrf/view?usp=drive_link" rel="noopener nofollow" target="_blank">Secondary 5 Textbook and Stationery List</a>
 <br>
 </p>
-<p></p>
 <h4><strong>School Attire:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
