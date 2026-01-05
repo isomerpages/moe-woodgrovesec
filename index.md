@@ -21,16 +21,6 @@ sections:
       variant: center
       size: sm
       backgroundColor: white
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Secondary 1 Posting Results
-          date: 19 December 2025
-          announcement: Welcome to Woodgrove Secondary School!  For onboarding details and
-            appeals, refer to the link below.
-          link_text: Click for Details
-          link_url: /2026-secondary-1-students/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
