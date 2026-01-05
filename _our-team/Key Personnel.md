@@ -538,7 +538,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:paramjit_kaurg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paramjit_kaurg@moe.edu.sg</a>
+<p><a href="mailto:paramjit_kaurg@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">paramjit_kaur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
