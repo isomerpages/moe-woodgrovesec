@@ -39,6 +39,6 @@ community to shape meaningful learning experiences for every Woodgrover.</p>
 <p>Ms Goh Peishi, Principal</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Leaders" src="/images/School_Leaders_2026.png">
+<img style="width: 60%;" height="auto" width="100%" alt="School Leaders" src="/images/School_Leaders_2026.png">
 </div>
 <p></p>
