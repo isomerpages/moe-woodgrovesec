@@ -4,4 +4,4 @@ permalink: /our-curriculum/subject-based-banding/
 description: ""
 variant: markdown
 ---
-![](/images/FSBB_Pic_1.png)![](/images/FSBB_Pic_2.png)![](/images/FSBB_Pic_3.png)![](/images/FSBB_Pic_4.png)![](/images/FSBB_Pic_5.png)
+![](/images/2026_FSBB_Pic_1.jpg)![](/images/2026_FSBB_Pic_2.jpg)![](/images/2026_FSBB_Pic_3.jpg)![](/images/2026_FSBB_Pic_4.jpg)![](/images/2026_FSBB_Pic_5.jpg)
