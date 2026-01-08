@@ -89,9 +89,8 @@ their family, and the importance of responsible decision-making and seeking
 help. Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Woodgrove Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eteens_table.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/eteens_table.jpg">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
