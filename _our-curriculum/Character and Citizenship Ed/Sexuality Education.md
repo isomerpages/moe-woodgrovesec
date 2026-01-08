@@ -151,6 +151,7 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>10.&nbsp;&nbsp;Parents may opt their children out of the Sexuality Education
