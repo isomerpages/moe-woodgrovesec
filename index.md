@@ -21,6 +21,18 @@ sections:
       variant: center
       size: sm
       backgroundColor: white
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 14 January 2026
+          announcement: The results of the 2025 Singapore-Cambridge General Certificate of
+            Education Ordinary Level (GCE O-Level) examination will be released
+            on 14 January 2026. Please click the link for more details regarding
+            this.
+          link_text: Click for Details
+          link_url: /release-of-gce-o-level-results/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION?
@@ -66,17 +78,4 @@ sections:
       description: Discover Our Works
       button: Click Here
       url: /prospective-students-showcase/permalink/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 14 January 2026
-          announcement: The results of the 2025 Singapore-Cambridge General Certificate of
-            Education Ordinary Level (GCE O-Level) examination will be released
-            on 14 January 2026. Please click the link for more details regarding
-            this.
-          link_text: Click for Details
-          link_url: /release-of-gce-o-level-results/
 ---
