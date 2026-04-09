@@ -3,12 +3,8 @@ title: "National Digital Literacy Programme: Information for Parents"
 permalink: /personal-learning-devices/permalink/
 description: ""
 third_nav_title: Digital Literacy
+variant: markdown
 ---
-
-
-
-
-
 **1. Slides**  
 **a. Information Slides for Parents**  
  [Click Here](https://go.gov.sg/wgspdlp-parentinfo)   
@@ -26,7 +22,7 @@ third_nav_title: Digital Literacy
 
 **c. Parent Kit on Cyber Wellness for Your Child**   [Click Here](https://go.gov.sg/moe-cyber-wellness) 
 
-**d. MOE Cyber Wellness Programme**    [Click Here](https://www.moe.gov.sg/programmes/cyber-wellness/) 
+**d. MOE Cyber Wellness Programme**    [Click Here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
 **e. Media Literacy Council** [Click Here](https://go.gov.sg/better-internet-sg/) 
 
