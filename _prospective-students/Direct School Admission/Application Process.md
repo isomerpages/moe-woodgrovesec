@@ -12,8 +12,8 @@ third_nav_title: Direct School Admission
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parents and students may submit their applications from 7 May – 3 Jun&nbsp;
-2025 (application closes at 3pm).</p>
+<p>Parents and students may submit their applications from 6 May – 2 June
+2026, 4.30pm</p>
 </td>
 </tr>
 </tbody>
