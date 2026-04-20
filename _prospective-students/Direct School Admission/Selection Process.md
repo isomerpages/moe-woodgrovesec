@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Selection process takes place from 30 June to 31 July 2025</strong></h4>
-<p>Applicants will receive notification from the school by 31 July if they
+<h4><strong>Selection process takes place from 29 June to 28 July 2026</strong></h4>
+<p>Applicants will receive notification from the school by 28 August if they
 are shortlisted for the DSA selection process.</p>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 selection interview. The details of the Selection interview will be communicated
@@ -60,8 +60,8 @@ Living such as:</p>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
 <p>The school will nform <strong>all </strong>applicants on the outcomes between
-25 Aug and 4 Sep 2025, including all unsuccessful applicants.</p>
-<h4><strong>School Preference Submission: 27-31 October 2025</strong></h4>
+17 August to 28 August 2026, including all unsuccessful applicants.</p>
+<h4><strong>School Preference Submission: 19-23 October 2026</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission.&nbsp;</p>
 <p>Both parents are required to login to the DSA-Sec Portal using their Singpass
@@ -70,7 +70,7 @@ online, they can approach their child’s primary school for assistance to
 submit the school preferences on their behalf.</p>
 <p>DSA-Sec offers not taken up will be considered as lapsed at the end of
 the School Preference Submission period.</p>
-<h4><strong>Allocation Results Release: November 2025</strong></h4>
+<h4><strong>Allocation Results Release: November 2026</strong></h4>
 <h4>Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2025. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results via email.</h4>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school, and participate in the activities
