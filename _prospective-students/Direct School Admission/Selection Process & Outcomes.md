@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Selection process takes place from 29 June to 28 July 2026</strong></h4>
+<h4><strong><u>Selection process</u> </strong></h4>
+<h4><strong> from 29 June to 28 July 2026</strong></h4>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 selection interview. The details of the Selection interview will be communicated
 via email.</p>
@@ -57,7 +58,7 @@ Living such as:</p>
 </table>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
-<h4><strong>DSA Outcomes</strong></h4>
+<h4><strong><u>DSA Outcomes</u></strong></h4>
 <p>The school will inform <strong>all </strong>applicants on the outcomes
 between 17 August and 28 August 2026, including all unsuccessful applicants.</p>
 <h4><strong>School Preference Submission: 19-23 October 2026</strong></h4>
