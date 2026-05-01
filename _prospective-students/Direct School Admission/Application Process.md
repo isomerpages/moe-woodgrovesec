@@ -18,7 +18,7 @@ third_nav_title: Direct School Admission
 <td rowspan="1" colspan="1">
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 6 May 2026, 11am
-to 2 Jun 2026, 4.30pm. For more details, please refer to this <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">link.</a> 
+to 2 Jun 2026, 4.30pm. For more details, please refer to this <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">link.</a>
 </p>
 </td>
 </tr>
