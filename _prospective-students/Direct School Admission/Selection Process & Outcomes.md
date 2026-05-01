@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong><u>Selection process</u> </strong></h4>
-<h4><strong> from 29 June to 28 July 2026</strong></h4>
+<h4><strong><u>Selection process</u></strong></h4>
+<p>The selection process takes place from 29 June to 28 July 2026</p>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 selection interview. The details of the Selection interview will be communicated
 via email.</p>
