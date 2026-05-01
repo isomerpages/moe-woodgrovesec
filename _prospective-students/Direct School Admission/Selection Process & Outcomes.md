@@ -9,8 +9,6 @@ third_nav_title: Direct School Admission
 <p>The school will invite all shortlisted applicants to attend a compulsory
 selection interview. The details of the Selection interview will be communicated
 via email.</p>
-<p>The school will inform <strong>all </strong>applicants on the outcomes
-between 17 August and 28 August 2026, including all unsuccessful applicants.</p>
 <p>The Selection interview includes:</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -59,6 +57,9 @@ Living such as:</p>
 </table>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
+<h4><strong>DSA Outcomes</strong></h4>
+<p>The school will inform <strong>all </strong>applicants on the outcomes
+between 17 August and 28 August 2026, including all unsuccessful applicants.</p>
 <h4><strong>School Preference Submission: 19-23 October 2026</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission.&nbsp;</p>
