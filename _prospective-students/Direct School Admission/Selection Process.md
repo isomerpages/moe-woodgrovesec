@@ -74,5 +74,8 @@ the School Preference Submission period.</p>
 <h4>Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2026. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results via email.</h4>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school, and participate in the activities
-related to the talent area they are selected for from year 1 to 4.</p>
+related to the talent area they are selected for from year 1 to 4.
+<br>
+<br>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
 <p></p>
