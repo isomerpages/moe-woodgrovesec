@@ -23,20 +23,6 @@ related project within or outside the school.</p>
 <p>Have good conduct</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>
 <br><strong>Criteria for DSA in Talent Area 2: Science for Sustainable Development</strong>
 </p>
@@ -71,9 +57,12 @@ within or outside school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
