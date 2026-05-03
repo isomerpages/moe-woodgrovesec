@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Direct School Admission
 ---
 <h4><strong><u>Selection process</u></strong></h4>
-<p>The selection process takes place from 29 June to 28 July 2026</p>
+<p>The selection process takes place from 29 June to 28 August 2026.</p>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 selection interview. The details of the Selection interview will be communicated
 via email.</p>
@@ -59,8 +59,9 @@ Living such as:</p>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
 <h4><strong><u>DSA Outcomes</u></strong></h4>
-<p>The school will inform <strong>all </strong>applicants on the outcomes
-between 17 August and 28 August 2026, including all unsuccessful applicants.</p>
+<p>All applicants will receive their application outcomes between 17 and
+28 Aug 2026.</p>
+<p></p>
 <h4><strong>School Preference Submission: 19-23 October 2026</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission.&nbsp;</p>
