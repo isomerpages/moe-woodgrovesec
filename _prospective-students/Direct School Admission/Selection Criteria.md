@@ -45,5 +45,5 @@ within or outside school.</p>
 <p></p>
 </li>
 </ul>
-<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
-an offer\k</p>
+<p>**Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
