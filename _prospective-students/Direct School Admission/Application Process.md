@@ -5,19 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parents and students may submit their applications from 6 May – 2 June
-2026, 4.30pm</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,37 +13,13 @@ third_nav_title: Direct School Admission
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>How to apply?</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Application for DSA-Sec can be submitted through the online DSA-Sec
-Portal.&nbsp;</p>
-<p>For more details and deadlines, please refer to MOE website: <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/dsa-sec</u></a>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 Jun 2026, 4.30pm. For more details, please refer to this <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">link.</a>
 </p>
-<p></p>
-<p>2. Applicants from MOE mainstream primary schools: Parents may log in
-directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/
-guardians who are unable to apply online can approach their child’s primary
-school for assistance.</p>
-<p></p>
-<p>Instructions on Application: <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-sec-application</u></a>
-</p>
-<p></p>
-<p>3. Other applicants not studying in MOE mainstream primary schools: Parents
-need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec
-Portal.</p>
-<p></p>
-<p>Instructions on Application: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
-</p>
-<p></p>
 </td>
 </tr>
 <tr>

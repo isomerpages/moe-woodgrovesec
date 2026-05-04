@@ -1,13 +1,12 @@
 ---
-title: Selection Process
+title: Selection Process & Outcomes
 permalink: /selection-process/
 variant: tiptap
 description: ""
 third_nav_title: Direct School Admission
 ---
-<h4><strong>Selection process takes place from 29 June to 28 July 2026</strong></h4>
-<p>Applicants will receive notification from the school by 28 August if they
-are shortlisted for the DSA selection process.</p>
+<h4><strong><u>Selection process</u></strong></h4>
+<p>The selection process takes place from 29 June to 28 August 2026.</p>
 <p>The school will invite all shortlisted applicants to attend a compulsory
 selection interview. The details of the Selection interview will be communicated
 via email.</p>
@@ -59,8 +58,10 @@ Living such as:</p>
 </table>
 <p>Applicants should demonstrate relevant aptitude and potential during the
 Selection interview process.</p>
-<p>The school will nform <strong>all </strong>applicants on the outcomes between
-17 August to 28 August 2026, including all unsuccessful applicants.</p>
+<h4><strong><u>DSA Outcomes</u></strong></h4>
+<p>All applicants will receive their application outcomes between 17 and
+28 Aug 2026.</p>
+<p></p>
 <h4><strong>School Preference Submission: 19-23 October 2026</strong></h4>
 <p>Students who receive at least one DSA-Sec offer will receive an email
 and SMS notification via Postman.gov.sg on the School Preference Submission.&nbsp;</p>
@@ -71,8 +72,14 @@ submit the school preferences on their behalf.</p>
 <p>DSA-Sec offers not taken up will be considered as lapsed at the end of
 the School Preference Submission period.</p>
 <h4><strong>Allocation Results Release: November 2026</strong></h4>
-<h4>Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2026. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results via email.</h4>
+<p>Students studying in MOE mainstream schools will receive their DSA-Sec
+results together with their PSLE results by end-Nov 2026. Students who
+are not studying in MOE mainstream schools will receive their DSA-Sec results
+via email.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school, and participate in the activities
-related to the talent area they are selected for from year 1 to 4.</p>
+related to the talent area they are selected for from year 1 to 4.
+<br>
+<br>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
 <p></p>
