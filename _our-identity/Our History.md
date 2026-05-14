@@ -56,15 +56,32 @@ performances, and student-led initiatives.</p>
 <td rowspan="1" colspan="1">
 <h2>25th Anniversary Celebrations</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/416A5582_Enhanced_NR.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_PXL_20240521_084725548.jpg">
+</div>
 <p></p>
-<p>The school celebrated</p>
+<p>The school celebrated her 25th anniversary with a vibrant series of events
+held throughout the year, bringing together students, staff, alumni, and
+partners in celebration of Woodgrove’s journey and achievements. A key
+highlight was the opening of the school’s time capsule during Speech Day,
+unveiling treasured memories and messages from the past while reflecting
+on the growth of the school community over the years. The celebrations
+also featured the Woodgrove Cross Country Race, which fostered school spirit,
+resilience, and camaraderie among students and staff. Through these meaningful
+events, the school not only honoured its rich history and traditions, but
+also looked ahead with confidence and pride towards the future.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/416A5582_Enhanced_NR.jpg">
-</div>
 <p></p>
