@@ -48,7 +48,13 @@ performances, and student-led initiatives.</p>
 <td rowspan="1" colspan="1">
 <h2>20th Anniversary Celebrations</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wall_Sticker_A1_3.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wall_Sticker_A1_1.jpg">
+</div>
 <p>The school celebrated</p>
 </td>
 </tr>
