@@ -64,3 +64,7 @@ performances, and student-led initiatives.</p>
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/416A5582_Enhanced_NR.jpg">
+</div>
+<p></p>
