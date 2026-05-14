@@ -34,8 +34,20 @@ honoured the transition, celebrating the growth and progress of the schools.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_14_124813.jpg">
 </div>
 <p></p>
-<p>Dr Maliki Osman was our guest of honour, witnessing our students' talents
-at various carnival stores.</p>
+<p>The theme of the event, <em>Innov8 and Celebr8</em>, reflected the school’s
+spirit of creativity, innovation, and community celebration. We were honoured
+to have Dr Maliki Osman as our Guest of Honour, who witnessed firsthand
+the vibrancy and enthusiasm of our students as they showcased their talents
+and entrepreneurial skills through the various carnival booths and activities.</p>
+<p>The event provided students with meaningful opportunities to collaborate,
+think creatively, and engage the school community through interactive games,
+performances, and student-led initiatives.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
