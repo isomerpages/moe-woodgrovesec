@@ -55,7 +55,17 @@ performances, and student-led initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wall_Sticker_A1_1.jpg">
 </div>
-<p>The school celebrated</p>
+<p></p>
+<p></p>
+<p>As part of the school’s 20th Anniversary celebrations, the school carnival
+brought together students, staff, parents, alumni, and community partners
+in a vibrant display of joy and school spirit. Through the various games,
+performances, food stalls, and interactive activities. Students demonstrated
+leadership and teamwork as they organised booths and welcomed guests, while
+the strong participation from the wider school community highlighted the
+enduring bonds and shared memories built over the years. The carnival was
+not only a celebration of the school’s journey, but also a meaningful reminder
+of the values that continue to unite and shape the Woodgrove family.</p>
 </td>
 </tr>
 <tr>
