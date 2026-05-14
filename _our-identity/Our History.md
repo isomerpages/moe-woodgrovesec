@@ -46,9 +46,10 @@ performances, and student-led initiatives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>20th Anniversary Celebration</h2>
+<h2>20th Anniversary Milestone</h2>
 <p></p>
 <p></p>
+<p>The school celebrated</p>
 </td>
 </tr>
 </tbody>
