@@ -282,7 +282,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>English Department</strong></h3>
+<h3><strong>English &amp; Literature</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -327,7 +327,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mother Tongue Languages Department</strong></h3>
+<h3><strong>Mother Tongue Languages </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -384,7 +384,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Humanities Depart</strong></h3>
+<h3><strong>Humanities </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -544,7 +544,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mathematics Department</strong></h3>
+<h3><strong>Mathematics </strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
