@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Useful Links.md
       - Intranet Links/.keep
