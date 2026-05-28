@@ -7,6 +7,9 @@ variant: tiptap
 <p>Dear Staff,</p>
 <p>We have consolidated a list of links that you frequent. We hope this is
 useful.</p>
+<p></p>
+<p><strong>Links from MOE Intranet</strong>
+</p>
 <ul>
 <li>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">iCON mail</a>
@@ -60,9 +63,10 @@ useful.</p>
 <p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
 </p>
 </li>
-<li>
+</ul>
+<p></p>
+<p><strong>School links</strong>
+</p>
 <p><a href="https://sites.google.com/moe.edu.sg/wgs-useful-links/home" rel="noopener nofollow" target="_blank">Other School Links</a> (Requires
 Icon Login)</p>
-</li>
-</ul>
 <p></p>
