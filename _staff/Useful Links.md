@@ -7,11 +7,10 @@ variant: tiptap
 <p>Dear Staff,</p>
 <p>We have consolidated a list of links that you frequent. We hope this is
 useful.</p>
-<ul>
-<li>
-<p><a href="https://woodgrove.padlet.org/Shirley/wgs-sct-and-useful-links-for-wgs-staff-only-f0fc240vhvxtw898" rel="noopener noreferrer nofollow" target="_blank">One Stop SCT and ICT resources (Staff Only)</a>
+<p></p>
+<p><strong>Links from MOE Intranet</strong>
 </p>
-</li>
+<ul>
 <li>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">iCON mail</a>
 </p>
@@ -21,7 +20,7 @@ useful.</p>
 </p>
 </li>
 <li>
-<p><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3Di1bAbS0LcDWW-Um5nHUXQcWEZVpA9K_7MapC0UPdPk5Yx%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DYfk-_qdDamQ-Cb-0eyqCPGEChYhdVFkpHyKDIZyKMeM%26code_challenge_method%3DS256%26nonce%3Di1bAbS0LcDWW-Um5nHUXQcWEZVpA9K_7MapC0UPdPk5Yx" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
+<p><a href="https://opal2.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
 </p>
 </li>
 <li>
@@ -64,13 +63,14 @@ useful.</p>
 <p><a href="https://form.gov.sg/#!/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
 </p>
 </li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/wgsoutstandingcontribution/home" rel="noopener noreferrer nofollow" target="_blank">Outstanding Contribution Award</a>
+</ul>
+<p></p>
+<p><strong>School links</strong>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1vdRzUQ8s-mv4sNxGc5vWuFrwT9UHNAkAlS_O3xzmmeM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Bus Booking Form</a>
-</p>
+<p><a href="https://sites.google.com/moe.edu.sg/wgs-useful-links/home" rel="noopener nofollow" target="_blank">Other School Links</a> (Requires
+Icon Login)</p>
 </li>
 </ul>
 <p></p>
