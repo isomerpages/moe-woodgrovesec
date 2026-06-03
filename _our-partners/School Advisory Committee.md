@@ -12,4 +12,4 @@ variant: markdown
 | Member    |Mr Khoo Lian Wai Jimmy     | 
 | Member   |Mr Teoh Shi Hao Sean     | 
 | Member   |Mr Tan Boxin     | 
-| Principal / Honorary Secretary     | Mr Chua Chor Huat |
+| Principal / Honorary Secretary     | Ms Goh Peishi |

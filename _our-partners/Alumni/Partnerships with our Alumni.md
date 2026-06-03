@@ -1,7 +1,9 @@
 ---
-title: "Partners: Alumni"
+title: Partnerships with our Alumni
 permalink: /our-partners/partners-alumni/
 description: ""
+third_nav_title: Alumni
+variant: tiptap
 ---
 #### Alumni: Once a Woodgrover Always a Woodgrover
 

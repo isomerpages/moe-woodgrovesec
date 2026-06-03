@@ -2,9 +2,11 @@ collections:
   our-partners:
     output: true
     order:
+      - Alumni/Success Stories of our Alumni.md
+      - Alumni/Partnerships with our Alumni.md
+      - Alumni/.keep
       - Vendors and Services/.keep
       - Vendors and Services/School Bookshop and Attire.md
-      - "Partners: Alumni.md"
       - School Advisory Committee.md
       - Parents/.keep
       - Parents/Parent & Child Toolkit.md

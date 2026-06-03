@@ -1,8 +1,9 @@
 ---
-title: Success Stories
+title: Success Stories of our Alumni
 permalink: /success-stories/permalink/
 description: ""
 variant: tiptap
+third_nav_title: Alumni
 ---
 <p></p>
 <div class="isomer-image-wrapper">
