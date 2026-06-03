@@ -4,7 +4,6 @@ collections:
     order:
       - "Alumni/Partners: Alumni.md"
       - Alumni/.keep
-      - Success Stories.md
       - Vendors and Services/.keep
       - Vendors and Services/School Bookshop and Attire.md
       - School Advisory Committee.md
