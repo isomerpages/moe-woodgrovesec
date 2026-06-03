@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni/Success Stories.md
+      - Alumni/Success Stories of our Alumni.md
       - Alumni/Partnerships with our Alumni.md
       - Alumni/.keep
       - Vendors and Services/.keep
