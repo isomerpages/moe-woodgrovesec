@@ -243,7 +243,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 <p>Senior Teacher, CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lui_lai_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lui_lai_yeng@moe.edu.sg</a>
+<p><a href="mailto:lui_lai_yeng_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lui_lai_yeng_priscilla@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -327,7 +327,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mother Tongue Languages </strong></h3>
+<h3><strong>Mother Tongue Languages</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -384,7 +384,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Humanities </strong></h3>
+<h3><strong>Humanities</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -544,7 +544,7 @@ of student experiences and provide guidance to both teachers and students.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Mathematics </strong></h3>
+<h3><strong>Mathematics</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
