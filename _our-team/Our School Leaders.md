@@ -42,6 +42,6 @@ community to shape meaningful learning experiences for every Woodgrover.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="School Leaders" src="/images/School_Leaders_2026.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SL_names_pic.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_names_pic_updated.png">
 </div>
 <p></p>
