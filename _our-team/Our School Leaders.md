@@ -41,7 +41,7 @@ community to shape meaningful learning experiences for every Woodgrover.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="School Leaders" src="/images/School_Leaders_2026.png">
 </div>
-<p>(from left) Mrs Venkatraman Chithra (Vice Principal), Mr Loke Kok Leong
-(Vice Principal), Ms Goh Peishi (Principal), Ms Priscilla Tan (Vice Principal
-Admin)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_names_pic_updated.png">
+</div>
 <p></p>
